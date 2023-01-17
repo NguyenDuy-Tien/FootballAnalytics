@@ -1,0 +1,1447 @@
+name,team,age,position,apps,minutesPlayed,assistTotal,keyPassPerGame,totalPassesPerGame,passSuccess,accurateCrossesPerGame,accurateLongPassPerGame,accurateThroughBallPerGame,rating
+Lionel Messi,"PSG,",35,", AM(CR),FW",13,1132,10,2.6,59.9,83.4,0.8,2.9,1.3,8.65
+Neymar,"PSG,",30,", AM(CLR),FW",12(2),1085,9,2.7,59.9,82.6,0.7,1.9,0.6,7.96
+Erling Haaland,"Man City,",22,", FW",12(1),1041,3,1.1,14.4,76.5,0,0.1,0.2,7.9
+Kylian Mbappé,"PSG,",23,", AM(LR),FW",13(1),1146,2,1.9,34.7,84,0.4,0.3,0.1,7.87
+Kevin De Bruyne,"Man City,",31,", M(CLR),FW",13(1),1135,9,3.4,43.5,79.5,2.4,2.9,0.5,7.76
+Martin Terrier,"Rennes,",25,", AM(CL),FW",14,1204,3,1.7,37,76.4,0.2,1.4,0.2,7.76
+Robert Lewandowski,"Barcelona,",34,", FW",13(1),1068,4,1.1,20,80,0.2,0.6,0.1,7.73
+Joshua Kimmich,"Bayern,",27,", D(CR),DMC,M(R)",14(1),1277,3,2.7,78.7,89.2,2.2,5.9,0.3,7.67
+Rémy Cabella,"Lille,",32,", M(CLR),FW",8(1),724,5,3.1,57.3,86.4,1.2,1.7,0.3,7.65
+Jamal Musiala,"Bayern,",19,", M(CL)",12(2),1000,6,1.8,31.4,83.9,0,0.3,0.1,7.64
+Kieran Trippier,"Newcastle,",32,", D(LR),M(R)",15,1327,3,2.3,51.8,77.3,3.5,3.3,0.3,7.6
+Gabriel Jesus,"Arsenal,",25,", AM(LR),FW",14,1226,5,1.6,27.6,81.9,0.1,0.5,0.1,7.59
+Khvicha Kvaratskhelia,"Napoli,",21,", AM(CLR)",11(1),876,5,1.9,22.7,81.6,0.2,0.6,0.3,7.55
+Harry Kane,"Tottenham,",29,", AM(C),FW",15,1338,1,1.9,22,73.3,0.3,1.9,0.1,7.47
+Marcus Thuram,"Borussia M.Gladbach,",25,", AM(L),FW",15,1350,3,0.9,16.7,73.3,0.1,0.1,0.1,7.45
+Jude Bellingham,"Borussia Dortmund,",19,", M(CLR)",15,1350,2,1,51.9,82.5,0.1,4.1,0.2,7.45
+Vinícius Júnior,"Real Madrid,",22,", AM(L),FW",14,1231,3,1.9,33,82,0.1,0.7,0.1,7.44
+Alexandre Lacazette,"Lyon,",31,", M(CLR),FW",15,1303,3,1.7,25.5,73.1,0.2,0.7,0.1,7.44
+Christopher Nkunku,"RBL,",25,", M(CLR),FW",14(1),1283,0,1.8,27.9,82.6,0.3,1.7,0.1,7.43
+Niclas Füllkrug,"Werder Bremen,",29,", FW",14,1219,2,1.4,31.1,62.5,0.2,1.6,0,7.42
+Aleksandar Mitrovic,"Fulham,",28,", FW",12,1021,0,0.9,19.7,57.2,0,1,0.1,7.42
+Enzo Le Fée,"Lorient,",22,", M(CLR)",15,1334,3,2.7,55.7,84.8,1.1,3.5,0.3,7.42
+Victor Osimhen,"Napoli,",23,", FW",10(1),905,2,1.1,11.5,74,0,0.2,0,7.42
+Sergej Milinkovic-Savic,"Lazio,",27,", AM(C)",13(1),1157,7,1.4,52.4,76.3,0.1,2.7,0.4,7.41
+Vincenzo Grifo,"Freiburg,",29,", AM(CL)",14(1),1130,2,2.1,38.5,80.1,0.7,2.5,0.3,7.41
+Dango Ouattara,"Lorient,",20,", AM(LR)",14,1197,4,1.1,22.4,65.9,0.1,0.5,0.1,7.4
+Florian Sotoca,"Lens,",32,", AM(CR),FW",14(1),1239,5,2,39.3,81,0.6,2.5,0.4,7.4
+Rodrygo,"Real Madrid,",21,", AM(CLR),FW",10(2),914,4,1.4,27.4,88.1,0.3,0.3,0.1,7.4
+James Maddison,"Leicester,",26,", AM(CLR)",13,1100,4,2.4,39.9,84.2,0.8,2.4,0.1,7.39
+Martin Ødegaard,"Arsenal,",23,", AM(CR)",13,1083,2,1.9,42.5,81.3,0.5,1.6,0.2,7.38
+Phil Foden,"Man City,",22,", AM(CLR),FW",11(3),911,3,1.5,36.7,85.6,1.5,0.8,0.1,7.37
+Paulo Dybala,"Roma,",29,", AM(CR),FW",8(1),601,2,2.2,29.1,82.8,1.2,2,0,7.36
+Michael Gregoritsch,"Freiburg,",28,", AM(CR),FW",15,1128,3,0.7,16.8,56,0.1,0.1,0,7.36
+Bukayo Saka,"Arsenal,",21,", D(L),M(CLR)",14,1179,6,2.1,32,83.9,1.3,1,0,7.35
+Gabriel Martinelli,"Arsenal,",21,", AM(L),FW",14,1187,2,1.6,27.4,85.1,0.5,1.6,0.1,7.35
+Federico Valverde,"Real Madrid,",24,", M(CLR)",12(2),1108,2,1.7,47.5,89.5,0.1,2.2,0,7.35
+Rodri,"Man City,",26,", D(C),DMC",13,1125,3,0.8,92.5,91.1,0,5.1,0,7.34
+Benjamin André,"Lille,",32,", D(R),M(CLR)",14,1218,1,0.6,58.4,84.8,0,3.8,0.2,7.34
+Ousmane Dembélé,"Barcelona,",25,", AM(CLR),FW",11(3),874,5,2.2,32.3,84.7,1.3,1.4,0.4,7.33
+Bruno Guimarães,"Newcastle,",25,", DMC",12,999,2,1.3,52.2,83.1,0.1,3.3,0.2,7.33
+Jonathan David,"Lille,",22,", AM(C),FW",15,1331,3,1.4,22.4,83.9,0.1,0.5,0.1,7.33
+Serge Gnabry,"Bayern,",27,", AM(CLR),FW",10(5),834,3,1,24.9,83.1,0.3,0.5,0,7.33
+Amine Gouiri,"Rennes,",22,", AM(L),FW",10,794,1,1.5,21,80.5,0.5,0.9,0.1,7.32
+Rodrigo Bentancur,"Tottenham,",25,", M(C)",13(1),1186,2,0.6,48.9,86.1,0.3,1.6,0.1,7.32
+Mikel Merino,"Real Sociedad,",26,", M(C)",13(1),1129,6,1.4,46.6,77,0.1,2.1,0.1,7.31
+Ivan Toney,"Brentford,",26,", FW",14,1260,2,1.1,22.3,64.1,0.2,0.4,0.1,7.3
+Eric Choupo-Moting,"Bayern,",33,", M(CLR),FW",6(4),520,2,0.8,13.9,75.5,0.1,0.1,0.2,7.29
+Adrien Rabiot,"Juventus,",27,", DMC,M(L)",11,935,2,0.9,33.9,85.5,0.2,2,0.1,7.28
+Leroy Sané,"Bayern,",26,", M(CLR),FW",8(5),840,3,1.3,34.8,83.8,0.1,0.3,0.1,7.27
+Thomas Partey,"Arsenal,",29,", D(R),M(CR)",11,961,0,0.8,64.2,87.5,0,3.7,0.1,7.27
+Randal Kolo Muani,"Eintracht Frankfurt,",24,", AM(R),FW",13(1),1122,9,1.4,16.5,65.8,0.1,0.4,0.1,7.25
+Jonas Hofmann,"Borussia M.Gladbach,",30,", D(R),M(CLR)",13,1155,4,2.8,36.3,78.8,2.8,1.2,0.2,7.25
+Frenkie de Jong,"Barcelona,",25,", D(C),DMC",9(4),898,1,1.4,55.6,90.5,0.3,2.8,0.2,7.24
+Mário Rui,"Napoli,",31,", D(L),M(L)",11(1),977,5,2.7,57.8,83.1,2,4.8,0.1,7.23
+Dominik Szoboszlai,"RBL,",22,", AM(CLR)",11(2),953,7,2.5,41.6,83.2,1.6,2.1,0.3,7.23
+Joelinton,"Newcastle,",26,", AM(CLR),FW",12(1),1060,1,1.1,36.2,81.7,0.3,0.9,0.1,7.22
+Konstantinos Mavropanos,"Stuttgart,",24,", D(CR)",13,1149,1,0.6,47.2,79.9,0.1,5.8,0.1,7.22
+Pedri,"Barcelona,",20,", AM(CL)",12(2),1030,0,1.4,51.4,91.1,0,5.4,0.5,7.21
+Marco Verratti,"PSG,",30,", M(C)",14,1060,0,0.4,86.4,94,0,3.4,0.2,7.21
+Willi Orbán,"RBL,",30,", D(C)",15,1350,0,0.2,74.3,88.4,0,4.8,0,7.21
+Lorenzo Pellegrini,"Roma,",26,", M(CL)",13,1105,4,2.4,35.3,79.5,1.6,2.5,0.1,7.21
+Lautaro Martínez,"Inter,",25,", FW",14(1),1219,3,1.6,19.3,75.1,0,1,0.1,7.21
+Benjamin Pavard,"Bayern,",26,", D(CLR),M(R)",11(2),1018,0,0.9,67.6,89.1,0.5,2.5,0.1,7.21
+Roberto Firmino,"Liverpool,",31,", M(CLR),FW",11(2),937,3,1.3,32.4,79.6,0.1,0.5,0.3,7.2
+Antoine Griezmann,"Atletico,",31,", AM(CLR),FW",7(7),772,3,1.6,28.1,84.7,0.8,1.4,0.1,7.2
+Mattia Zaccagni,"Lazio,",27,", AM(CL),FW",13,1026,3,1,22.5,83.9,0.2,0.5,0,7.19
+Miguel Almirón,"Newcastle,",28,", AM(CLR),FW",15,1264,1,0.8,30.3,85.5,0.2,0.5,0,7.19
+Maximilian Arnold,"Wolfsburg,",28,", M(CR)",15,1310,2,1.5,42,81,1.5,6,0.3,7.19
+Brais Méndez,"Real Sociedad,",25,", AM(CR),FW",13(1),1125,2,1.3,42.7,84.3,1.3,2.7,0.2,7.18
+Armand Laurienté,"Sassuolo,",24,", AM(LR),FW",9,753,3,3.6,26,81.6,1.3,0.4,0.1,7.18
+Frank Anguissa,"Napoli,",27,", M(C)",13,1098,3,0.9,58.2,88.5,0,1.8,0,7.18
+Hakan Çalhanoglu,"Inter,",28,", M(CLR),FW",13(1),1079,4,2.1,42.7,87.5,1.9,2.1,0.2,7.17
+Joselu,"Espanyol,",32,", FW",14,1260,1,0.5,23.2,61.8,0.1,0.5,0,7.17
+Aleix García,"Girona,",25,", DMC",14,1247,3,2.5,56.8,89.7,3,3.9,0.1,7.17
+Sadio Mané,"Bayern,",30,", AM(CLR),FW",12(2),913,3,0.9,18.7,74.8,0.4,0.3,0,7.17
+Fabian Schär,"Newcastle,",30,", D(C)",14,1245,0,0.6,49.4,75.7,0.1,4.2,0,7.17
+José Gayà,"Valencia,",27,", D(L),M(L)",10,866,2,2.1,49.3,83.8,1.8,3.7,0.1,7.17
+Rafal Gikiewicz,"Augsburg,",35,", GK",11,990,0,0,39.8,60.3,0,10.5,0,7.17
+Bruno Fernandes,"Man Utd,",28,", M(CLR)",13,1170,1,2.5,47.2,77.8,0.8,2.8,0.5,7.16
+Piotr Zielinski,"Napoli,",28,", M(CLR)",11(4),917,5,2.3,33.9,84.3,1.3,1,0,7.16
+Ciro Immobile,"Lazio,",32,", FW",10(1),818,3,0.8,19.4,75.1,0,0.3,0.2,7.16
+Daichi Kamada,"Eintracht Frankfurt,",26,", AM(CLR),FW",11(2),964,3,1,40.2,84.5,0.5,1.8,0.2,7.15
+Aurélien Tchouaméni,"Real Madrid,",22,", DMC",11(1),903,2,0.8,56.1,93.2,0,1.3,0.3,7.15
+Gianluigi Donnarumma,"PSG,",23,", GK",15,1350,0,0,21.2,86.8,0,2.1,0,7.15
+João Cancelo,"Man City,",28,", D(LR),M(R)",14,1121,1,0.8,69.4,87.3,0.8,2.6,0,7.15
+Lucas Martínez,"Fiorentina,",26,", D(C)",12(1),1046,0,0.2,58.8,83.5,0,6.5,0,7.14
+Bernd Leno,"Fulham,",30,", GK",13,1170,0,0.1,30.2,74.3,0,4.9,0,7.14
+Nabil Bentaleb,"Angers,",28,", M(C)",12,1074,1,1,58.8,82.3,0.7,4.8,0.1,7.14
+Gerónimo Rulli,"Villarreal,",30,", GK",14,1260,0,0,33.8,83.7,0,5,0,7.14
+Vedat Muriqi,"Mallorca,",28,", FW",12,1043,1,1,23.6,61.1,0,0.6,0,7.14
+Moussa Diaby,"Leverkusen,",23,", M(CLR),FW",15,1257,3,1.9,27.2,80.9,0.7,0.8,0.1,7.13
+Yann Sommer,"Borussia M.Gladbach,",33,", GK",10,900,0,0,55.5,80.5,0,6.9,0,7.13
+Dodi Lukébakio,"Hertha Berlin,",25,", AM(CLR),FW",15,1266,1,0.9,19.5,72.9,0.6,0.9,0.1,7.13
+Bernardo Silva,"Man City,",28,", M(CLR),FW",12(2),1069,5,1.4,48.2,89.9,0.4,2.4,0.1,7.12
+Branco van den Boomen,"Toulouse,",27,", DMC",15,1330,4,3,54.1,82.6,2.7,8.5,0.2,7.12
+Andrei Girotto,"Nantes,",30,", D(C),DMC",14,1245,1,0.4,46.8,84.4,0.1,3.9,0,7.12
+Rafael Leão,"AC Milan,",23,", AM(L),FW",12(2),1012,4,1.6,20.8,79.4,0.6,2.1,0.1,7.12
+Kim Min-Jae,"Napoli,",26,", D(C)",14,1260,0,0.4,73.7,89.6,0.1,3.5,0,7.11
+Breel Embolo,"Monaco,",25,", AM(CR),FW",13(2),1094,2,1.3,16.5,68,0,0.3,0.1,7.1
+Ilkay Gündogan,"Man City,",32,", M(C)",10(2),894,2,1.9,48.5,89.7,0.3,2.4,0.3,7.1
+Gerard Deulofeu,"Udinese,",28,", AM(CLR),FW",15,1206,6,3.1,33.7,80.2,1.2,0.6,0,7.1
+Guido Rodríguez,"Real Betis,",28,", DMC",12,1045,0,0.4,49.6,88.7,0,2.5,0.2,7.1
+Son Heung-Min,"Tottenham,",30,", M(CLR),FW",12(1),1035,2,2.2,21,80.6,1.3,0.4,0,7.1
+Achraf Hakimi,"PSG,",24,", D(LR),M(R)",12(2),1076,1,1.3,41.9,89.2,0.6,0.2,0,7.09
+Terem Moffi,"Lorient,",23,", AM(R),FW",13(1),1043,0,0.5,12.1,74.7,0,0.1,0,7.09
+Romain Del Castillo,"Brest,",26,", AM(LR),FW",6(3),517,2,1.1,22.1,71.9,1.3,1.2,0,7.09
+Ismaël Bennacer,"AC Milan,",25,", DMC",12(3),1071,1,2,47.6,88.7,0.9,3.4,0.1,7.09
+Seko Fofana,"Lens,",27,", M(C)",12(1),1116,2,1.2,50.4,90.7,0.4,2.5,0.1,7.08
+Matthias Ginter,"Freiburg,",28,", D(CR),DMC",15,1350,1,0.4,57.7,84.2,0,4.1,0,7.08
+Rafael Tolói,"Atalanta,",32,", D(C)",10,857,0,0.8,39.7,75.3,0.1,3.5,0,7.08
+Adam Ounas,"Lille,",26,", AM(CLR),FW",7(3),665,1,1.8,26.8,80.2,0.8,1.7,0.2,7.08
+Alphonso Davies,"Bayern,",22,", D(L),M(LR)",12,1005,1,1.9,54.3,89.1,0.2,1.3,0,7.08
+Nuno Mendes,"PSG,",20,", D(L),M(L)",8(4),753,3,1.2,31.9,85.9,0.2,0.6,0.2,7.08
+Paulo Otávio,"Wolfsburg,",28,", D(L),M(L)",13,1132,4,0.8,41,75.2,0.9,2,0.1,7.07
+Pau López,"Marseille,",27,", GK",12,1080,1,0.1,31.2,75.4,0,6.3,0,7.07
+Alassane Plea,"Borussia M.Gladbach,",29,", AM(CLR),FW",10(1),830,7,1.8,30.1,71.9,0.5,1.9,0.4,7.07
+Pierre-Emile Højbjerg,"Tottenham,",27,", M(C)",14,1245,2,0.9,66.1,89.2,0.2,4.6,0.3,7.07
+Toni Kroos,"Real Madrid,",32,", M(C)",10(1),863,2,1.8,80.4,94.6,1.3,6.4,0.1,7.06
+Florian Kainz,"FC Koln,",30,", AM(CLR)",13(1),1043,4,1.9,25.9,72.5,2.1,1.1,0.2,7.06
+Casemiro,"Man Utd,",30,", DMC",7(4),709,1,0.7,44.8,79.1,0.2,3.3,0.1,7.06
+Wilfried Zaha,"Crystal Palace,",30,", AM(LR),FW",13,1149,2,1.2,24.7,82.9,0.2,0.3,0.1,7.06
+Jeremie Frimpong,"Leverkusen,",21,", D(R),M(R)",14(1),1182,2,0.9,27.5,79.2,0.4,0.6,0,7.06
+Florian Tardieu,"Troyes,",30,", M(C)",10(1),880,0,1.5,57.4,90.5,1.1,4.5,0,7.05
+Alexis Mac Allister,"Brighton,",23,", M(CL),FW",14,1257,0,0.9,57.6,88.7,0.4,2.2,0,7.05
+Leon Goretzka,"Bayern,",27,", M(CR)",9(2),706,1,1,34.5,82.1,0,0.7,0.1,7.05
+Leandro Trossard,"Brighton,",28,", M(CLR),FW",14,1183,2,1.5,30.5,74.2,0.7,1.6,0.2,7.05
+Callum Wilson,"Newcastle,",30,", FW",10(1),795,2,0.9,9.3,71.6,0.1,0.1,0,7.05
+Yeray Álvarez,"Athletic Bilbao,",27,", D(C)",12,1058,1,0.5,53.2,81.7,0.3,3.8,0.1,7.04
+Pascal Struijk,"Leeds,",23,", D(CL),DMC",13,1165,1,0.9,42.3,79.5,0.2,0.6,0,7.04
+Aleksandr Golovin,"Monaco,",26,", M(CLR)",11(3),969,3,1.6,26.1,75.3,0.8,1.1,0.1,7.04
+Ivan Provedel,"Lazio,",28,", GK",14(1),1342,0,0.1,32.9,75.7,0,8.1,0,7.04
+Felipe Anderson,"Lazio,",29,", M(CLR),FW",15,1226,2,1.5,31.2,79.9,0.1,0.5,0,7.03
+Nicolò Barella,"Inter,",25,", AM(C)",15,1288,5,1.4,45.1,84,0.5,1.6,0.1,7.03
+Thiago Silva,"Chelsea,",38,", D(C)",11(1),1073,2,0.3,74.7,89.6,0,5,0,7.03
+Jonathan Clauss,"Marseille,",30,", D(R),M(R)",14,1112,5,1.6,33.7,76.3,1,0.9,0,7.03
+Ardian Ismajli,"Empoli,",26,", D(C)",10(1),935,0,0.1,36.9,81.5,0,2,0,7.03
+Téji Savanier,"Montpellier,",30,", M(C)",12,1024,1,2,51.2,77.7,1.8,4.8,0.2,7.03
+Juan Cuadrado,"Juventus,",34,", D(R),M(CLR),FW",13(1),1029,3,1.8,36.6,85.7,1.6,2.6,0,7.03
+Granit Xhaka,"Arsenal,",30,", D(L),M(C)",14,1169,3,1.4,44.5,85.1,0.1,2,0,7.03
+Alisson,"Liverpool,",30,", GK",14,1260,1,0.1,30.4,81.6,0,4.4,0,7.03
+Jaka Bijol,"Udinese,",23,", D(C),M(C),FW",12,941,0,0.1,35.9,85.4,0,2,0.1,7.03
+Alessio Romagnoli,"Lazio,",27,", D(CL)",13(1),1195,0,0.1,49,89.5,0,3.4,0.1,7.03
+Enes Ünal,"Getafe,",25,", FW",14,1220,2,0.7,20.3,63.7,0.1,0.3,0.1,7.03
+Ramy Bensebaïni,"Borussia M.Gladbach,",27,", D(CL),DMC,M(L)",14,1251,0,0.6,40.3,77,0.1,2.2,0.2,7.02
+Fabiano Parisi,"Empoli,",22,", D(L)",14,1222,0,1,35.1,75.2,0.6,2,0,7.02
+Manuel Locatelli,"Juventus,",24,", M(C)",12,978,0,0.6,44.4,83.3,0,3.7,0,7.02
+Frederik Rønnow,"Union Berlin,",30,", GK",11,990,0,0.1,36.2,67.3,0,7.5,0,7.02
+Mama Baldé,"Troyes,",27,", D(R),M(CLR),FW",14(1),1212,3,0.8,15.4,70.6,0.1,0.4,0,7.02
+Nico Schlotterbeck,"Borussia Dortmund,",23,", D(C)",15,1285,2,0.3,69.7,86.4,0.1,5.6,0.1,7.02
+Benjamin Bourigeaud,"Rennes,",28,", M(CLR)",15,1190,4,2.8,42.3,78.6,1.9,2.1,0.1,7.02
+Theo Hernández,"AC Milan,",25,", D(L),M(L)",13,1155,2,1.6,39.7,79.5,1,2.2,0.1,7.01
+Mats Hummels,"Borussia Dortmund,",33,", D(C)",13,1062,0,0.2,62.3,88.5,0.1,5.8,0,7.01
+Rasmus Nicolaisen,"Toulouse,",25,", D(C)",14,1197,2,0.1,45,82.4,0,2.9,0,7.01
+Mitchell Weiser,"Werder Bremen,",28,", D(R),M(R)",15,1290,6,1.3,32.1,71.2,0.5,1.9,0.3,7.01
+Ibañez,"Roma,",24,", D(C)",15,1350,0,0.1,56.5,89.3,0,3.5,0.1,7.01
+Dusan Vlahovic,"Juventus,",22,", FW",10,854,1,1.1,17.1,71.3,0.2,0.8,0,7
+Sergi Darder,"Espanyol,",28,", M(CL)",14,1235,1,2.2,39.5,78.8,1.4,3.6,0.1,7
+Rúben Neves,"Wolves,",25,", DMC",14,1260,0,0.9,61.3,85.1,0.1,7.1,0,7
+Anton Stach,"Mainz,",24,", M(C)",12(1),1018,3,1.1,30,70,0.5,1.1,0.3,7
+Alejandro Balde,"Barcelona,",19,", D(LR)",12,973,3,0.7,49.9,91.7,0.4,1.8,0,7
+Caio Henrique,"Monaco,",25,", D(L),M(CL)",12(1),1086,5,1.8,40.8,78.5,0.9,1.8,0,7
+Diogo Dalot,"Man Utd,",23,", D(LR),M(R)",13,1166,1,1.5,46.2,77.8,0.9,2.9,0,7
+Isi Palazón,"Rayo Vallecano,",27,", AM(R)",12(1),997,3,1.3,31.9,84.3,1.2,1.5,0.1,7
+Julian Brandt,"Borussia Dortmund,",26,", M(CLR),FW",12(3),1060,2,2.1,33,82.6,1.2,1.2,0.1,6.99
+Nicolás Tagliafico,"Lyon,",30,", D(CL),M(L)",15,1329,2,0.8,47.6,88.1,0.3,1.1,0,6.99
+Eberechi Eze,"Crystal Palace,",24,", AM(CLR)",14,1148,3,1.7,34.5,84.5,0.9,1.4,0.1,6.99
+James Tarkowski,"Everton,",30,", D(C)",15,1350,0,0.4,48.6,81.6,0,3.9,0.1,6.99
+Wataru Endo,"Stuttgart,",29,", DMC",14,1215,0,1.2,39.6,75.9,0,2.8,0,6.99
+Axel Disasi,"Monaco,",24,", D(C)",15,1350,3,0.3,48.3,82.5,0.2,3.3,0,6.99
+Ben Mee,"Brentford,",33,", D(CL)",14,1210,1,0.1,47.1,78,0,3.1,0,6.99
+Iago Aspas,"Celta Vigo,",35,", AM(CR),FW",12(2),1121,2,2.6,31.8,79.6,0.2,1.4,0.1,6.99
+Wout Faes,"Leicester,",24,", D(C)",9,810,0,0.2,70.3,85.9,0,2.6,0,6.99
+Jean-Ricner Bellegarde,"Strasbourg,",24,", M(CLR)",15,1300,3,1.7,41.7,80.7,2,1.8,0.1,6.99
+Marvin Ducksch,"Werder Bremen,",28,", FW",15,1307,3,1.9,25.1,71.9,0.8,1.1,0.1,6.98
+Kevin Danso,"Lens,",24,", D(C)",15,1350,1,0.3,62.2,88.9,0,2.7,0.1,6.98
+Mohamed Salah,"Liverpool,",30,", AM(CLR),FW",14,1239,3,2.1,25.4,76.4,0.3,0.5,0,6.98
+Teun Koopmeiners,"Atalanta,",24,", D(C),M(C)",14(1),1296,1,1.3,42.9,76.4,1.1,2.5,0.1,6.98
+Danilo,"Juventus,",31,", D(CLR),DMC",14(1),1272,2,0.5,49.7,83.4,0.2,3.9,0.1,6.98
+Koen Casteels,"Wolfsburg,",30,", GK",15,1350,0,0,38,74,0,11.8,0,6.98
+Darwin Núñez,"Liverpool,",23,", AM(CL),FW",7(3),606,2,1.3,13.6,74.3,0.1,0.5,0,6.98
+Lee Kang-In,"Mallorca,",21,", AM(CLR),FW",13(1),1097,3,1.6,21.8,82.3,1.4,0.9,0.1,6.97
+Gabriel Magalhães,"Arsenal,",24,", D(C)",14,1260,0,0.1,62.5,89.9,0,2.4,0,6.97
+Jonathan Bamba,"Lille,",26,", AM(CLR),FW",14(1),1256,3,1.6,37.9,82.6,0.5,0.9,0.3,6.97
+Dejan Kulusevski,"Tottenham,",22,", AM(CR),FW",7(2),615,5,1.9,22.2,84.5,0.6,0.3,0.1,6.97
+Jordan Pickford,"Everton,",28,", GK",14,1260,1,0.1,31.6,55.7,0,8.1,0.1,6.97
+Gaëtan Laborde,"Nice,",28,", AM(CLR),FW",8(2),735,0,1.3,18.7,70.1,0.2,0.4,0.1,6.97
+Daniel Parejo,"Villarreal,",33,", M(C)",14,1230,2,1.4,59.5,89,1,5,0.3,6.97
+Alexis Flips,"Reims,",22,", M(CR)",8(3),645,2,1.5,23.6,69.6,1.5,1.8,0.1,6.97
+Youri Tielemans,"Leicester,",25,", M(C)",14(1),1172,1,1.2,54.7,86.4,0.4,2.5,0.2,6.97
+Dayot Upamecano,"Bayern,",24,", D(C)",15,1342,0,0.3,81,90.5,0.1,5.3,0,6.97
+Alfonso Pedraza,"Villarreal,",26,", D(L),M(L)",10,808,1,0.6,26.9,79.9,0.4,0.5,0,6.97
+Samuel Lino,"Valencia,",22,", AM(LR),FW",14,1216,0,1,32,82.6,0.2,0.6,0,6.97
+Sheraldo Becker,"Union Berlin,",27,", AM(CLR),FW",15,1066,3,1.4,13.2,69.2,1.1,0.7,0.1,6.96
+Rodrigo,"Leeds,",31,", M(CLR),FW",12(1),895,1,0.8,19.9,72.6,0.2,1,0,6.96
+Alex Berenguer,"Athletic Bilbao,",27,", D(LR),M(CLR),FW",12(1),1032,1,1.8,27.4,74.2,1.2,0.7,0,6.96
+Vinicius Souza,"Espanyol,",23,", DMC",14,1194,0,0.5,33.6,81.9,0.1,2.1,0,6.96
+Giovanni Di Lorenzo,"Napoli,",29,", D(CLR),M(R)",15,1339,2,1.5,58.5,88.5,0.4,2.8,0,6.96
+Iñaki Williams,"Athletic Bilbao,",28,", AM(CLR),FW",14,1149,1,1.1,18.1,70.5,0.2,0.3,0.1,6.96
+Declan Rice,"West Ham,",23,", D(C),DMC",15,1350,2,1.3,61.4,90.4,0.1,4.7,0,6.96
+Fikayo Tomori,"AC Milan,",24,", D(CR)",14(1),1284,0,0.2,54,88.5,0,5.3,0,6.96
+Rony Lopes,"Troyes,",26,", AM(CLR),FW",9(2),644,4,1.5,17.3,81.1,1.1,1.3,0,6.95
+Rodrigo Becão,"Udinese,",26,", D(C)",9,783,1,0.4,41.1,79.5,0,2.4,0,6.95
+Nico Williams,"Athletic Bilbao,",20,", AM(R)",13(1),1076,3,1.4,21.9,79.1,0.6,0.2,0,6.95
+Ozan Kabak,"Hoffenheim,",22,", D(C)",14,1257,2,0.3,54.4,85.4,0,2.6,0,6.95
+João Palhinha,"Fulham,",27,", DMC",14,1253,0,0,34,83,0,2.1,0,6.95
+Azor Matusiwa,"Reims,",24,", DMC",9,785,0,0.6,42.6,81.7,0,3.2,0,6.95
+Jeremías Ledesma,"Cadiz,",29,", GK",14,1260,0,0.1,27,48.1,0,7.4,0,6.95
+Nuno Tavares,"Marseille,",22,", D(L),M(L)",11(3),1102,0,0.7,34.5,80.3,0.6,1.4,0.1,6.95
+Alexander Sørloth,"Real Sociedad,",27,", AM(R),FW",10,825,1,1.2,16,69.4,0,0.1,0,6.95
+Rafael Ratão,"Toulouse,",27,", AM(R)",10(1),717,0,1.1,25.7,73.5,0.4,0.6,0.1,6.95
+Jordi Alba,"Barcelona,",33,", D(L),M(L)",7(3),683,1,1.9,63.5,87.9,1.1,3.1,0.2,6.95
+Luka Modric,"Real Madrid,",37,", M(C)",11(2),934,2,1.6,57.8,90.7,0.5,2.8,0.4,6.95
+Edin Dzeko,"Inter,",36,", FW",10(5),937,2,0.8,16.5,72.9,0,0.7,0.3,6.94
+Sofiane Boufal,"Angers,",29,", AM(CLR),FW",8(3),720,3,2.2,31.2,80.2,0.5,1.4,0.2,6.94
+Stefano Sensi,"Monza,",27,", AM(C)",12(1),942,0,1.3,56.2,88.9,0.7,4.5,0.1,6.94
+Federico Fazio,"Salernitana,",35,", D(C)",9,810,0,0.2,46.4,78.9,0,2.9,0,6.94
+Maxime Dupé,"Toulouse,",29,", GK",15,1350,0,0,31.5,73.5,0,5.9,0,6.94
+Jordan Siebatcheu,"Union Berlin,",26,", FW",12(1),852,3,0.9,12.2,51.9,0,0.1,0,6.94
+Wissam Ben Yedder,"Monaco,",32,", AM(C),FW",11(2),814,2,0.7,18.3,79.8,0.1,0.2,0,6.94
+Marcus Tavernier,"Bournemouth,",23,", M(CLR)",15,1289,4,1,27.3,76.5,1.2,0.8,0,6.94
+Ritsu Doan,"Freiburg,",24,", AM(CLR),FW",13(2),1079,2,1,19.7,74,0.3,0.6,0,6.94
+Álvaro Morata,"Atletico,",30,", AM(L),FW",12(2),853,1,0.6,12.6,61.9,0.1,0.3,0,6.94
+Stanislav Lobotka,"Napoli,",28,", DMC",13(2),1217,1,0.6,57.5,94,0,2.7,0,6.93
+Ludovic Blas,"Nantes,",24,", M(CLR),FW",12(3),1142,1,1.1,28.7,85.1,0.6,2.7,0,6.93
+Malo Gusto,"Lyon,",19,", D(R),M(R)",14,1218,1,1.3,61.1,85.2,1.9,2.4,0,6.93
+Jonas Hector,"FC Koln,",32,", D(L),M(CL)",13,1160,1,1.2,44.8,78.7,0.5,2.8,0,6.93
+Karl Toko-Ekambi,"Lyon,",30,", AM(LR),FW",11(4),1029,1,1.5,29.1,84.4,0.3,1.3,0.1,6.93
+Giacomo Bonaventura,"Fiorentina,",33,", M(CLR)",11(1),933,0,1,35,86.4,0.5,2,0.1,6.93
+Tetê,"Lyon,",22,", AM(R)",11(2),879,2,0.5,28.3,82.1,0.4,0.6,0,6.93
+Philip Billing,"Bournemouth,",26,", M(C)",13(2),1143,1,0.6,24.7,77,0.1,0.5,0,6.92
+Jordi Masip,"Real Valladolid,",33,", GK",9,810,0,0,31.4,64.3,0,5.4,0,6.92
+Guglielmo Vicario,"Empoli,",26,", GK",15,1350,0,0,35.3,66.8,0,5.8,0,6.92
+Wojciech Szczesny,"Juventus,",32,", GK",9,763,0,0,24.3,67.1,0,5.4,0,6.92
+Youssouf Fofana,"Monaco,",23,", DMC",14,1166,0,0.7,41,81.7,0,2.2,0.3,6.92
+Youcef Atal,"Nice,",26,", D(R),M(R)",7(5),623,0,0.8,26.3,83.5,0.7,1.3,0,6.92
+Christoph Baumgartner,"Hoffenheim,",23,", AM(CLR),FW",15,1157,2,0.7,27.1,72,0.3,1.1,0,6.92
+Bremer,"Juventus,",25,", D(C)",13,1127,0,0.2,60.4,91,0,3.2,0,6.92
+Filip Kostic,"Juventus,",30,", M(LR),FW",13(2),1072,5,2.1,26,80.5,1.7,1.1,0,6.91
+Raphinha,"Barcelona,",25,", AM(LR),FW",6(7),570,2,1.5,23.8,79.4,1.1,1.3,0.2,6.91
+Joachim Andersen,"Crystal Palace,",26,", D(C)",13,1170,0,0.3,66.5,81,0,6.6,0,6.91
+Pascal Groß,"Brighton,",31,", M(CR),FW",14,1197,2,1.9,36.9,77.5,1.2,1.6,0.1,6.91
+Cristiano Biraghi,"Fiorentina,",30,", D(L),M(L)",13(1),1143,2,2.9,48.4,78.3,3.4,2.6,0,6.91
+Éder Militão,"Real Madrid,",24,", D(CR)",10(2),912,0,0.3,46.3,88.3,0,2.7,0,6.91
+Solly March,"Brighton,",28,", M(CLR)",14,1219,2,1.2,34.3,76.7,0.9,2.2,0,6.91
+Moisés Caicedo,"Brighton,",21,", DMC",14,1248,0,1.1,53.9,87.3,0.3,2.2,0.1,6.91
+Rominigue Kouamé,"Troyes,",25,", M(C)",14,1238,1,0.9,45.9,88.3,0.1,2.1,0.1,6.91
+Tomás Soucek,"West Ham,",27,", DMC",15,1309,1,0.5,35.1,76.9,0.1,2.2,0,6.91
+Mory Diaw,"Clermont Foot,",29,", GK",15,1350,0,0.1,30.3,62.3,0,7.9,0,6.9
+Lucas Tousart,"Hertha Berlin,",25,", DMC",14,1248,0,0.4,25.9,65.6,0.1,1,0,6.9
+Moses Simon,"Nantes,",27,", M(CLR),FW",13,1103,2,2.2,19.9,74.1,1.2,0.5,0.1,6.9
+Marc-André ter Stegen,"Barcelona,",30,", GK",14,1260,0,0.1,32.7,83.8,0,6.6,0,6.9
+Timo Werner,"RBL,",26,", AM(CLR),FW",7(2),649,1,0.4,20.7,74.7,0,0.8,0,6.9
+Giorgos Kyriakopoulos,"Sassuolo,",26,", D(L),M(L)",9(2),728,1,1.3,26.7,81.6,1.2,2.1,0,6.9
+Éric Ebimbe,"Eintracht Frankfurt,",22,", M(CR)",7(3),711,1,0.8,26.8,72,0.1,0.4,0,6.9
+Nicolas Pépé,"Nice,",27,", AM(LR),FW",10(2),922,0,1.3,30.8,83,0.8,0.7,0.1,6.9
+Borna Sosa,"Stuttgart,",24,", D(L),M(L)",10(2),880,5,2.4,35.8,79.8,3.1,1.6,0,6.9
+David Raya,"Brentford,",27,", GK",15,1350,0,0.1,38.1,63.2,0,10.4,0,6.89
+Adrien Truffert,"Rennes,",21,", D(L),M(L)",13(2),1117,4,0.5,41.4,80.4,0.3,0.9,0,6.89
+Marc Oliver Kempf,"Hertha Berlin,",27,", D(C)",15,1296,0,0.1,41.8,77.7,0,2.3,0,6.89
+Federico Dimarco,"Inter,",25,", D(CL),M(L)",13(2),1052,0,1.7,33.9,78.1,2.3,3.2,0,6.89
+Chris Smalling,"Roma,",33,", D(CR)",14(1),1322,0,0.1,38.9,88.2,0,1.9,0,6.89
+Álvaro García,"Rayo Vallecano,",30,", AM(L)",13,1103,1,1,21.5,72.8,0.8,0.4,0,6.89
+Sergio Busquets,"Barcelona,",34,", DMC",11(1),910,1,0.6,57.2,89.1,0.1,3.6,0.3,6.89
+Jackson Porozo,"Troyes,",22,", D(C)",11,959,0,0.1,33.3,82,0,1.1,0,6.88
+Mark Flekken,"Freiburg,",29,", GK",15,1350,0,0.1,38.3,71.6,0,9.8,0,6.88
+Iker Muniain,"Athletic Bilbao,",29,", AM(CLR)",10(1),793,1,1.8,43.1,87.8,1.1,1.2,0.2,6.88
+Emiliano Martínez,"Aston Villa,",30,", GK",15,1295,0,0.1,29,68.7,0,6.1,0.1,6.88
+Raphaël Guerreiro,"Borussia Dortmund,",28,", D(L),M(CL)",12,1035,2,1.2,54,85.3,0.6,1.5,0.1,6.88
+Hirving Lozano,"Napoli,",27,", AM(LR),FW",8(6),723,3,1.2,14.9,77.5,0.6,0.1,0,6.88
+Rasmus Kristensen,"Leeds,",25,", D(R),M(R)",12,1051,1,0.6,40.6,67.6,0.5,1.1,0,6.88
+Ionut Radu,"Cremonese,",25,", GK",9,810,0,0.2,33.1,63.1,0,5.6,0,6.88
+Alexis Sánchez,"Marseille,",33,", M(CLR),FW",10(2),862,0,1.6,26.7,81.6,0.1,1.2,0.1,6.88
+Youssoufa Moukoko,"Borussia Dortmund,",18,", FW",8(6),767,3,0.5,9.4,71.2,0,0.1,0.1,6.88
+Ben White,"Arsenal,",25,", D(CR),DMC",14,1157,2,0.8,54,86.4,0.4,1.8,0.1,6.88
+Przemyslaw Frankowski,"Lens,",27,", M(CLR)",11(4),1009,2,1.5,34,82.7,1.4,1.5,0,6.88
+Borja Iglesias,"Real Betis,",29,", FW",12(1),965,2,0.7,16.2,73.5,0,0.3,0.2,6.87
+Reinildo,"Atletico,",28,", D(CL),M(L)",14,1239,0,0.5,48.6,86.9,0.3,1.3,0,6.87
+Paul Joly,"Auxerre,",22,", D(R)",10,867,0,0.7,53.4,81.1,0.8,5.4,0,6.87
+Copete,"Mallorca,",23,", D(C)",12,1001,0,0.1,32.3,80.7,0,3.1,0,6.87
+David da Costa,"Lens,",21,", AM(CL)",13(2),996,3,1.4,30.6,84.3,0.2,0.7,0,6.87
+Roberto Pereyra,"Udinese,",31,", M(CLR),FW",15,1297,5,1.5,36.3,83.5,0.5,1.4,0,6.87
+Merih Demiral,"Atalanta,",24,", D(C)",12(1),1074,0,0.2,30.5,83.1,0,2.2,0,6.87
+Mikel Vesga,"Athletic Bilbao,",29,", DMC",10(3),924,2,1,44.1,82,0.2,3.1,0,6.87
+Olivier Giroud,"AC Milan,",36,", FW",9(4),769,3,0.8,13.6,63.3,0,0,0,6.87
+Mohamed Camara,"Monaco,",22,", DMC",9(2),802,0,0.7,38.7,90.1,0.1,2.5,0.1,6.87
+Aarón Martín,"Mainz,",25,", D(L),M(L)",15,1246,2,1.3,29.9,83.5,1.8,1.6,0,6.86
+Nikola Milenkovic,"Fiorentina,",25,", D(CR)",9(2),836,1,0.5,45.1,84.9,0,2.9,0,6.86
+Marquinhos,"PSG,",28,", D(CR),DMC",12(2),1104,0,0.2,55.6,95.1,0,2.1,0,6.86
+Benoît Badiashile,"Monaco,",21,", D(C)",9(2),839,0,0.1,42.5,86.1,0,3.9,0,6.86
+Alexander Nübel,"Monaco,",26,", GK",15,1350,0,0.1,25.5,67.1,0,7.6,0,6.86
+Suat Serdar,"Hertha Berlin,",25,", M(CLR)",13(1),978,0,0.6,22.4,71.9,0.1,1.1,0,6.86
+Oliver Baumann,"Hoffenheim,",32,", GK",15,1350,0,0.1,39.7,80.2,0,6.5,0,6.86
+Destiny Udogie,"Udinese,",20,", M(L)",11,964,1,0.9,30.7,82,0,0.8,0,6.86
+Chancel Mbemba,"Marseille,",28,", D(CLR),DMC",15,1306,0,0.1,50.4,85.1,0.1,2.4,0,6.86
+Davide Frattesi,"Sassuolo,",23,", DMC",15,1221,0,0.9,26.8,77.1,0,1.9,0.1,6.86
+Chimy Avila,"Osasuna,",28,", AM(LR),FW",11(2),846,1,1,16.2,60.2,0.9,1.6,0,6.86
+Deiver Machado,"Lens,",29,", M(L)",12(1),1014,1,0.5,22.5,88,0.7,0.5,0,6.85
+Julian Ryerson,"Union Berlin,",25,", D(R),M(CLR)",12(1),1042,0,0.6,26.1,73.5,0.7,1.2,0.1,6.85
+Joe Willock,"Newcastle,",23,", M(C)",13(2),1121,2,1.1,26.9,85.6,0.5,1.3,0,6.85
+Alexander Djiku,"Strasbourg,",28,", D(CR),DMC",14,1181,1,0.3,53.6,82.2,0.1,6,0,6.85
+Timothy Castagne,"Leicester,",27,", D(CLR),M(LR)",13(1),1192,2,0.7,40.8,80.6,0.6,1.1,0.1,6.85
+Hamza Sakhi,"Auxerre,",26,", AM(C)",14(1),1199,1,1.8,40.4,87.3,0.9,5.1,0.2,6.85
+Nick Pope,"Newcastle,",30,", GK",15,1350,0,0,18.8,53.5,0,4.1,0,6.85
+Ismaily,"Lille,",32,", D(L)",11(1),968,1,0.9,45.5,79.3,0.2,0.5,0,6.85
+Christopher Lenz,"Eintracht Frankfurt,",28,", D(L),M(L)",4(5),469,2,1,22.9,81.1,1,1.1,0,6.84
+Kingsley Coman,"Bayern,",26,", M(LR),FW",5(4),529,3,1.8,26.6,85.4,0.4,0.8,0.1,6.84
+André Almeida,"Valencia,",22,", M(C)",8(3),708,2,0.9,29.5,85.8,0.4,0.8,0.1,6.84
+Ademola Lookman,"Atalanta,",25,", AM(CLR),FW",10(5),864,1,1.2,16.9,79.8,0.5,0.2,0.1,6.84
+Exequiel Palacios,"Leverkusen,",24,", M(C)",7(3),567,1,0.6,36.1,85.9,0.2,1.1,0,6.84
+Nicolas Höfler,"Freiburg,",32,", D(C),DMC",15,1296,1,0.2,41.4,84.7,0,1.5,0,6.84
+Wladimiro Falcone,"Lecce,",27,", GK",15,1350,0,0,28.7,49.8,0,6.1,0,6.84
+Neto Borges,"Clermont Foot,",26,", D(L),M(L)",12,994,0,1.3,34.7,80.3,1,0.8,0,6.84
+Simone Bastoni,"Spezia,",26,", D(L),DMC,M(L)",10(1),811,2,1.4,27.1,69.5,1.5,0.8,0.1,6.84
+Sandro Tonali,"AC Milan,",22,", DMC",11(2),1030,2,1.8,34.8,76.8,0.8,2.9,0.1,6.84
+Carlos Augusto,"Monza,",23,", D(L),M(L)",14,1222,1,0.2,41.3,85.1,0,0.8,0.1,6.84
+Junior Messias,"AC Milan,",31,", AM(CR),FW",9(2),717,1,0.7,21.6,74.8,0.1,0.7,0.1,6.83
+James Ward-Prowse,"Southampton,",28,", M(CR)",15,1350,2,2,50.8,83.2,2.1,2.1,0,6.83
+Bryan Cristante,"Roma,",27,", D(C),M(C)",15,1241,0,0.5,48.9,81.9,0.2,3.7,0.1,6.83
+Christian Kouamé,"Fiorentina,",25,", AM(LR),FW",12(2),1012,2,1.6,23.9,73.7,0.6,0.8,0,6.83
+Mason Mount,"Chelsea,",23,", M(CLR)",13(1),1038,2,1.3,31.8,80.7,0.9,1.3,0.1,6.83
+Franck Honorat,"Brest,",26,", M(LR),FW",13(2),1166,1,2.3,25.3,73.1,2.3,0.8,0,6.83
+William Saliba,"Arsenal,",21,", D(C)",14,1246,1,0.2,67.1,92.1,0.1,2.6,0,6.83
+Dani Olmo,"RBL,",24,", AM(CLR),FW",7(3),534,2,1.6,25.6,79.7,0.2,0.6,0.6,6.83
+Dominic Solanke,"Bournemouth,",25,", FW",12(1),1078,3,0.5,14,72.5,0,0.2,0,6.83
+Kevin Gameiro,"Strasbourg,",35,", FW",12(3),1068,0,0.9,27.9,80.6,0.3,0.4,0.2,6.83
+Moi Gómez,"Osasuna,",28,", M(CLR)",14,1147,1,2.1,38.9,86.9,1.5,3.4,0.1,6.83
+Gabriel Strefezza,"Lecce,",25,", M(LR)",11(2),897,0,0.8,18.8,65.6,0.8,1.6,0.1,6.83
+Raúl Albiol,"Villarreal,",37,", D(C)",13,1160,0,0,60.1,88.5,0,5.2,0,6.83
+Junya Ito,"Reims,",29,", AM(LR),FW",11(1),915,1,1.9,20.8,68.4,0.8,0.3,0.3,6.83
+Trent Alexander-Arnold,"Liverpool,",24,", D(R),M(R)",12(2),994,0,1.9,54.6,77.5,2.1,4.6,0.1,6.83
+Jesper Lindstrøm,"Eintracht Frankfurt,",22,", AM(CR),FW",12(2),921,0,0.7,16.1,69.3,0.2,0.1,0.1,6.82
+Manuel Neuer,"Bayern,",36,", GK",12,1080,0,0,35.2,87,0,5.9,0,6.82
+Philipp Hofmann,"Bochum,",29,", FW",12(3),1063,1,0.9,19.1,60.6,0,0.1,0,6.82
+Marko Arnautovic,"Bologna,",33,", AM(CLR),FW",13,1106,0,1.5,24.5,72.1,0.1,0.5,0,6.82
+Valentin Rongier,"Marseille,",28,", D(R),M(C)",12(2),1087,0,1,54.6,89,0.1,2.1,0,6.82
+Luigi Sepe,"Salernitana,",31,", GK",15,1350,0,0,31.7,63.4,0,5.9,0,6.82
+Ermedin Demirovic,"Augsburg,",24,", AM(L),FW",15,1152,2,0.9,15.7,47.7,0.3,0,0.1,6.82
+Matthijs de Ligt,"Bayern,",23,", D(C)",9(3),768,0,0.2,52.2,91.9,0,1.8,0,6.82
+Edgar González,"Real Betis,",25,", D(C),DMC",9(2),844,0,0.1,39.1,88.8,0,2,0,6.82
+Georginio Rutter,"Hoffenheim,",20,", FW",11(4),1010,2,0.7,9.8,63.9,0.1,0.5,0,6.82
+Danilo Pereira,"PSG,",31,", D(C),DMC",8(3),688,0,0.1,45.7,93.4,0,1.9,0,6.82
+Mario Götze,"Eintracht Frankfurt,",30,", M(CLR),FW",15,1254,1,1.3,47.1,77.9,0.4,1,0.4,6.82
+Jonathan Gradit,"Lens,",30,", D(CR)",10,799,2,0.4,59.4,91.6,0.1,2.6,0,6.82
+Mërgim Berisha,"Augsburg,",24,", AM(C),FW",10,790,4,1.5,13.5,50.4,1.3,0.4,0,6.82
+Morten Hjulmand,"Lecce,",23,", DMC",14,1175,2,0.6,31.9,76.9,0,2.3,0,6.81
+Matteo Politano,"Napoli,",29,", AM(CLR),FW",7(7),607,3,1.5,19.4,79.4,0.5,1,0.1,6.81
+Tammy Abraham,"Roma,",25,", FW",12(3),1049,1,1.1,14.8,74.3,0.1,0.6,0.1,6.81
+Armel Bella-Kotchap,"Southampton,",20,", D(C)",11,906,1,0.2,37.6,76.6,0,2.1,0,6.81
+Ridle Baku,"Wolfsburg,",24,", D(R),M(CR)",14(1),1282,1,1,40.3,78.5,0.5,2.7,0.1,6.81
+Angeliño,"Hoffenheim,",25,", D(L),M(L)",13(1),1175,3,2.1,33.9,69,2.3,1.8,0,6.81
+Sven Botman,"Newcastle,",22,", D(C)",12(1),1059,0,0.5,43.6,85.7,0,3.3,0,6.81
+Etienne Capoue,"Villarreal,",34,", D(C),M(CL)",10,840,0,0.3,44.8,88.4,0,1.3,0.1,6.81
+David Soria,"Getafe,",29,", GK",14,1260,0,0.1,25.5,51,0,9.6,0,6.8
+Manu Koné,"Borussia M.Gladbach,",21,", DMC",14,1226,1,0.6,46.2,86.6,0,1,0,6.8
+Rúben Dias,"Man City,",25,", D(C)",9(3),872,0,0.2,74.5,92.2,0,1.9,0,6.8
+Nicolò Rovella,"Monza,",21,", DMC",9(1),804,0,1.4,65.1,89.2,0.5,5.6,0,6.8
+Marcus Rashford,"Man Utd,",25,", AM(CLR),FW",13(1),1130,2,0.7,21.7,75.7,0.3,0.9,0.1,6.8
+William Carvalho,"Real Betis,",30,", DMC",12(1),931,0,0.3,49.5,86.2,0.1,1.8,0.2,6.8
+Neco Williams,"Nottingham Forest,",21,", D(LR),M(LR)",12(3),1078,0,0.7,26.8,68.7,0.9,1.7,0.1,6.8
+Boulaye Dia,"Salernitana,",26,", AM(R),FW",10(4),961,2,0.9,14.7,77.7,0.1,0.4,0.1,6.8
+Folarin Balogun,"Reims,",21,", FW",12(3),1080,1,0.7,12.5,66,0.1,0.1,0.1,6.8
+Andrew Robertson,"Liverpool,",28,", D(L),M(L)",10(2),864,4,2,52.2,83.2,2.3,1.3,0,6.79
+Gédéon Kalulu,"Lorient,",25,", D(R)",12,1080,3,0.9,39.2,79.8,0.3,1.6,0,6.79
+Marshall Munetsi,"Reims,",26,", D(C),DMC",10(2),905,0,0.8,24.4,72.7,0.1,1.1,0,6.79
+Kalidou Koulibaly,"Chelsea,",31,", D(C)",8(1),744,0,0.2,67.6,85.2,0,4,0,6.79
+Eray Cömert,"Valencia,",24,", D(C)",10(1),872,0,0.2,50,87.8,0,3.6,0,6.79
+Kenny Tete,"Fulham,",27,", D(CR),M(R)",8(1),710,3,0.6,29.3,73.9,0.4,1.1,0,6.79
+Aaron Cresswell,"West Ham,",32,", D(CL),M(L)",14,1242,0,2.1,48.2,81.3,1.9,2.7,0.1,6.79
+Michael Olise,"Crystal Palace,",20,", AM(CLR)",8(5),754,2,1.5,25.7,78.7,1.1,0.8,0,6.79
+Stijn Spierings,"Toulouse,",26,", M(C)",15,1350,0,0.7,57.7,84.9,0.1,4.2,0,6.78
+José Giménez,"Atletico,",27,", D(CR)",8(1),734,0,0,40.3,87.3,0,3.1,0,6.78
+Lisandro Martínez,"Man Utd,",24,", D(CL),DMC",14,1206,0,0.1,57.6,86.4,0,2.2,0.1,6.78
+Virgil van Dijk,"Liverpool,",31,", D(C)",14,1260,0,0.1,81.1,88.8,0,4.6,0,6.78
+Laurent Abergel,"Lorient,",29,", DMC",10,810,1,0.7,37.5,90.4,0,1.3,0.3,6.78
+Rui Silva,"Real Betis,",28,", GK",12,1080,0,0,29.1,65.6,0,7.4,0,6.78
+Stefan de Vrij,"Inter,",30,", D(C)",11(1),995,0,0,47.8,88,0,1.4,0,6.78
+Anthony Rouault,"Toulouse,",21,", D(C)",15,1343,0,0.2,51.7,87.9,0,3.5,0,6.78
+Che Adams,"Southampton,",26,", AM(CL),FW",12(2),1067,1,1.1,17.6,70.7,0.1,1.1,0.1,6.78
+Ellyes Skhiri,"FC Koln,",27,", DMC",14,1260,0,1.1,51.6,89.1,0.1,2.5,0,6.78
+Lukasz Fabianski,"West Ham,",37,", GK",15,1245,0,0,21.3,64.9,0,5.5,0,6.78
+Fernando Martínez,"Almeria,",32,", GK",13,1170,0,0,30.8,67.5,0,5.1,0,6.78
+Mouctar Diakhaby,"Valencia,",25,", D(C)",10,794,0,0.2,44.2,84.4,0,5.1,0,6.78
+Harvey Barnes,"Leicester,",24,", AM(CL)",13,1091,0,0.5,23.1,75.3,0,0.4,0.1,6.78
+Eric García,"Barcelona,",21,", D(C)",8(1),610,0,0,55.3,91.4,0,3.4,0,6.78
+Salis Abdul Samed,"Lens,",22,", DMC",15,1350,0,0.6,59.9,92.3,0.1,1.6,0.1,6.78
+Florian Niederlechner,"Augsburg,",32,", AM(CR),FW",10(4),912,1,0.4,13.7,60.4,0,0.1,0,6.78
+Oriol Romeu,"Girona,",31,", DMC",11,990,0,0.5,50.4,88.4,0.2,3.1,0,6.78
+Hamari Traoré,"Rennes,",30,", D(R),M(R)",13(1),1183,1,0.6,56.9,87.8,0.7,2.1,0,6.77
+Noussair Mazraoui,"Bayern,",25,", D(LR)",6(5),553,3,0.9,34.5,87.9,0.2,0.4,0.1,6.77
+Leonardo Balerdi,"Marseille,",23,", D(C)",14(1),1203,1,0.1,47.1,85.4,0,3.5,0,6.77
+Sergio Escudero,"Real Valladolid,",33,", D(L),M(L)",9,711,0,0.8,29.4,73.6,0.7,1.2,0,6.77
+David García,"Osasuna,",28,", D(C)",12,1042,0,0.2,39.1,80.4,0,4,0,6.77
+Loïs Openda,"Lens,",22,", FW",11(4),947,0,0.6,11.9,70.8,0.1,0.1,0.1,6.77
+Stefan Savic,"Atletico,",31,", D(C)",10,886,0,0.1,51,87.8,0,3.4,0,6.77
+Álex Moreno,"Real Betis,",29,", D(L),M(L)",13,1170,3,0.7,36.4,78.6,0.2,1.2,0,6.77
+Pasquale Mazzocchi,"Salernitana,",27,", D(R),M(LR)",15,1208,2,1.7,27.7,80.3,1.1,1.5,0.1,6.77
+Ben Davies,"Tottenham,",29,", D(CL),M(L)",11(1),995,1,0.9,53.2,86.7,0.3,2.8,0,6.77
+Karim Onisiwo,"Mainz,",30,", AM(LR),FW",15,1309,1,1.4,20.5,61.9,0.5,0,0,6.76
+Felix Nmecha,"Wolfsburg,",22,", M(C)",6(7),665,2,0.5,15,71.8,0,0.5,0.1,6.76
+Marius Wolf,"Borussia Dortmund,",27,", D(R),M(CLR)",5(5),516,1,0.9,23.6,73.3,0.5,1.4,0,6.76
+Andreas Pereira,"Fulham,",26,", M(CLR)",15,1251,4,2.3,25.1,68.1,2.3,1.6,0,6.76
+Sergio Ramos,"PSG,",36,", D(CR)",12(1),1012,1,0.1,67.6,95.6,0.2,4.2,0,6.76
+Jordan Veretout,"Marseille,",29,", M(C)",10(5),983,2,0.6,43.7,86.4,0.2,2.7,0.1,6.76
+Eric Dier,"Tottenham,",28,", D(CR),DMC",14(1),1285,0,0.3,66.7,87.6,0.1,5.1,0,6.76
+Dan Burn,"Newcastle,",30,", D(CL),M(L)",14(1),1227,0,0.3,36.8,79.9,0.1,1.7,0,6.76
+Mohamed Simakan,"RBL,",22,", D(CR)",9(1),673,1,0.2,50.6,84.2,0.1,2.4,0.1,6.76
+Gavi,"Barcelona,",18,", AM(CL)",9(5),803,1,1.2,29.7,90.6,0.2,1.1,0.1,6.76
+Gregor Kobel,"Borussia Dortmund,",25,", GK",11,990,0,0,34.6,81.1,0,5.5,0,6.76
+Gonzalo Plata,"Real Valladolid,",22,", AM(R)",6(4),594,2,1.1,19.5,79,0.1,0.2,0.1,6.75
+Dante,"Nice,",39,", D(C)",14,1260,0,0.1,69.6,91.3,0,4.9,0,6.75
+Denzel Dumfries,"Inter,",26,", D(R),M(R)",13(2),1085,2,1.1,20.9,78.3,0.5,0.7,0,6.75
+Yunis Abdelhamid,"Reims,",35,", D(C)",15,1350,0,0.3,42.2,81.2,0,3,0,6.75
+Vicente Guaita,"Crystal Palace,",35,", GK",14,1260,0,0,27.1,74.4,0,5.8,0,6.75
+Johan Gastien,"Clermont Foot,",34,", DMC",14,1218,2,1,73.1,84.6,0.6,5.7,0,6.75
+César Azpilicueta,"Chelsea,",33,", D(CLR),M(R)",7(4),672,0,0.8,39.8,83.1,0.3,0.3,0,6.75
+Steve Mandanda,"Rennes,",37,", GK",13,1126,1,0.1,25.7,68,0,7.6,0,6.75
+Lazar Samardzic,"Udinese,",20,", M(C)",4(10),523,1,1,17.1,87.4,0.5,2.1,0,6.75
+Mario Lemina,"Nice,",29,", DMC",10(1),728,0,0.3,51.9,90.4,0,2,0,6.75
+Alex Iwobi,"Everton,",26,", M(CLR)",15,1333,5,1.8,40,82,0.3,2.1,0.1,6.75
+Dejan Ljubicic,"FC Koln,",25,", M(CR)",7(2),565,0,1.1,21,81,0.2,1.4,0.2,6.75
+Jimmy Cabot,"Lens,",28,", M(LR)",5(6),508,1,1.5,23,83.4,1.2,1.2,0.1,6.75
+Silas Mvumpa,"Stuttgart,",24,", M(LR),FW",13(1),1051,2,0.8,13.4,78.6,0.4,0.2,0,6.74
+Ante Rebic,"AC Milan,",29,", AM(CLR),FW",4(6),429,2,0.8,13.3,60.9,0.2,0.5,0.2,6.74
+James Justin,"Leicester,",24,", D(CLR),M(LR)",14,1254,0,0.5,48.7,81.5,0.5,1.9,0,6.74
+Óscar Trejo,"Rayo Vallecano,",34,", M(CLR),FW",11(1),849,2,1.5,31,83.6,0.2,0.8,0.3,6.74
+Azzedine Ounahi,"Angers,",22,", AM(CR)",13(1),1106,0,1.2,40.8,88.6,0.2,2.2,0.1,6.74
+Facundo Medina,"Lens,",23,", D(CL)",14,1226,1,0.4,79.1,89.4,0.1,3,0.1,6.74
+Ola Aina,"Torino,",26,", D(CLR),M(LR)",7(3),582,0,0.7,26.2,77.9,0.7,1,0,6.74
+Alidu Seidu,"Clermont Foot,",22,", D(CR)",14,1215,0,0.4,43.5,90,0.4,1.6,0,6.74
+Nemanja Gudelj,"Sevilla,",31,", D(C),M(C)",12,1036,0,0.2,44.3,91.9,0,1.3,0,6.74
+Vanderson,"Monaco,",21,", D(R),M(R)",9(5),857,1,0.4,32,81.5,0.5,2.4,0,6.74
+Cheick Oumar Doucouré,"Crystal Palace,",22,", DMC",12,970,1,0.8,40.3,87,0.1,1.8,0.1,6.74
+Brice Samba,"Lens,",28,", GK",15,1350,0,0.1,29.7,72.6,0,6.3,0,6.74
+Lewis Ferguson,"Bologna,",23,", M(C)",6(3),512,0,0.3,24.2,81.7,0.2,0.6,0.1,6.74
+Martín Zubimendi,"Real Sociedad,",23,", DMC",13(1),1151,2,0.4,47.5,84.5,0,2.3,0.1,6.74
+Emmanuel Agbadou,"Reims,",25,", D(C),DMC",11(1),970,0,0.2,40.1,84.4,0,3.4,0.3,6.74
+Edu Expósito,"Espanyol,",26,", M(C)",10(3),781,2,1.1,22.4,77.3,0.4,1.2,0.1,6.74
+Federico Baschirotto,"Lecce,",26,", D(C)",15,1350,0,0.1,36.5,75.7,0.1,3.6,0.1,6.73
+Lars Stindl,"Borussia M.Gladbach,",34,", M(CLR),FW",8(3),685,5,1.5,23.7,78.2,0.5,0.5,0.2,6.73
+Johann Lepenant,"Lyon,",20,", M(C)",9(3),833,0,0.3,49.7,88.4,0,2.6,0,6.73
+Óscar Rodríguez,"Celta Vigo,",24,", AM(CLR)",12(1),1003,0,1.1,42.9,84.6,0.8,2.5,0,6.73
+Farès Chaïbi,"Toulouse,",20,", Midfielder",9(4),835,4,1.1,20.5,74.5,0.2,0.7,0.2,6.73
+Nicolás Domínguez,"Bologna,",24,", M(C)",11(2),971,1,1.1,35.1,81.1,0,1.8,0.3,6.73
+Thierry Correia,"Valencia,",23,", D(R),M(R)",14,1214,0,0.6,49.4,80.5,1,2.9,0,6.73
+Montassar Talbi,"Lorient,",24,", D(C)",15,1350,1,0.2,46.2,88.7,0,1.5,0,6.73
+Bryan Mbeumo,"Brentford,",23,", AM(LR),FW",15,1134,1,1,18.1,73.4,0.8,0.7,0.1,6.73
+Javi Galán,"Celta Vigo,",28,", D(L),M(L)",14,1256,1,1.3,43,81.6,0.8,1.8,0,6.73
+Arkadiusz Milik,"Juventus,",28,", AM(C),FW",7(5),709,0,0.4,16.8,80.1,0,0.3,0.1,6.73
+Mounaïm El Idrissy,"AC Ajaccio,",23,", FW",12(2),1065,0,0.4,17.4,73.8,0.1,0.3,0,6.73
+Quentin Merlin,"Nantes,",20,", D(L),M(L)",13,1133,1,1.7,47.8,80.2,1.8,3.2,0,6.73
+Philipp Lienhart,"Freiburg,",26,", D(C)",15,1348,0,0.1,62.7,86.6,0,4.6,0.1,6.73
+Mohammed Salisu,"Southampton,",23,", D(CL)",14,1260,1,0.3,49.7,78.9,0.2,3.3,0.1,6.72
+Nikola Vlasic,"Torino,",25,", AM(CLR),FW",14(1),1281,2,1.6,27.9,79.7,0.3,0.5,0,6.72
+Takefusa Kubo,"Real Sociedad,",21,", AM(CLR),FW",10(2),850,2,1,22,78.4,0.6,0.3,0,6.72
+Milos Veljkovic,"Werder Bremen,",27,", D(C),DMC",12,1036,0,0.1,47.8,81,0,5.3,0,6.72
+Jonjoe Kenny,"Hertha Berlin,",25,", D(LR),M(R)",15,1350,1,0.7,39.1,75.6,0.5,2.9,0,6.72
+Leonardo Sernicola,"Cremonese,",25,", M(R)",10(2),905,1,0.9,19.1,71.2,1.3,0.9,0,6.72
+Santi Comesaña,"Rayo Vallecano,",26,", M(C)",8(4),734,0,1,29,84.2,0,1.3,0,6.72
+Óscar Valentín,"Rayo Vallecano,",28,", DMC",11(3),961,0,0.7,33.6,84.5,0.1,2.3,0,6.72
+Brian Oliván,"Espanyol,",28,", D(CL)",14,1212,3,1.3,28.8,71,1.3,2.5,0,6.72
+Brenden Aaronson,"Leeds,",22,", AM(CLR)",14,1196,2,1.9,28.6,80,0.8,0.4,0.1,6.72
+Vitinha,"PSG,",22,", M(C)",10(3),843,0,0.3,50.4,93.6,0,1.3,0,6.72
+Samu Castillejo,"Valencia,",27,", AM(CLR)",8(2),618,0,1.2,22.3,86.5,0.6,0.9,0,6.72
+Luke Shaw,"Man Utd,",27,", D(CL),M(L)",9(1),786,1,1.3,54,85,0.8,1.8,0,6.71
+Flavien Tait,"Rennes,",29,", M(CLR)",12(3),1047,0,0.9,42,85.7,0.1,2.7,0.1,6.71
+Habib Diallo,"Strasbourg,",27,", AM(R),FW",13(2),1132,0,0.5,17.4,70.5,0,0.3,0.1,6.71
+Hugo Lloris,"Tottenham,",35,", GK",15,1350,0,0,25.1,77.5,0,4.7,0,6.71
+Luca Pellegrini,"Eintracht Frankfurt,",23,", D(L),M(L)",7(2),559,0,0.9,32.6,72.7,0.9,2.4,0.1,6.71
+Maxime Estève,"Montpellier,",20,", D(C)",8(4),808,0,0.1,28.1,79.8,0,1.5,0,6.71
+Nico Elvedi,"Borussia M.Gladbach,",26,", D(CLR)",13,1126,0,0.3,64.2,92.4,0,2.2,0,6.71
+Joe Gomez,"Liverpool,",25,", D(CLR)",9(3),885,0,0.1,69.7,85,0,4.2,0,6.71
+Walace,"Udinese,",27,", DMC",15,1285,0,0.5,48.1,84.3,0.1,2.4,0,6.71
+Óscar De Marcos,"Athletic Bilbao,",33,", D(LR),M(CR)",13(1),1079,3,1.3,41,80.7,1.4,1.7,0,6.71
+Alejandro Catena,"Rayo Vallecano,",28,", D(C)",14,1260,1,0.2,55.1,82.9,0,7.4,0.1,6.71
+Brahim Díaz,"AC Milan,",23,", AM(CLR)",10(3),664,1,1.2,17.1,78.4,0.1,0.4,0,6.71
+Kaoru Mitoma,"Brighton,",25,", M(L)",2(7),311,1,1.1,15.9,81.8,0,0,0.1,6.71
+Mattéo Guendouzi,"Marseille,",23,", M(C)",12(2),1054,2,0.7,42.4,86.2,0.1,2.3,0,6.71
+Djibril Sow,"Eintracht Frankfurt,",25,", M(C)",13(2),1169,0,0.7,44.9,86.5,0.1,1.3,0,6.71
+Marc Roca,"Leeds,",26,", DMC",14,1042,1,0.8,42.1,82.2,0.1,2.5,0,6.71
+Antonio Raíllo,"Mallorca,",31,", D(C)",13,1170,0,0.2,36.3,86.4,0,2.6,0,6.71
+Mathias Autret,"Auxerre,",31,", M(CLR)",11(2),869,2,1.2,26.6,82.1,1,3.6,0.1,6.71
+Lucas Robertone,"Almeria,",25,", AM(C)",13(1),1026,1,1.1,27.6,83.4,1,1.5,0.1,6.71
+Ivan Perisic,"Tottenham,",33,", M(CLR),FW",9(6),833,4,1.6,21,74.6,1.9,1,0,6.7
+Kiernan Dewsbury-Hall,"Leicester,",24,", M(C)",14(1),1139,2,1.5,37.9,78.7,0.2,2,0.1,6.7
+Danny Welbeck,"Brighton,",32,", AM(CLR),FW",11(2),998,2,1,14.4,82.9,0,0.1,0.1,6.7
+Yeremy Pino,"Villarreal,",20,", AM(LR)",9(4),700,0,0.6,17.5,80.2,0.2,0.4,0,6.7
+Christian Günter,"Freiburg,",29,", D(L),M(L)",15,1316,1,2,31.1,76.6,1.9,1.8,0,6.7
+Santiago Bueno,"Girona,",24,", D(C)",14,1260,1,0.2,58,87.2,0.1,4.1,0,6.7
+Rolando Mandragora,"Fiorentina,",25,", DMC",10(3),870,1,1,33.6,86.5,0.6,2.6,0.1,6.7
+Kevin Stöger,"Bochum,",29,", M(CL)",13(1),1205,1,2.4,47.3,74.9,1.2,4.2,0.4,6.7
+Amadou Onana,"Everton,",21,", DMC",12(2),1038,1,0.5,27.1,80.8,0,1,0.1,6.7
+Julien Laporte,"Lorient,",29,", D(C)",15,1350,0,0.1,42.5,86.3,0,3.3,0,6.7
+Aaron Ramsey,"Nice,",31,", M(CLR)",5(7),574,0,0.8,30.2,87.8,0.6,1.8,0,6.7
+Elye Wahi,"Montpellier,",19,", AM(L),FW",14,1175,1,0.5,13.9,68,0,0.2,0,6.7
+Nicolas Pallois,"Nantes,",35,", D(C)",14,1190,0,0.1,43.5,85.4,0,3.9,0,6.7
+Xaver Schlager,"RBL,",25,", M(C)",9(2),829,0,0.4,47.7,86.1,0.1,3.5,0.1,6.7
+Nordi Mukiele,"PSG,",25,", D(CR),M(R)",6(7),675,1,0.2,29.5,90.6,0,0.6,0,6.7
+Marcel Sabitzer,"Bayern,",28,", M(CLR),FW",7(7),626,1,0.4,32.4,87.9,0,0.9,0,6.7
+Mathias Jensen,"Brentford,",26,", M(C)",15,1138,3,1.5,33.9,77,1.4,3.3,0.1,6.7
+Aaron Ramsdale,"Arsenal,",24,", GK",14,1260,0,0,24,63.1,0,4.5,0,6.7
+Javi Sánchez,"Real Valladolid,",25,", D(C)",12,1007,0,0.1,39.1,85.7,0,3.3,0,6.7
+Guillermo Maripán,"Monaco,",28,", D(C)",9(1),766,0,0.1,35.6,88.2,0,2.2,0,6.7
+Patric,"Lazio,",29,", D(CR),M(R)",9,754,0,0,56.1,87.3,0,5.7,0,6.7
+Saïd Benrahma,"West Ham,",27,", AM(CLR)",7(6),749,1,1.2,20.2,86.6,0.3,0.5,0,6.7
+Jack Harrison,"Leeds,",26,", AM(CLR),FW",12(1),945,3,1.8,26,71.6,1,0.6,0.1,6.69
+Kyle Walker-Peters,"Southampton,",25,", D(LR),M(R)",11,955,0,0.6,31.1,75.7,0.4,1.1,0,6.69
+Daniel Amartey,"Leicester,",27,", D(CR),DMC",10(2),914,0,0.3,53.4,91.1,0,1.9,0.2,6.69
+Íñigo Martínez,"Athletic Bilbao,",31,", D(C)",9,810,0,0.4,55.8,85.7,0,5.6,0,6.69
+Marco Friedl,"Werder Bremen,",24,", D(CL),M(L)",14,1157,0,0.5,52.9,82.7,0.6,6.4,0,6.69
+Vitaly Janelt,"Brentford,",24,", DMC",11(4),993,1,0.4,28.7,86.5,0.1,2.1,0,6.69
+Joe Aribo,"Southampton,",26,", M(CLR),FW",10(5),948,0,0.6,20.4,73.9,0,0.3,0,6.69
+Perr Schuurs,"Torino,",23,", D(C)",9(1),709,0,0,29.9,84.3,0,1.8,0,6.69
+Emil Holm,"Spezia,",22,", M(R)",12(2),1035,1,0.9,22.1,64.2,0.4,0.2,0,6.69
+Zeki Çelik,"Roma,",25,", D(R),M(R)",6(4),637,0,1.2,31.9,76.2,0.4,1.9,0,6.69
+Thiago Mendes,"Lyon,",30,", D(CR),M(CR)",14,1171,1,0.2,64.3,84.2,0,3.7,0.1,6.69
+Jonas Omlin,"Montpellier,",28,", GK",10,808,0,0,25.9,68.3,0,4.1,0,6.69
+John Stones,"Man City,",28,", D(CR)",8(1),731,2,0.6,68.6,94.7,0,2.6,0,6.68
+Yannick Gerhardt,"Wolfsburg,",28,", D(L),M(CL)",8(2),700,0,0.9,23.9,74.9,0.2,1,0,6.68
+Emanuel Aiwu,"Cremonese,",21,", D(C)",11(2),969,0,0.2,33.2,81.2,0.1,1.5,0.1,6.68
+Nathan Patterson,"Everton,",21,", D(R),M(R)",8(2),765,0,0.3,27.5,79.6,0.1,0.9,0,6.68
+Oihan Sancet,"Athletic Bilbao,",22,", M(C),FW",13(1),949,0,1,25.5,86.8,0,0.6,0.1,6.68
+Illan Meslier,"Leeds,",22,", GK",14,1260,0,0,24.7,54.9,0,3,0,6.68
+Arnau Martinez,"Girona,",19,", D(R)",10(1),814,1,1.4,33.8,81.2,0.5,0.8,0,6.68
+Roque Mesa,"Real Valladolid,",33,", DMC",11(1),869,1,1,38.8,84.1,0.2,4.7,0.2,6.68
+Dennis Geiger,"Hoffenheim,",24,", M(C)",14,1014,2,1.6,32.5,87,0.5,2.3,0,6.68
+Tiago Djaló,"Lille,",22,", D(CLR)",13(1),1109,0,0.1,54.5,92.1,0,2.6,0,6.68
+Florian Lejeune,"Rayo Vallecano,",31,", D(C)",12,951,0,0.3,43.7,82.3,0,4.4,0,6.68
+Morgan Gibbs-White,"Nottingham Forest,",22,", AM(CR),FW",12(1),1039,2,1.5,26.2,68.2,1.2,0.9,0.4,6.68
+Hans Hateboer,"Atalanta,",28,", D(R),M(R)",12,1047,0,0.8,33.7,80.4,0.5,1.2,0.1,6.68
+Raheem Sterling,"Chelsea,",27,", M(CLR),FW",11(1),956,1,1.5,24.6,75.9,0.5,0.2,0.1,6.68
+Faitout Maouassa,"Montpellier,",24,", D(L),M(LR)",8(5),657,4,0.9,9.8,68.5,0.8,0.4,0.1,6.68
+Manuel Riemann,"Bochum,",34,", GK",15,1350,0,0.1,49.2,59.2,0.1,17.9,0,6.68
+Dominik Kohr,"Mainz,",28,", DMC",14,1178,0,0.6,43.1,72.6,0,1.8,0.2,6.68
+Maximiliano Caufriez,"Clermont Foot,",25,", D(CR)",9,790,0,0,46.1,88.4,0,2.8,0,6.68
+Ansu Fati,"Barcelona,",20,", AM(L)",3(11),462,3,0.4,14.9,86.1,0.1,0.1,0,6.68
+Leon Bailey,"Aston Villa,",25,", M(CLR),FW",11(3),833,2,0.9,13.4,69.1,0.9,0.3,0.1,6.67
+Mostafa Mohamed,"Nantes,",25,", FW",8(7),839,2,0.7,9,60.7,0.1,0.1,0,6.67
+Matteo Pessina,"Monza,",25,", AM(CR)",12(1),997,1,0.8,43.3,89,0.3,1.5,0.1,6.67
+Domingos Duarte,"Getafe,",27,", D(C)",13,1126,2,0.2,30.8,79.5,0,3,0,6.67
+Marcelo Brozovic,"Inter,",30,", M(CR)",7(3),621,0,0.4,47.3,87.7,0.1,2.7,0.1,6.67
+Alex Meret,"Napoli,",25,", GK",15,1350,0,0,24.8,83.1,0,3.7,0,6.67
+Adrián Embarba,"Almeria,",30,", AM(CLR),FW",5(4),424,3,1.2,14,73.8,1.1,1.2,0,6.67
+Léo Baptistão,"Almeria,",30,", AM(CLR),FW",8(3),569,2,0.7,15.5,67.1,0.3,0.6,0.1,6.67
+Waldemar Anton,"Stuttgart,",26,", D(CR),DMC",15,1346,0,0.4,59.7,81.8,0.3,3.4,0,6.67
+Alex Sandro,"Juventus,",31,", D(CL),M(L)",9(4),780,1,0.5,36,87.4,0.2,2.5,0,6.67
+Lassana Coulibaly,"Salernitana,",26,", M(CL)",14,1168,1,0.6,32.5,85.3,0,0.5,0.1,6.67
+Beto,"Udinese,",24,", FW",7(8),687,0,0.5,6.5,55.7,0,0.1,0,6.67
+Fabinho,"Liverpool,",29,", D(CR),DMC",11(3),998,0,0.4,52.1,88.2,0,2.7,0.1,6.67
+Anthony Jung,"Werder Bremen,",31,", D(CL),M(L)",14(1),1150,2,0.8,36,79.4,0.5,1.7,0,6.67
+Fran García,"Rayo Vallecano,",23,", D(L)",14,1260,2,0.9,41.8,85.6,1,1.6,0,6.67
+Leonardo Bonucci,"Juventus,",35,", D(C)",6(3),596,0,0.2,38.9,85.4,0,3.4,0.1,6.66
+Edgar Badia,"Elche,",30,", GK",14,1260,0,0,26.3,69,0,7.9,0,6.66
+Sergio Camello,"Rayo Vallecano,",21,", FW",11(3),940,2,0.9,12.8,81.6,0,0.4,0.1,6.66
+Sebastian Rode,"Eintracht Frankfurt,",32,", D(R),M(C)",8(4),604,1,0.6,28.6,86.6,0,1.1,0.1,6.66
+Vitaliy Mykolenko,"Everton,",23,", D(CL),M(L)",15,1285,0,0.7,35.6,77,0.7,1.2,0,6.66
+Luis Alberto,"Lazio,",30,", AM(CL),FW",5(8),541,1,0.9,28.8,85.6,0.5,1.3,0.3,6.66
+Maxence Caqueret,"Lyon,",22,", DMC",11(3),976,1,1,49.3,87.1,0.3,1.8,0.1,6.66
+Predrag Rajkovic,"Mallorca,",27,", GK",14,1260,0,0,30.2,59.6,0,8.5,0,6.66
+Boubakary Soumaré,"Leicester,",23,", DMC",9(2),675,0,0.2,34,91.4,0,1.3,0.1,6.66
+Grischa Prömel,"Hoffenheim,",27,", M(C)",13,1074,1,0.6,25.8,79.8,0.2,0.9,0,6.66
+Wahbi Khazri,"Montpellier,",31,", M(CLR),FW",8(3),711,1,0.5,16.4,77.2,0.1,1.1,0,6.66
+Sergi Roberto,"Barcelona,",30,", D(R),M(CR)",3(6),371,0,0.3,29,93.9,0.4,1.2,0,6.66
+Ferland Mendy,"Real Madrid,",27,", D(L),M(L)",11,890,1,1,47.5,92.5,0.1,1.3,0,6.66
+Jubal,"Auxerre,",29,", D(C)",15,1350,1,0.1,38.9,86.8,0.1,5.1,0,6.66
+Koray Günter,"Verona,",28,", D(C)",11(2),1003,1,0.6,32.1,77,0.1,3,0,6.66
+Kai Havertz,"Chelsea,",23,", M(CR),FW",11(2),889,0,0.5,21.6,80.1,0.1,0.2,0,6.66
+Muhammed Cham,"Clermont Foot,",22,", AM(C)",10(5),867,2,1.1,28.3,84.2,0.5,1.3,0.2,6.66
+Vincent Le Goff,"Lorient,",33,", D(L),M(L)",15,1350,0,0.3,43.2,82.9,0.4,1.3,0.1,6.66
+Munas Dabbur,"Hoffenheim,",30,", AM(C),FW",4(6),422,0,0.8,13.8,73.9,0.1,0.4,0,6.66
+Jeffrey Gouweleeuw,"Augsburg,",31,", D(C)",14,1197,0,0.4,35.9,66.2,0,3.6,0.1,6.65
+Koke,"Atletico,",30,", M(CLR)",8(2),743,2,1,45.6,84.9,0.2,2,0,6.65
+Kurt Zouma,"West Ham,",28,", D(CR)",14,1185,0,0,40.9,86.2,0,2.4,0,6.65
+Flavius Daniliuc,"Salernitana,",21,", D(CR)",9(1),843,1,0.2,51.1,88.8,0,4.5,0,6.65
+Justin Kluivert,"Valencia,",23,", AM(LR)",5(5),520,0,1.1,12.9,80.6,0.5,0.4,0,6.65
+João Félix,"Atletico,",23,", AM(CL),FW",5(7),512,3,0.7,13.4,75.8,0.1,0.3,0.4,6.65
+Danilo Cataldi,"Lazio,",28,", M(C)",12(1),920,0,0.8,44,88.5,1,2.2,0,6.65
+Yvon Mvogo,"Lorient,",28,", GK",14,1183,0,0,26.8,69.6,0,5.9,0,6.65
+Massadio Haïdara,"Lens,",30,", D(CL),M(L)",8(6),739,0,0.2,30.9,89.4,0,1.1,0,6.65
+Ederson,"Man City,",29,", GK",14,1260,1,0.1,32.9,86.6,0,4.6,0.1,6.65
+Adam Marusic,"Lazio,",30,", D(CLR),M(LR)",14(1),1302,1,0.2,48.6,89.3,0.1,1.8,0,6.65
+Saúl Ñíguez,"Atletico,",28,", D(CL),M(CLR)",6(5),464,1,0.1,18.2,77.5,0,0.5,0,6.65
+Jordan Ayew,"Crystal Palace,",31,", AM(CLR),FW",11(3),907,1,1,19.8,83.4,0.2,0.2,0,6.65
+Lukasz Skorupski,"Bologna,",31,", GK",15,1350,0,0,30.3,73.8,0,5.7,0,6.65
+Robin Knoche,"Union Berlin,",30,", D(C)",14,1260,0,0.1,50.6,81.2,0,4.9,0,6.65
+Germán Pezzella,"Real Betis,",31,", D(C)",10(2),912,0,0.1,42,88.5,0,2.3,0.1,6.65
+Íñigo Lekue,"Athletic Bilbao,",29,", D(LR),M(LR)",10(2),949,1,0.7,41.1,82.8,0.4,2.4,0,6.65
+Castello Lukeba,"Lyon,",19,", D(C)",14,1260,0,0.1,67.9,88.9,0,1.7,0,6.65
+Gianluca Mancini,"Roma,",26,", D(C),DMC",15,1200,1,0.4,45.5,84.9,0.2,3.1,0,6.65
+Tom Krauß,"Schalke,",21,", DMC",15,1239,0,0.1,24.9,75.4,0,0.9,0,6.65
+Memeh Okoli,"Atalanta,",21,", D(C)",9(4),842,0,0,29.3,76.9,0,1.4,0,6.65
+Yannick Carrasco,"Atletico,",29,", M(CLR),FW",8(5),742,0,1.4,22.9,84.2,0.8,0.7,0.1,6.65
+Pau Torres,"Villarreal,",25,", D(C)",13,1170,0,0.7,59.1,86.6,0,4.9,0,6.64
+Anthony Gordon,"Everton,",21,", AM(LR)",11(3),986,0,0.6,16.3,77.2,0.2,0.4,0.1,6.64
+Steffen Tigges,"FC Koln,",24,", FW",9(3),726,0,0.7,11.5,58,0,0.4,0,6.64
+Patrik Schick,"Leverkusen,",26,", AM(R),FW",10(1),861,0,0.8,19.7,70,0.1,0.1,0,6.64
+Tuta,"Eintracht Frankfurt,",23,", D(C)",15,1341,0,0.1,54.2,80.4,0,2.1,0,6.64
+Joaquín Fernández,"Real Valladolid,",26,", D(C),DMC",10(2),955,0,0.2,37.5,84,0,3.1,0,6.64
+Ricardo Rodríguez,"Torino,",30,", D(CL),M(L)",10(3),946,0,0.4,47,85.8,0.3,2.5,0,6.64
+Edimilson Fernandes,"Mainz,",26,", D(C),M(CR)",9(4),821,1,0.5,29.1,75.1,0.4,3.4,0,6.64
+Corentin Tolisso,"Lyon,",28,", D(R),M(CR)",7(3),546,0,1.4,48.7,88.5,0.4,3.7,0.3,6.64
+Óliver Torres,"Sevilla,",28,", M(CLR)",12,860,0,1.1,33.9,80.1,0.3,2.6,0.1,6.64
+André Silva,"RBL,",27,", FW",9(6),796,1,0.9,15.3,72.5,0,0.2,0.1,6.64
+Ashley Young,"Aston Villa,",37,", D(LR),M(LR)",7(4),726,0,0.8,28.2,76.8,0.5,2.1,0.2,6.64
+Marco Silvestri,"Udinese,",31,", GK",15,1350,0,0,24.1,73.1,0,4.9,0,6.64
+Arnaud Kalimuendo,"Rennes,",20,", FW",8(2),610,1,0.3,13.2,83.3,0,0.2,0,6.64
+Matteo Bianchetti,"Cremonese,",29,", D(C)",9(2),905,0,0.2,32.4,78.7,0.1,1.7,0,6.64
+Filippo Bandinelli,"Empoli,",27,", M(C)",13(2),1060,0,1.1,25.5,76.5,1,0.9,0,6.64
+Oliver Christensen,"Hertha Berlin,",23,", GK",15,1350,0,0,32.7,67.8,0,8.1,0,6.64
+Lucas Torró,"Osasuna,",28,", DMC",14,1127,0,0.2,33.9,82.1,0,0.9,0,6.64
+Lee Jae-Sung,"Mainz,",30,", AM(CLR),FW",10(5),821,1,0.9,24.4,77,0.2,0.7,0,6.64
+Komnen Andric,"Clermont Foot,",27,", FW",13(2),1020,1,0.5,19.9,76.8,0,0.7,0,6.64
+Jhon Lucumí,"Bologna,",24,", D(C)",12,1012,1,0.3,49.7,86.2,0.1,3,0,6.64
+Idrissa Gueye,"Everton,",33,", M(C)",9(1),742,0,0.2,42.2,85.5,0,1.2,0,6.64
+Mehdi Bourabia,"Spezia,",31,", M(C)",14(1),1142,1,1.2,38.6,80.3,0.4,1.5,0.1,6.63
+Robert Skov,"Hoffenheim,",26,", D(L),M(LR)",12(2),941,1,1.1,26.1,72.1,0.9,1.6,0,6.63
+Janik Haberer,"Union Berlin,",28,", M(CLR),FW",13,859,1,0.8,16.1,68.4,0.2,0.6,0.1,6.63
+Jaume Costa,"Mallorca,",34,", D(LR),M(L)",11,966,1,1,29.9,79,0.7,1.5,0,6.63
+Giorgi Mamardashvili,"Valencia,",22,", GK",14,1260,0,0,25.6,76.3,0,4.1,0,6.63
+Harvey Elliott,"Liverpool,",19,", AM(CR)",10(4),862,1,0.9,35.6,83.4,0.2,1.1,0.2,6.63
+Maximilian Eggestein,"Freiburg,",25,", M(CR)",11(3),1021,2,0.8,26.6,79,0.1,0.6,0.1,6.63
+Weston McKennie,"Juventus,",24,", D(C),M(CLR)",9(2),723,1,0.6,21.5,82.6,0.5,0.9,0.1,6.63
+Marvin Plattenhardt,"Hertha Berlin,",30,", D(L),M(L)",13,1000,2,1.3,28.3,75,1.6,1,0,6.63
+Angel Gomes,"Lille,",22,", M(CL),FW",14,1107,1,0.9,50,88.3,0.5,3.1,0.1,6.63
+Ethan Ampadu,"Spezia,",22,", D(C),DMC",10,838,1,0.7,42.6,76.5,0.3,3.1,0.1,6.63
+Emil Audero,"Sampdoria,",25,", GK",15,1350,0,0,30.6,63.2,0,6.9,0,6.63
+Romain Perraud,"Southampton,",25,", D(L),M(L)",10(3),854,2,0.8,23.3,76.2,0.5,0.4,0.1,6.63
+Maxence Lacroix,"Wolfsburg,",22,", D(C)",9(1),805,0,0.1,55,86.5,0,5.2,0,6.63
+Manuel Lazzari,"Lazio,",29,", D(R),M(R)",13,1002,0,0.2,36.2,89.1,0.2,1,0,6.63
+Maya Yoshida,"Schalke,",34,", D(CR)",15,1339,0,0.1,44.1,77.8,0.1,3.5,0,6.63
+Nemanja Matic,"Roma,",34,", DMC",7(8),794,1,0.7,38.7,85.7,0.1,2.6,0,6.63
+Andy Delort,"Nice,",31,", AM(R),FW",9(3),749,0,0.8,16.7,65,0.1,0.8,0,6.63
+Franco Cervi,"Celta Vigo,",28,", AM(CL)",12(1),1025,2,0.8,25.5,77.4,0.7,0.5,0,6.63
+Odsonne Édouard,"Crystal Palace,",24,", AM(L),FW",9(4),771,2,0.8,13.9,77.9,0,0,0,6.63
+Tim Ream,"Fulham,",35,", D(CL),DMC",15,1348,0,0,55.2,85.9,0,3.5,0,6.63
+Ollie Watkins,"Aston Villa,",26,", AM(LR),FW",13(1),1173,3,0.8,19.4,72,0.1,0.3,0,6.63
+Bradley Locko,"Reims,",20,", D(L),M(L)",13(1),1058,0,0.6,25.1,81.2,0.2,1,0.1,6.62
+Nicolas Cozza,"Montpellier,",23,", D(CL)",14(1),1236,1,0.5,31.9,72.9,0.3,1.5,0.1,6.62
+Youssouf Sabaly,"Real Betis,",29,", D(LR),M(R)",7(2),631,0,0.7,33.1,82.6,0,0.7,0,6.62
+Álex Baena,"Villarreal,",21,", AM(C)",5(8),626,0,0.8,15.2,77.7,0.2,0.5,0.2,6.62
+Christopher Jullien,"Montpellier,",29,", D(C)",10,900,0,0.3,35.6,82.9,0,2.6,0,6.62
+Demarai Gray,"Everton,",26,", AM(CLR),FW",15,1289,0,1.3,24.1,79.3,1.5,0.9,0,6.62
+Wesley Saïd,"Lens,",27,", AM(CLR),FW",4(8),398,0,0.5,9.9,84.9,0.1,0.4,0,6.62
+Sasa Lukic,"Torino,",26,", M(C)",10(2),924,0,1,43.7,88.7,0.5,2.7,0,6.62
+Robert Andrich,"Leverkusen,",28,", M(C)",12(1),982,2,0.6,45.6,84,0.1,1.6,0,6.62
+Chris Führich,"Stuttgart,",24,", M(CLR),FW",10(4),880,0,0.9,20.1,79.7,0.4,0.8,0.1,6.62
+Wilfried Kanga,"Hertha Berlin,",24,", FW",10(4),938,0,1.1,11.9,65.3,0.1,0,0,6.62
+Axel Witsel,"Atletico,",33,", D(C),M(C)",12(2),1068,0,0.2,46.9,93.6,0,1.1,0,6.62
+Martin Valjent,"Mallorca,",26,", D(C)",13,1156,0,0.2,38.8,82.3,0,3.4,0,6.62
+Pedro,"Lazio,",35,", M(CLR),FW",5(8),679,2,0.6,25.9,83.4,0.2,0.9,0,6.62
+Robert Gumny,"Augsburg,",24,", D(CLR)",9(2),836,1,0.5,21.6,61.3,0.3,1.6,0,6.62
+Marin Pongracic,"Lecce,",25,", D(C)",9,792,0,0.2,40.1,82,0,3.2,0,6.62
+Lorenzo Montipò,"Verona,",26,", GK",15,1350,0,0,27.7,62.3,0,7.8,0,6.62
+Juan Bernat,"PSG,",29,", D(L),M(CL)",7(4),598,0,0.5,29.8,92.7,0.2,0.2,0,6.62
+Raphaël Varane,"Man Utd,",29,", D(C)",8(2),686,0,0.3,32.1,83.8,0,1.7,0,6.62
+Emerson Royal,"Tottenham,",23,", D(R),M(R)",11(1),904,1,0.4,37,82,0.3,1.5,0,6.62
+Kike Pérez,"Real Valladolid,",25,", AM(C)",11(2),968,1,0.8,38.1,80.4,0.5,3.2,0.1,6.62
+Renaud Ripart,"Troyes,",29,", D(R),M(CLR),FW",8(6),747,1,1.1,18,73,0.1,0.4,0,6.62
+Gavin Bazunu,"Southampton,",20,", GK",15,1350,0,0.1,34.3,57.4,0,8.9,0,6.61
+Jirí Pavlenka,"Werder Bremen,",30,", GK",15,1289,0,0,32.5,67.2,0,8.6,0,6.61
+Mario Pasalic,"Atalanta,",27,", M(CLR)",11(3),879,2,0.7,22.6,80.7,0.1,0.8,0,6.61
+Pablo Maffeo,"Mallorca,",25,", D(R),M(R)",12,1020,0,0.8,24.8,72.8,0.6,1.3,0,6.61
+Óscar Plano,"Real Valladolid,",31,", AM(CLR),FW",8(6),831,1,0.5,15.9,76.2,0.3,0.7,0.1,6.61
+Crysencio Summerville,"Leeds,",21,", AM(R)",4(6),468,0,0.5,15.4,77.9,0.1,0.1,0,6.61
+Thomas Lemar,"Atletico,",27,", AM(CLR)",5(4),391,2,1.4,26.6,89.5,0.4,1.4,0.2,6.61
+Evan Ndicka,"Eintracht Frankfurt,",23,", D(CL)",15,1343,0,0.1,55.4,86.6,0,2.7,0,6.61
+Juan Iglesias,"Getafe,",24,", D(LR),M(R)",11(2),1026,0,0.5,23.7,65.3,0.9,1.5,0,6.61
+Mikkel Desler,"Toulouse,",27,", D(R)",12,1009,1,0.5,43.8,85.5,0.3,1.3,0,6.61
+Lukas Nmecha,"Wolfsburg,",23,", AM(CR),FW",10(2),822,0,0.3,14.7,65.3,0.1,0.4,0,6.61
+Tyler Adams,"Leeds,",23,", D(R),M(CR)",13,1167,0,1.2,57.1,82.3,0,1.8,0.1,6.61
+Xavier Chavalerin,"Troyes,",31,", DMC,M(L)",7(6),720,1,0.6,26.9,86.3,0.5,1.2,0.1,6.61
+Désiré Doué,"Rennes,",17,", Midfielder",3(8),401,0,0.4,13.2,84.8,0.4,0.4,0,6.61
+Sead Kolasinac,"Marseille,",29,", D(CL),DMC,M(L)",6(5),491,1,0.1,23.4,82.9,0,0.5,0,6.61
+Hugo Guillamón,"Valencia,",22,", D(C),DMC",11(2),919,4,1.5,46.7,84.7,0.9,4.3,0,6.61
+Jean-Charles Castelletto,"Nantes,",27,", D(C)",11(2),929,0,0.1,36.6,81.1,0.2,1.5,0,6.61
+David Okereke,"Cremonese,",25,", AM(CLR),FW",13(2),1155,0,0.9,15.3,69.6,0.4,0.6,0,6.61
+Marten de Roon,"Atalanta,",31,", D(C),DMC",12(1),1030,1,0.3,39.5,79.1,0,3.2,0,6.61
+Nuno da Costa,"Auxerre,",31,", AM(LR),FW",9(3),807,0,0.8,11.8,68.8,0.1,0.6,0.1,6.61
+Bartlomiej Dragowski,"Spezia,",25,", GK",14,1213,0,0,27.9,63.2,0,5.9,0,6.61
+Saîf-Eddine Khaoui,"Clermont Foot,",27,", AM(CR)",8(6),744,2,1.1,17.7,74.2,0.4,0.6,0.1,6.61
+Kerem Demirbay,"Leverkusen,",29,", M(C)",9(5),788,3,0.9,34.4,79.3,0.8,1.4,0.1,6.6
+Mateusz Wieteska,"Clermont Foot,",25,", D(C)",15,1350,1,0.2,48.7,83.6,0,2.1,0,6.6
+Valentín Castellanos,"Girona,",24,", AM(R),FW",14,1122,0,0.6,12.6,67.8,0.1,0.4,0.1,6.6
+Alberto Grassi,"Empoli,",27,", DMC",4(5),325,0,0.3,17.9,80.1,0,0.8,0,6.6
+Samuele Ricci,"Torino,",21,", M(C)",8(1),713,1,0.3,42.8,91.4,0,1.6,0.1,6.6
+Harrison Reed,"Fulham,",27,", D(R),M(CR)",14,1180,1,1.3,30.5,75.6,0.5,1,0,6.6
+Sean Longstaff,"Newcastle,",25,", DMC",11(4),1052,2,0.9,31.5,81.6,0.3,1.3,0.1,6.6
+Marco Reus,"Borussia Dortmund,",33,", M(CLR),FW",7(2),640,2,0.8,24.1,77.9,0.1,0.2,0,6.6
+Arthur Theate,"Rennes,",22,", D(C)",15,1350,0,0.3,70.1,89.1,0,3.9,0,6.6
+Patson Daka,"Leicester,",24,", FW",7(7),641,2,0.6,9.6,67.4,0.1,0,0.2,6.6
+Thijs Dallinga,"Toulouse,",22,", FW",12(2),907,1,0.8,13.5,67.7,0,0.2,0,6.6
+Stephane Singo,"Torino,",21,", M(R)",8(3),750,1,0.7,29.5,76.6,0.3,1.5,0.1,6.6
+Jan Thielmann,"FC Koln,",20,", AM(CLR),FW",5(5),488,1,0.3,10.4,68.3,0.4,0.4,0,6.6
+Christian Eriksen,"Man Utd,",30,", M(CLR),FW",12(1),1048,4,1.4,50.3,82,0.7,2.8,0.2,6.6
+Dimitri Payet,"Marseille,",35,", M(CLR),FW",5(7),464,3,1.7,18.3,79.5,0.6,1.1,0,6.6
+Dwight McNeil,"Everton,",23,", AM(CLR)",8(7),735,0,0.7,16.5,80.2,0.7,0.6,0.1,6.6
+Tosin Adarabioyo,"Fulham,",25,", D(CR)",10,900,0,0.1,47.9,80.2,0.1,2.4,0,6.6
+Hiroki Ito,"Stuttgart,",23,", D(C)",12(1),1077,1,0.8,55.1,81.4,0.4,5.8,0,6.6
+Geoffrey Kondogbia,"Atletico,",29,", D(C),DMC",8(3),720,1,0.4,39.7,89.9,0,1.6,0,6.6
+Niklas Stark,"Werder Bremen,",27,", D(C),DMC",6(4),644,0,0.2,41.2,82,0,3.4,0,6.6
+Aleksey Miranchuk,"Torino,",27,", M(CR),FW",9,684,1,1.8,24.3,84,0.2,1.1,0,6.6
+Bobby De Cordova-Reid,"Fulham,",29,", D(R),M(CLR),FW",14,1216,1,0.6,30.4,72.9,0.6,1,0,6.6
+Petar Stojanovic,"Empoli,",27,", D(R),M(R)",11(1),949,1,0.8,37.7,76.5,0.5,2.4,0,6.6
+Ansgar Knauff,"Eintracht Frankfurt,",20,", M(LR)",7(4),639,0,0.2,22.5,64.5,0.2,0.4,0,6.6
+Nehuén Pérez,"Udinese,",22,", D(C)",13,1065,0,0.2,53.7,85.2,0.2,4.6,0,6.6
+Karol Linetty,"Torino,",27,", M(CLR)",11(3),954,0,0.9,32.9,86.6,0.4,1.2,0,6.6
+Timo Hübers,"FC Koln,",26,", D(C)",11(1),1028,0,0.2,56.7,83.4,0,3.5,0,6.6
+Henrikh Mkhitaryan,"Inter,",33,", M(CLR),FW",7(5),664,1,0.6,24.9,87,0.2,1,0,6.59
+Michele Di Gregorio,"Monza,",25,", GK",15,1350,0,0,32.5,74.1,0,5.8,0,6.59
+Rani Khedira,"Union Berlin,",28,", D(C),DMC",14,1216,0,0.3,30.4,75.1,0.1,1.4,0,6.59
+Lucas Digne,"Aston Villa,",29,", D(CL),M(L)",9(1),812,0,0.6,40.5,79,0.9,2.1,0,6.59
+Boubacar Kamara,"Aston Villa,",23,", D(CL),DMC",8(1),671,0,0.2,43.9,83.5,0,2.4,0,6.59
+Issiaga Sylla,"Toulouse,",28,", D(LR),M(L)",12(1),1051,0,0.3,39.3,79.3,0.2,0.9,0,6.59
+Alban Lafont,"Nantes,",23,", GK",14,1260,0,0.1,27.3,63.1,0,5.8,0,6.59
+Benjamin Henrichs,"RBL,",25,", D(LR),DMC,M(LR)",10(4),974,1,0.8,38.4,73.2,0.6,2,0.1,6.59
+Kevin Akpoguma,"Hoffenheim,",27,", D(CR),M(R)",8(5),836,0,0.2,31.5,78.7,0.2,1.6,0,6.59
+Mërgim Vojvoda,"Torino,",27,", D(CR),M(LR)",4(5),448,3,0.8,26.4,81.9,0.1,0.8,0.1,6.59
+Sergio Akieme,"Almeria,",24,", D(L)",14,1260,0,0.6,30.9,81,0.7,1.7,0,6.59
+Brendan Chardonnet,"Brest,",27,", D(C)",13(1),1215,0,0.4,47.7,83.2,0.1,5.8,0,6.59
+Moussa Sissoko,"Nantes,",33,", M(CR)",8(1),703,0,0.6,28.8,76.4,0.6,1,0,6.59
+Eljif Elmas,"Napoli,",23,", M(CLR)",4(10),530,1,0.6,17.6,83.8,0.2,0.4,0.1,6.59
+Krépin Diatta,"Monaco,",23,", M(LR),FW",8(5),877,0,0.7,20.6,83.6,0.5,0.3,0,6.59
+Diogo Leite,"Union Berlin,",23,", D(C)",13,1099,1,0.3,51.8,80,0.1,5.2,0,6.59
+Éderson,"Atalanta,",23,", M(C)",8(5),744,0,0.8,21.8,78.9,0.2,1,0,6.59
+MBala Nzola,"Spezia,",26,", FW",15,1350,0,0.9,18.7,80.4,0.1,0.1,0,6.59
+Jakub Kiwior,"Spezia,",22,", D(C),DMC",15,1291,0,0.3,45.3,85.9,0.4,3.6,0,6.59
+Kasper Schmeichel,"Nice,",36,", GK",13,1170,0,0,28.8,73.5,0,7.5,0,6.59
+Pierre Lees-Melou,"Brest,",29,", M(CLR)",12,973,0,0.4,42.3,86,0.3,5.4,0,6.59
+Luiz Henrique,"Real Betis,",21,", AM(LR)",9(3),745,1,0.4,15,76.1,0.2,0.3,0,6.59
+Álex Remiro,"Real Sociedad,",27,", GK",14,1260,0,0,30.4,72.1,0,8,0,6.59
+Yunus Musah,"Valencia,",20,", AM(CR)",10(1),849,2,0.5,29,82.8,0.1,2,0.2,6.59
+Robin Zentner,"Mainz,",28,", GK",15,1350,0,0.1,26.5,47.6,0,5.8,0,6.59
+Riyad Mahrez,"Man City,",31,", AM(CLR),FW",4(5),371,0,0.8,25.4,90,0.8,1.8,0.1,6.59
+Rubén García,"Osasuna,",29,", AM(CLR),FW",4(7),422,2,1.1,17,82.9,1.2,1.6,0.2,6.59
+Andreaw Gravillon,"Reims,",24,", D(CR)",12,1035,0,0.2,32,75.8,0.3,2,0.2,6.59
+Jadon Sancho,"Man Utd,",22,", AM(CLR)",10,723,1,1.4,28.5,83.2,0.1,0.4,0.1,6.58
+Musa Barrow,"Bologna,",24,", AM(CL),FW",9(2),692,1,1.5,18.6,76.1,1.6,1.4,0,6.58
+Koffi Djidji,"Torino,",30,", D(CL)",12(1),1075,0,0.2,44.4,86.3,0.3,1.8,0,6.58
+Arbër Zeneli,"Reims,",27,", AM(LR),FW",9(2),676,2,1.5,21.9,76.3,0.7,0.5,0.1,6.58
+Matz Sels,"Strasbourg,",30,", GK",15,1350,0,0,23.4,64.1,0,4.9,0,6.58
+Zakaria Aboukhlal,"Toulouse,",22,", AM(LR)",14(1),1174,3,0.5,19.7,71.3,0.1,0.1,0,6.58
+Anthony Modeste,"Borussia Dortmund,",34,", FW",7(6),720,1,0.5,7.5,60.2,0.1,0,0,6.58
+Stefan Bell,"Mainz,",31,", D(CR)",9(4),891,0,0.5,36.5,80.6,0.1,3.2,0.1,6.58
+Khéphren Thuram,"Nice,",21,", DMC",10(5),910,2,0.9,38.4,88.9,0.1,1.5,0,6.58
+Marcel Halstenberg,"RBL,",31,", D(CL),M(L)",7(5),677,1,0.4,39.8,85.3,0.3,1.4,0,6.58
+Aimar Oroz,"Osasuna,",21,", AM(C)",9(3),778,1,0.8,23.8,80.1,0,0.8,0,6.58
+Niklas Süle,"Borussia Dortmund,",27,", D(CR)",9(3),787,1,0.5,50.6,88.6,0.1,3.3,0,6.58
+Oumar Gonzalez,"AC Ajaccio,",24,", D(C)",11,948,0,0.1,35.4,84.3,0,1.5,0,6.58
+Danny Ings,"Aston Villa,",30,", AM(C),FW",8(6),725,0,0.6,9.9,74.6,0,0,0.1,6.58
+Marc Cucurella,"Chelsea,",24,", D(CL),M(L)",11(2),851,2,0.5,40.3,86.3,0.8,1.3,0,6.58
+Antonio Sanabria,"Torino,",26,", FW",8(2),682,1,0.8,18.6,73.7,0,0.2,0,6.58
+Íñigo Ruíz de Galarreta,"Mallorca,",29,", DMC",10(2),858,0,0.7,33.4,86.3,0.1,2.3,0.1,6.58
+Daniel Carvajal,"Real Madrid,",30,", D(R)",10(2),877,1,0.6,40.8,87.1,0.3,2.7,0,6.58
+Josh Doig,"Verona,",20,", D(CL),M(L)",5(4),498,1,0.7,12,69.4,0.4,0.4,0,6.57
+Gabri Veiga,"Celta Vigo,",20,", M(C)",6(7),576,1,0.5,18.2,79.7,0.2,0.8,0,6.57
+Douglas Luiz,"Aston Villa,",24,", M(C)",10(4),929,2,0.9,36.4,85.1,0.4,1.8,0.1,6.57
+Gary Medel,"Bologna,",35,", D(C),DMC",14(1),1142,1,0.2,53.2,88.5,0,3.6,0.1,6.57
+Marcos Acuña,"Sevilla,",31,", D(CL),M(CL)",7(3),554,0,1.2,28.6,77.3,1.7,2.8,0,6.57
+Simon Terodde,"Schalke,",34,", FW",13(2),1058,0,0.7,12.5,67.6,0,0.3,0.1,6.57
+Ruslan Malinovskyi,"Atalanta,",29,", M(CR),FW",5(9),539,2,0.9,20.9,79.5,0.5,1.8,0.1,6.57
+José Sá,"Wolves,",29,", GK",15,1350,0,0,28.5,69.9,0,3.9,0,6.57
+Dean Henderson,"Nottingham Forest,",25,", GK",15,1350,0,0,32.8,57.5,0,6.3,0,6.57
+Rico Henry,"Brentford,",25,", D(L),M(L)",15,1347,1,0.5,24.9,75.6,0.4,0.9,0.1,6.57
+João Moutinho,"Wolves,",36,", M(C)",11(2),1000,0,1.5,46.5,85.8,0.8,2.6,0,6.57
+David Raum,"RBL,",24,", D(L),M(LR)",12(2),1035,1,1.1,33.6,80.6,1.2,1.1,0.1,6.57
+Martin Erlic,"Sassuolo,",24,", D(C)",10,869,0,0,41,88.8,0,4.6,0,6.57
+Isco,"Sevilla,",30,", M(CLR),FW",10(2),803,2,1.4,32.8,86.8,0.3,1.3,0.1,6.57
+Paul Jaeckel,"Union Berlin,",24,", D(C),DMC",8(3),798,0,0,35.7,79.9,0,1.9,0,6.57
+Robin Le Normand,"Real Sociedad,",26,", D(C)",9(2),815,0,0.2,44,92.8,0,3.7,0,6.57
+Marc Guéhi,"Crystal Palace,",22,", D(C)",14,1260,0,0.1,64.7,89,0,4.2,0,6.57
+Jacob Ramsey,"Aston Villa,",21,", AM(C)",12(3),1026,2,0.8,26.8,84.6,0,0.7,0,6.57
+Vincent Marchetti,"AC Ajaccio,",25,", M(C)",14(1),1206,1,0.5,37.4,82,0,3,0.1,6.56
+Chidera Ejuke,"Hertha Berlin,",24,", AM(CLR),FW",9(6),791,3,0.5,16.5,82.7,0.1,0.7,0.1,6.56
+Maxime Lopez,"Sassuolo,",25,", M(CR)",12(1),1081,0,1.2,55.1,88.7,0.2,3.7,0.1,6.56
+Thibaut Courtois,"Real Madrid,",30,", GK",10,900,0,0.1,28.1,82.2,0,4.3,0,6.56
+Norbert Gyömbér,"Salernitana,",30,", D(CR),DMC",10(1),736,0,0.1,31.5,87,0,2.2,0,6.56
+Marco Richter,"Hertha Berlin,",25,", AM(CLR),FW",5(7),526,2,0.3,10.9,68.7,0.2,0.3,0,6.56
+Kamaldeen Sulemana,"Rennes,",20,", AM(L)",2(8),258,0,0.5,10.7,86,0.3,0.4,0,6.56
+Niko Gießelmann,"Union Berlin,",31,", D(CL),M(L)",7(4),653,2,1.3,22.1,74.9,1.3,1,0,6.56
+Callum Hudson-Odoi,"Leverkusen,",22,", M(CLR)",5(4),480,1,1.3,20.1,89,0.4,1,0.1,6.56
+Jarrod Bowen,"West Ham,",25,", AM(CLR),FW",15,1343,0,1.3,20.8,74,0.7,1.1,0,6.56
+Donyell Malen,"Borussia Dortmund,",23,", AM(L),FW",9(1),679,1,1.3,19.9,77.9,1.2,0.4,0,6.56
+Micky van de Ven,"Wolfsburg,",21,", D(C)",15,1350,0,0.1,50,88.4,0.1,3.1,0,6.56
+Abdelhamid Sabiri,"Sampdoria,",26,", AM(CL),FW",10(1),844,0,1,29.7,73.1,0.7,1.9,0.2,6.56
+Stéphane Diarra,"Lorient,",23,", AM(R)",8(6),620,0,0.2,11.3,70.3,0.1,0.1,0,6.56
+Melvin Bard,"Nice,",22,", D(L)",10(3),927,0,0.1,34.5,83.1,0.2,1,0,6.56
+Antonee Robinson,"Fulham,",25,", D(L),M(L)",13,1109,0,0.5,36.8,75.1,0.8,1.6,0,6.56
+Lewis Cook,"Bournemouth,",25,", M(CL)",13(2),1193,2,1.3,32.4,80.9,0.9,1.1,0,6.56
+David Silva,"Real Sociedad,",36,", M(CLR),FW",11(1),827,0,0.9,37.9,86.6,0.3,1.4,0.2,6.56
+Andrea Cambiaso,"Bologna,",22,", D(R),M(L)",11(2),911,2,0.9,31.9,78.6,0.5,1.2,0,6.56
+Birama Touré,"Auxerre,",30,", DMC",15,1336,0,0.1,42.6,84.5,0,3.9,0,6.56
+Andrej Kramaric,"Hoffenheim,",31,", AM(CLR),FW",11(3),1031,2,1.1,28.7,80.3,0.3,1.3,0,6.56
+Cengiz Ünder,"Marseille,",25,", AM(CLR)",6(8),554,1,0.7,14.9,75,0.7,0.9,0.1,6.56
+Joe Rodon,"Rennes,",25,", D(C)",9,808,0,0,67,89.2,0,1.9,0,6.55
+Monchu,"Real Valladolid,",23,", DMC",8(5),657,1,0.6,22.4,81.4,1,2.2,0.1,6.55
+Jorginho,"Chelsea,",30,", DMC",11(2),906,0,0.3,46.8,84.6,0,1.6,0,6.55
+John McGinn,"Aston Villa,",28,", M(C)",12(3),1059,0,0.3,29.8,79.6,0.3,2.3,0,6.55
+Igor Zubeldia,"Real Sociedad,",25,", D(C),DMC",8(2),719,0,0.1,40.7,87.2,0.2,2.4,0,6.55
+Santiago Ascacíbar,"Cremonese,",25,", DMC",7(5),701,0,0.7,33.8,82.2,0.3,1.9,0,6.55
+Dani Rodríguez,"Mallorca,",34,", AM(CLR)",8(5),694,2,0.9,16.6,82.4,0.2,1.2,0.2,6.55
+Jonathan Ikoné,"Fiorentina,",24,", AM(CLR),FW",9(5),835,2,0.9,17.5,84.9,0,1,0,6.55
+Maximilian Kilman,"Wolves,",25,", D(C)",15,1350,0,0,59.1,83.4,0,2.9,0,6.55
+Juan Musso,"Atalanta,",28,", GK",10,818,0,0.1,24.2,66.9,0,7.2,0,6.55
+Joel Ward,"Crystal Palace,",33,", D(CLR),DMC,M(R)",11(1),1021,0,0.2,37.7,76.1,0,1.4,0,6.55
+Pierre Kalulu,"AC Milan,",22,", D(CR)",10(5),1038,0,0.2,41.1,89.1,0.1,2.6,0.1,6.55
+Tiago Tomás,"Stuttgart,",20,", AM(CR),FW",9(4),726,2,0.8,12,60.9,0.5,0.2,0.2,6.55
+Rayan Cherki,"Lyon,",19,", AM(R)",1(11),215,3,0.8,12.6,81.5,0.8,0.5,0,6.55
+Joris Chotard,"Montpellier,",21,", DMC",11(2),956,1,0.8,32.3,82.6,0.1,2.2,0.2,6.55
+Moise Kean,"Juventus,",22,", AM(LR),FW",6(7),487,0,0.3,7.3,75.8,0.1,0,0.1,6.55
+Julian Weigl,"Borussia M.Gladbach,",27,", D(C),DMC",10(1),903,0,0.2,48.3,88.1,0,1.9,0.2,6.55
+Anthony Lopes,"Lyon,",32,", GK",12,1017,0,0,23.5,78,0,3.8,0,6.55
+Jonny,"Wolves,",28,", D(CLR),M(LR)",11(1),982,0,0.2,47.3,85.4,0.3,1.8,0.1,6.55
+José Fonte,"Lille,",38,", D(C)",14,1260,0,0.2,62.9,89.7,0,3.9,0,6.55
+Pathé Ciss,"Rayo Vallecano,",28,", DMC",6(7),638,0,0.2,27.2,85.8,0,2.2,0,6.55
+Unai García,"Osasuna,",30,", D(C)",13,1119,1,0.2,39.1,79.5,0.1,3.9,0,6.55
+Moussa Djenepo,"Southampton,",24,", M(LR)",5(5),524,1,0.4,17.1,77.2,0.3,0.5,0,6.55
+Pervis Estupiñán,"Brighton,",24,", D(L)",8(3),635,0,1.2,29.5,81.2,0.8,0.7,0,6.55
+Amos Pieper,"Werder Bremen,",24,", D(C)",13(1),1104,1,0.1,45.4,78.3,0.1,3.4,0,6.54
+Jordan Lotomba,"Nice,",24,", D(LR),M(R)",10(4),934,0,0.6,30.8,84.7,0.5,0.4,0.1,6.54
+Rodrigo Ely,"Almeria,",29,", D(C)",14,1235,0,0.1,41.4,83.2,0,2.9,0,6.54
+Iván Balliu,"Rayo Vallecano,",30,", D(R),M(R)",14,1260,0,1.1,43.6,82,0.7,1.9,0,6.54
+Sandi Lovric,"Udinese,",24,", AM(C)",9(5),770,1,0.9,23.1,83.3,0.1,1.5,0.1,6.54
+Christopher Trimmel,"Union Berlin,",35,", D(CR),M(R)",10(3),927,2,1,24.5,64.9,1,1.3,0,6.54
+Maxime Le Marchand,"Strasbourg,",33,", D(CL)",12(1),971,0,0.2,47.1,81,0.3,3.3,0,6.54
+Danny Ward,"Leicester,",29,", GK",15,1350,0,0,31.1,70.2,0,4,0,6.54
+Óscar Gil,"Espanyol,",24,", D(R)",10(1),870,1,0.6,24.9,80.3,0.5,1.1,0.1,6.54
+David Alaba,"Real Madrid,",30,", D(CL),M(CL)",13(1),1167,3,0.9,49.4,90.2,0.2,0.9,0.1,6.54
+Naouirou Ahamada,"Stuttgart,",20,", M(C)",15,1241,0,0.7,29.7,85.4,0.1,0.5,0,6.54
+Noah Fadiga,"Brest,",23,", D(R)",9,655,0,0.1,30.8,82.3,0.3,1.1,0,6.54
+Amine Harit,"Marseille,",25,", AM(CLR),FW",6(4),515,0,1.5,25,84.4,0.5,0.6,0.2,6.54
+Aitor Ruibal,"Real Betis,",26,", D(R),M(LR)",5(8),558,0,0.5,18.8,77.6,0.2,1.2,0,6.54
+Tyrone Mings,"Aston Villa,",29,", D(CL)",13,1170,0,0.2,45.2,83,0.1,3,0,6.54
+David de Gea,"Man Utd,",32,", GK",14,1260,0,0.1,27.4,65.5,0,4.9,0,6.54
+Ronaël Pierre-Gabriel,"Strasbourg,",24,", D(CLR),M(R)",7(6),636,1,0.3,20.7,79.9,0.3,0.5,0,6.54
+Conor Coady,"Everton,",29,", D(CR),DMC",14,1251,1,0.3,50.9,85.3,0.1,4.9,0.1,6.54
+Yassine Bounou,"Sevilla,",31,", GK",13,1037,0,0,29.2,69.4,0,5.4,0,6.54
+Scott McTominay,"Man Utd,",25,", D(C),DMC",6(6),637,0,0.3,19.3,82.3,0,0.9,0.1,6.54
+Julián Álvarez,"Man City,",22,", AM(R),FW",3(9),358,0,0.4,9.5,86.8,0.1,0.4,0.1,6.54
+Alessandro Bastoni,"Inter,",23,", D(C)",9(2),732,1,0.5,49.8,87.8,0.2,4.1,0,6.54
+Omar Marmoush,"Wolfsburg,",23,", AM(L),FW",8(7),689,0,0.3,13.2,64.6,0.1,0.4,0,6.54
+Kiliann Sildillia,"Freiburg,",20,", D(R)",13(1),1160,2,0.4,37.3,75.1,0.3,1.4,0,6.54
+Colin Dagba,"Strasbourg,",24,", D(R),M(R)",6(3),465,0,0.9,22.3,85.1,0.7,0.3,0,6.54
+Rodrigo De Paul,"Atletico,",28,", AM(CLR),FW",9(3),674,1,1.3,35.4,84,0.6,3.4,0.1,6.54
+Jonathan Tah,"Leverkusen,",26,", D(C)",14(1),1221,0,0.3,52.5,89.3,0,1.7,0,6.54
+Matías Vecino,"Lazio,",31,", M(C)",9(5),814,0,0.2,29.9,84.5,0,1,0,6.54
+Lilian Brassier,"Brest,",23,", D(CL)",14,1202,0,0.4,43,79.2,0.5,3.6,0.1,6.54
+Matteo Darmian,"Inter,",33,", D(CLR),M(LR)",6(4),502,2,1.1,20.5,78,0.4,1,0,6.54
+Jeffrey Schlupp,"Crystal Palace,",29,", D(L),M(CLR)",12(2),1096,0,0.4,31.1,80,0,0.9,0,6.54
+Kristijan Jakic,"Eintracht Frankfurt,",25,", D(CR),DMC",12(2),1011,0,0.4,40.4,77.2,0.1,1.4,0.1,6.53
+Lucas Chevalier,"Lille,",21,", GK",9,810,0,0,25.2,60.4,0,3.7,0,6.53
+Maxime Gonalons,"Clermont Foot,",33,", D(C),M(C)",8(1),534,0,0,33.6,89.1,0,2,0,6.53
+Mohamed Youssouf,"AC Ajaccio,",34,", D(R)",9(2),844,0,0.8,34.5,75.5,1,1.7,0,6.53
+Conor Gallagher,"Chelsea,",22,", AM(C)",7(5),501,1,0.8,21,81.3,0.6,0.3,0,6.53
+Serhou Guirassy,"Stuttgart,",26,", AM(L),FW",9(1),780,0,0.9,20.6,66.5,0,0.4,0,6.53
+Marvin Friedrich,"Borussia M.Gladbach,",26,", D(C)",10(4),961,0,0.3,52.2,85.8,0,2.1,0,6.53
+Lovro Majer,"Rennes,",24,", AM(CR)",6(7),566,2,1.1,23.9,84.6,0.5,1,0,6.53
+Davinson Sánchez,"Tottenham,",26,", D(C)",6(4),530,0,0.1,36.1,88.1,0.1,0.6,0,6.53
+Julien Ponceau,"Lorient,",22,", AM(C)",9(3),773,2,1.2,30.3,83.8,0,1.1,0.1,6.53
+Ruben Loftus-Cheek,"Chelsea,",26,", M(CLR)",12(2),958,0,0.5,36.8,86.4,0.1,1.1,0.1,6.53
+Ryan Yates,"Nottingham Forest,",25,", DMC",11(2),1034,1,0.2,27.5,80.7,0,1.3,0,6.53
+Josh Dasilva,"Brentford,",24,", M(C)",7(8),687,1,0.3,20.7,83.2,0.2,0.7,0.1,6.53
+Luis Muriel,"Atalanta,",31,", AM(CL),FW",6(3),524,2,1.4,18.9,67.6,0.6,1.3,0.2,6.53
+Salih Özcan,"Borussia Dortmund,",24,", M(C)",11(1),889,1,0.4,47.8,87.8,0.1,2.8,0,6.53
+Krzysztof Piatek,"Salernitana,",27,", FW",8(3),679,1,0.6,14.8,78.5,0.1,0.5,0,6.53
+Jordan Ferri,"Montpellier,",30,", M(C)",13,1088,2,0.8,56.5,86,0.3,4.7,0.2,6.53
+Joan Gonzàlez,"Lecce,",20,", M(C)",13(2),1118,2,0.7,22.2,77.8,0.1,0.9,0.1,6.53
+Kamory Doumbia,"Reims,",19,", AM(C)",9(5),716,1,0.7,20.3,81,0,0.6,0,6.53
+Kiko Femenía,"Villarreal,",31,", D(LR),M(R)",9(2),850,0,0.6,40.6,88.1,0.4,1,0,6.53
+Luis Sinisterra,"Leeds,",23,", AM(LR),FW",6(3),456,0,0.4,21,84.1,0.1,0.6,0.1,6.52
+Sergio Canales,"Real Betis,",31,", M(CLR)",9(2),860,0,2,41.9,81.8,1.4,2.4,0.2,6.52
+Luca Caldirola,"Monza,",31,", D(CL)",10(1),895,0,0.3,54.1,90.3,0,2.6,0,6.52
+Emiliano Buendía,"Aston Villa,",25,", M(CLR)",7(8),727,0,0.9,23.2,81.3,0.1,1.6,0.1,6.52
+Jordan Henderson,"Liverpool,",32,", D(C),M(CLR)",7(5),647,0,0.9,43.4,82.7,0.2,2.8,0.3,6.52
+Philipp Förster,"Bochum,",27,", M(CLR),FW",8(4),655,2,0.8,18.6,79.8,0.7,0.9,0,6.52
+Tomás Rincón,"Sampdoria,",34,", M(CR)",13(1),1092,2,0.9,38.1,82.2,0.3,1.9,0.1,6.52
+Andrea Colpani,"Monza,",23,", Midfielder",3(7),336,0,0.4,14.2,87.3,0,0.5,0.1,6.52
+Renato Sanches,"PSG,",25,", M(CR)",2(8),316,0,0.4,27.8,93.5,0.1,1.5,0,6.52
+Antonino Gallo,"Lecce,",22,", D(L)",10(2),914,1,1.2,30.1,71.2,0.8,2.6,0,6.52
+Adrien Hunou,"Angers,",28,", AM(CLR),FW",14,1096,1,0.6,23.6,75.2,0.1,0.5,0.1,6.52
+Eduardo Camavinga,"Real Madrid,",20,", DMC",5(9),506,0,0.5,24.5,91.5,0.1,0.8,0.1,6.52
+Marco Bizot,"Brest,",31,", GK",14,1260,0,0,22.4,67.1,0,4.9,0,6.52
+Jens Cajuste,"Reims,",23,", DMC",5(5),525,1,0.6,20.8,80.8,0,0.9,0.1,6.52
+Richarlison,"Tottenham,",25,", AM(CLR),FW",5(5),438,2,0.9,13,75.4,0.3,0.6,0.2,6.52
+Christoph Kramer,"Borussia M.Gladbach,",31,", M(C)",14,1187,0,0.6,46.2,83.5,0.1,0.7,0,6.52
+Carles Aleñá,"Getafe,",24,", AM(CLR)",13,1030,2,0.5,32.4,80.3,0.2,2,0.1,6.52
+Leonardo Bittencourt,"Werder Bremen,",28,", M(CLR),FW",8(2),578,0,0.4,25.4,76.4,0.1,1,0,6.52
+Anthony Losilla,"Bochum,",36,", D(C),DMC",15,1330,0,0.3,33.1,71.2,0.1,1.3,0,6.52
+Jefferson Lerma,"Bournemouth,",28,", D(R),DMC",15,1350,0,0.3,43.3,82.6,0,1.3,0.1,6.52
+Ignatius Ganago,"Nantes,",23,", AM(LR),FW",5(5),508,2,0.3,9.7,70.1,0.1,0.3,0,6.52
+Joël Veltman,"Brighton,",30,", D(CR),M(R)",11(2),950,0,0.2,43.3,83.8,0.2,1.8,0.1,6.52
+Ryan Christie,"Bournemouth,",27,", AM(CLR),FW",9(4),722,0,0.5,17.1,83.8,0.1,0.4,0,6.52
+Edmond Tapsoba,"Leverkusen,",23,", D(C)",15,1314,0,0.2,66.3,86.4,0,4.5,0.1,6.52
+Cédric Brunner,"Schalke,",28,", D(CR)",12,1020,0,0.6,31.2,73.5,0.8,1.8,0,6.52
+Assan Ceesay,"Lecce,",28,", FW",10(5),892,0,0.1,11.4,60.2,0.1,0.3,0,6.52
+Manu Sánchez,"Osasuna,",22,", D(L)",4(6),466,1,0.3,16.3,83.4,0.6,0.6,0,6.52
+Samuel Gigot,"Marseille,",29,", D(C)",9(1),721,0,0.1,41.3,86.9,0,1.3,0,6.51
+Marcus Ingvartsen,"Mainz,",26,", AM(CR),FW",6(3),460,0,0.2,12.3,64,0,0.2,0,6.51
+Ben Chilwell,"Chelsea,",25,", D(L),M(L)",4(5),418,1,0.1,27.2,82,0.2,0.6,0,6.51
+Ryan Sessegnon,"Tottenham,",22,", D(L),M(LR)",8(4),663,0,0.4,20,72.5,0.3,0.4,0.1,6.51
+Elbasan Rashani,"Clermont Foot,",29,", AM(LR)",9(4),769,1,0.5,18.8,79.5,0.1,0.2,0,6.51
+Joe Scally,"Borussia M.Gladbach,",19,", D(R),M(R)",15,1305,0,0.5,35,77.1,0.5,1.3,0,6.51
+Valentin Gendrey,"Lecce,",22,", D(R)",13(2),1182,0,0.5,28.1,75.1,0.1,0.7,0,6.51
+Yangel Herrera,"Girona,",24,", M(C)",9(2),634,2,0.7,22.8,81.3,0.3,0.9,0.1,6.51
+Charles De Ketelaere,"AC Milan,",21,", M(CLR),FW",5(8),576,1,1.2,13.5,76.1,0,0.3,0.2,6.51
+Francesco Acerbi,"Inter,",34,", D(C)",7(2),658,1,0.2,53.9,88.7,0,3.9,0,6.51
+Rogerio,"Sassuolo,",24,", D(L),M(L)",13(1),1154,2,0.6,47.4,83.6,0.9,4.1,0,6.51
+Ivan Ordets,"Bochum,",30,", D(C)",12(2),1037,0,0.1,31,73.7,0,2,0,6.51
+Giacomo Raspadori,"Napoli,",22,", AM(CL),FW",7(3),517,0,0.7,24.2,79.3,0.2,0.9,0,6.51
+Dylan Bronn,"Salernitana,",27,", D(C)",11(4),978,0,0.3,39.5,84.7,0.1,2.3,0,6.51
+Vanja Milinkovic-Savic,"Torino,",25,", GK",15,1350,0,0,40.3,54.5,0,8.1,0,6.51
+Alessandro Buongiorno,"Torino,",23,", D(C)",10(2),908,0,0.2,36.8,81,0.1,1.1,0,6.51
+Danilo Soares,"Bochum,",31,", D(L),M(L)",10,827,0,0.3,34.6,72.8,0,2.4,0,6.51
+Jan Oblak,"Atletico,",29,", GK",12,1053,0,0,22.3,57.5,0,3.6,0,6.51
+Aaron Hickey,"Brentford,",20,", D(LR),M(LR)",8(1),684,0,0.1,27.7,83.1,0.1,0.6,0,6.51
+Yohann Magnin,"Clermont Foot,",25,", DMC",10(5),939,0,0.5,33.7,85,0.1,2.1,0.1,6.51
+Sergio León,"Real Valladolid,",33,", FW",7(6),627,1,0.5,6.5,67.9,0.1,0.4,0,6.51
+Evann Guessand,"Nantes,",21,", AM(R),FW",8(6),635,2,0.6,10.4,79.5,0.1,0.4,0,6.51
+Pere Milla,"Elche,",30,", AM(CL),FW",8(5),806,1,0.7,22.2,76.1,0.1,1,0.2,6.5
+Kevin Behrens,"Union Berlin,",31,", FW",3(12),442,1,0.4,10.1,63.6,0,0.1,0,6.5
+Édouard Mendy,"Chelsea,",30,", GK",8(1),765,0,0,25.1,75.7,0,4.7,0,6.5
+Giorgio Scalvini,"Atalanta,",18,", D(C)",8(3),648,0,0.1,29.5,74.4,0.2,2.6,0,6.5
+Luka Lochoshvili,"Cremonese,",24,", D(C)",12,971,1,0.3,35.6,80.8,0.1,1.1,0,6.5
+Joseph Aidoo,"Celta Vigo,",27,", D(C)",14,1260,0,0.1,52.1,85.5,0,2.4,0,6.5
+Jean-Clair Todibo,"Nice,",22,", D(C)",13,1073,0,0.1,60.5,89.1,0,3,0,6.5
+José Ángel Carmona,"Sevilla,",20,", D(C)",4(5),443,1,0.2,25.7,84,0.3,0.7,0,6.5
+Mohamed Elyounoussi,"Southampton,",28,", AM(CLR),FW",12(2),988,1,0.6,19.7,69.2,0.4,0.7,0.2,6.5
+Kieffer Moore,"Bournemouth,",30,", FW",8(7),750,0,0.3,14.9,60.3,0.1,0.1,0,6.5
+Marco Asensio,"Real Madrid,",26,", AM(CLR),FW",1(8),179,2,0.8,9.6,96.5,0.3,0.4,0.1,6.5
+Patrick Ciurria,"Monza,",27,", M(R)",8(5),771,3,1,26.1,82.9,0.7,0.9,0,6.5
+Divock Origi,"AC Milan,",27,", AM(LR),FW",4(6),432,1,0.6,7.9,70.9,0,0.2,0,6.5
+Gerrit Holtmann,"Bochum,",27,", D(L),M(LR)",7(6),733,1,0.6,12.8,69.3,0.3,0.1,0,6.5
+Samuel Chukwueze,"Villarreal,",23,", AM(CR)",5(8),534,1,1.1,14.1,76,0.3,0.5,0,6.5
+Nathan Collins,"Wolves,",21,", D(CR)",12,1023,0,0.2,52.5,89.7,0,3.8,0,6.5
+Adam Lallana,"Brighton,",34,", M(CLR)",8(3),495,1,1,18.9,84.1,0.2,0.1,0,6.5
+Sebastiaan Bornauw,"Wolfsburg,",23,", D(C)",9(1),727,0,0.1,35.7,81.2,0,1.9,0,6.5
+Sam Lammers,"Empoli,",25,", FW",10(4),886,1,0.7,16.1,63.6,0,0.1,0,6.49
+Giovanni Reyna,"Borussia Dortmund,",20,", AM(CLR)",3(7),363,0,0.7,12.8,74.2,0.5,0.2,0,6.49
+Alexander Hack,"Mainz,",29,", D(C)",13,992,0,0.2,37.9,74.6,0,4.7,0,6.49
+Leandro Cabrera,"Espanyol,",31,", D(CL)",13,1108,0,0.4,44,74.5,0,3.4,0,6.49
+Ángel Correa,"Atletico,",27,", AM(CLR),FW",4(10),509,0,0.6,14.2,82.9,0.3,0.3,0,6.49
+Brecht Dejaegere,"Toulouse,",31,", AM(C)",10(2),776,0,0.4,21.3,80.4,0,0.7,0.1,6.49
+Neeskens Kebano,"Fulham,",30,", AM(CLR)",9(3),719,3,0.9,14,80.4,0.3,0.1,0,6.49
+Adam Webster,"Brighton,",27,", D(C)",13,1170,0,0.2,66,86.5,0.1,4.1,0,6.49
+André Gomes,"Lille,",29,", M(CLR)",6(3),537,0,0.7,43.7,85,0.1,1.6,0,6.49
+Alex Telles,"Sevilla,",29,", D(L),M(L)",7(6),752,2,1,23.7,80.5,1.3,0.7,0,6.49
+Nicolas Jackson,"Villarreal,",21,", FW",8(5),777,2,0.6,10.2,72.7,0.1,0.2,0,6.49
+Jeff Reine-Adélaïde,"Lyon,",24,", AM(CLR),FW",1(10),305,0,0.6,26.2,89.6,0.2,0.5,0.1,6.49
+Tobias Mohr,"Schalke,",27,", D(L),M(CL)",8(3),696,2,1.4,26.7,67,1,3.2,0.1,6.49
+Jeremy Toljan,"Sassuolo,",28,", D(LR),M(LR)",14(1),1319,1,1,41.1,82.6,0.3,2.1,0.1,6.49
+Ferran Torres,"Barcelona,",22,", AM(LR),FW",6(7),567,0,0.5,16.3,83,0.1,0.6,0,6.49
+Jonny Evans,"Leicester,",34,", D(CL)",9,810,0,0.1,74.4,89.4,0,4.3,0,6.49
+Benoît Costil,"Auxerre,",35,", GK",15,1350,0,0,27.1,68.5,0,8.4,0,6.49
+Unai Simón,"Athletic Bilbao,",25,", GK",14,1260,0,0,24.9,71.3,0,4.5,0,6.49
+Rayan Aït-Nouri,"Wolves,",21,", D(L),M(L)",7(3),667,0,0.6,29.4,82.7,0.5,0.6,0,6.48
+Toni Lato,"Valencia,",25,", D(L)",2(7),271,0,1,19.9,87.7,0.6,0.9,0,6.48
+Charalampos Lykogiannis,"Bologna,",29,", D(CL),M(L)",6(6),587,0,0.7,20.3,72,0.7,1.1,0,6.48
+Thierno Baldé,"Troyes,",20,", D(R)",10(1),802,0,0.7,25.3,84.9,0.2,0.3,0,6.48
+Dany Mota,"Monza,",24,", FW",7(3),608,0,0.9,16.5,69.7,0.2,0.3,0,6.48
+Jonathan Burkardt,"Mainz,",22,", AM(CR),FW",7(4),537,2,0.6,8.7,71.9,0.2,0.3,0.1,6.48
+Yoane Wissa,"Brentford,",26,", AM(L),FW",6(9),637,1,0.3,8.7,75.4,0,0.3,0,6.48
+Anthony Caci,"Mainz,",25,", D(CLR),M(L)",6(6),617,0,0.5,28.7,74.1,0.6,3.4,0,6.48
+Nico González,"Valencia,",20,", DMC",5(7),513,0,0.3,30.5,89.9,0,1.3,0,6.48
+Duván Zapata,"Atalanta,",31,", FW",6(3),512,0,0.3,15.4,69.1,0,0.2,0,6.48
+Cheikhou Kouyaté,"Nottingham Forest,",32,", D(CR),DMC",9(3),709,0,0.4,17.1,77.6,0,0.9,0,6.48
+Josuha Guilavogui,"Wolfsburg,",32,", D(C),M(C)",4(6),451,0,0.3,20.6,78.6,0,1.8,0,6.48
+Tonny Vilhena,"Salernitana,",27,", D(L),M(CL)",11(3),987,1,0.6,26.3,79.3,0.5,0.7,0,6.48
+Antonio Rüdiger,"Real Madrid,",29,", D(CR)",7(5),683,0,0.2,40.5,92.8,0,1.8,0.1,6.48
+Filip Djuricic,"Sampdoria,",30,", AM(CLR),FW",13(2),1017,0,1.4,22.9,77.9,0.6,0.9,0,6.48
+Nacho Vidal,"Osasuna,",27,", D(R)",10(3),892,0,0.2,25.7,76.6,0.2,1.3,0.1,6.48
+Alexis Blin,"Lecce,",26,", DMC",6(7),687,0,0.2,22.9,83.6,0.1,0.6,0,6.48
+Gerson,"Marseille,",25,", M(CLR)",6(4),420,0,0.4,17.6,82.4,0,0.3,0,6.48
+Lassine Sinayoko,"Auxerre,",22,", AM(R)",10(4),866,2,0.8,20.9,75.1,0.2,0.6,0.1,6.48
+Haris Belkebla,"Brest,",28,", DMC",12(3),1087,0,0.5,38.3,84.3,0.1,1.5,0,6.47
+Unai Núñez,"Celta Vigo,",25,", D(C)",13,1170,0,0.2,57.2,88.6,0,4.1,0,6.47
+Francis Coquelin,"Villarreal,",31,", M(CLR)",6(5),520,0,0.4,17.9,86.8,0.1,0.6,0.1,6.47
+Pedro Chirivella,"Nantes,",25,", DMC",14,1202,0,0.9,58.6,85.2,0.1,5.4,0.1,6.47
+Gabriel Paulista,"Valencia,",32,", D(CR)",7(3),579,0,0.4,38.2,88.2,0,2.9,0,6.47
+Konstantinos Tsimikas,"Liverpool,",26,", D(L)",4(6),365,3,0.9,20.7,85,1.1,0.4,0,6.47
+Takehiro Tomiyasu,"Arsenal,",24,", D(CLR)",4(7),406,0,0.2,21.9,83.8,0.2,1,0,6.47
+Souleyman Doumbia,"Angers,",26,", D(L),M(L)",13,1078,0,0.5,31.6,81,0.5,0.9,0,6.47
+Stole Dimitrievski,"Rayo Vallecano,",28,", GK",13,1170,0,0,24,54.2,0,3.9,0,6.47
+Emanuele Valeri,"Cremonese,",24,", M(L)",12(2),1007,0,1.1,18.9,61.1,0.9,0.9,0,6.47
+Rubén Sobrino,"Cadiz,",30,", AM(CLR),FW",9(2),801,0,0.6,16.5,77.3,0,0.2,0,6.47
+Wilson Odobert,"Troyes,",18,", Forward",6(9),694,2,0.8,12.1,79.6,0.2,0.2,0,6.47
+Nemanja Radonjic,"Torino,",26,", M(CLR)",7(7),697,1,0.6,13.5,68.8,0.6,0.4,0.1,6.47
+Yan Couto,"Girona,",20,", D(R),M(R)",5(5),505,0,0.5,25.8,81.4,0.4,1,0,6.47
+Agustín Marchesín,"Celta Vigo,",34,", GK",14,1260,0,0,28.6,67.8,0,6,0,6.47
+Arkadiusz Reca,"Spezia,",27,", D(L),M(L)",9(2),792,1,0.5,26.9,72.3,1,1.5,0,6.47
+Arnaud Nordin,"Montpellier,",24,", AM(CLR),FW",10(3),811,1,0.2,14.7,79.1,0.4,0.5,0,6.47
+Eric Martel,"FC Koln,",20,", DMC",9(3),768,0,0.3,29.7,81.2,0.2,0.6,0,6.47
+Leonardo Spinazzola,"Roma,",29,", D(LR),M(L)",8(3),739,1,0.7,28.4,77.2,0.5,1.8,0.1,6.47
+Pape Gueye,"Marseille,",23,", DMC",3(6),338,0,0.2,24.7,83.8,0.1,1.2,0,6.47
+Stephan El Shaarawy,"Roma,",30,", M(CLR),FW",1(9),340,0,0.7,16,81.3,0,0.9,0,6.47
+Matheus Nunes,"Wolves,",24,", AM(C)",11(1),862,1,0.9,25.7,81.2,0.1,1.8,0,6.46
+Renato Tapia,"Celta Vigo,",27,", D(C),DMC",7(4),641,0,0.7,32.5,87.7,0.1,3,0,6.46
+Fernando Calero,"Espanyol,",27,", D(C)",10(2),875,0,0.3,33.7,83.9,0,2.6,0,6.46
+Hugo Magnetti,"Brest,",24,", DMC",6(6),587,0,0.3,24.3,83.9,0.3,2.3,0,6.46
+Thomas Ouwejan,"Schalke,",26,", D(L),M(L)",9(1),743,1,1.6,26.5,69.1,2.4,1.3,0,6.46
+Mathias Pereira Lage,"Brest,",26,", M(CLR)",12(3),950,1,0.6,18.4,72.8,0.1,0.9,0,6.46
+Adam Hlozek,"Leverkusen,",20,", AM(CL),FW",7(6),577,2,1,10.6,82.6,0.4,0.3,0.1,6.46
+Sebastiano Luperto,"Empoli,",26,", D(C)",13,1086,0,0.2,38.7,84.5,0.1,2.2,0.1,6.46
+András Schäfer,"Union Berlin,",23,", M(C)",8(3),707,0,0.3,18.8,76.3,0.1,0.2,0.1,6.46
+Ezri Konsa,"Aston Villa,",25,", D(CR)",14(1),1261,0,0.3,43.6,83.8,0.1,1.9,0.1,6.46
+Mathías Olivera,"Napoli,",25,", D(L),M(L)",4(7),376,0,0.5,25.2,85.6,0.2,0.8,0,6.46
+Joe Worrall,"Nottingham Forest,",25,", D(C)",7(4),713,0,0.2,38.7,82.9,0,2.5,0,6.46
+Matty Cash,"Aston Villa,",25,", D(R),M(CLR)",12(1),1032,0,0.5,31.5,74.4,0.7,1.3,0.1,6.46
+Daniel Podence,"Wolves,",27,", AM(CLR),FW",12(3),1022,0,1.5,22.7,69.5,0.5,1,0,6.46
+Pablo Fornals,"West Ham,",26,", M(CLR)",9(5),781,0,0.6,25.6,79.3,0.3,1.9,0.1,6.46
+Martín Satriano,"Empoli,",21,", FW",11(2),878,1,0.5,13,71.6,0.1,0.2,0,6.46
+Robin Koch,"Leeds,",26,", D(C),DMC",14,1216,0,0,50.6,77.8,0,2.6,0,6.46
+Lewis Dunk,"Brighton,",31,", D(C)",14,1260,0,0.1,68.6,89.2,0,5.1,0,6.46
+Christian Groß,"Werder Bremen,",33,", D(C),DMC",11(2),911,0,0.3,30.9,82.8,0.1,0.9,0.1,6.46
+Razvan Marin,"Empoli,",26,", M(C)",10(5),980,0,1.1,36.5,84.8,0.5,2.5,0,6.46
+Piero Hincapié,"Leverkusen,",20,", D(CL)",11(2),1011,0,0.3,51.2,83.3,0.2,1.5,0.1,6.45
+Adam Smith,"Bournemouth,",31,", D(LR),M(LR)",15,1306,1,0.4,32.1,80.2,0.6,2,0,6.45
+Clerc,"Elche,",30,", D(L),M(L)",10,864,1,0.3,34.4,76.5,0.3,0.9,0,6.45
+Andrea Pinamonti,"Sassuolo,",23,", FW",14(1),1162,0,0.6,16,63.3,0.1,0.1,0.1,6.45
+Robert Sánchez,"Brighton,",25,", GK",14,1260,0,0,29.5,67.8,0,4.3,0,6.45
+Lukás Hrádecky,"Leverkusen,",33,", GK",14,1260,0,0,29.4,69.9,0,5.6,0,6.45
+Brandon Soppy,"Atalanta,",20,", D(R),M(LR)",7(3),530,3,0.8,18.4,78.8,0.2,0.5,0,6.45
+Yan Valery,"Angers,",23,", D(CR),M(R)",9,672,0,0.2,24.4,75,0.2,1.3,0,6.45
+Rubén Peña,"Osasuna,",31,", D(R),M(LR)",6(4),566,1,0.7,17.8,77,0.5,1,0,6.45
+Lucas Perrin,"Strasbourg,",24,", D(C)",5(4),551,0,0.2,30.8,84.1,0.1,2.2,0,6.45
+Gianluca Scamacca,"West Ham,",23,", FW",9(4),758,0,0.9,11.3,66.7,0.1,0.8,0,6.45
+Roberto Soriano,"Bologna,",31,", AM(CLR)",6(8),635,3,0.8,17.7,79.4,0.1,0.6,0.3,6.45
+Hugo Ekitike,"PSG,",20,", FW",2(7),224,2,0.6,9.7,87.4,0,0.2,0,6.45
+Kevin Vogt,"Hoffenheim,",31,", D(CR),M(C)",14,1193,0,0.1,60.5,89.5,0,5.4,0,6.45
+Miguel Gutiérrez,"Girona,",21,", D(L)",11(2),915,2,0.8,28.8,82.9,0.8,0.8,0.1,6.44
+Antonio Candreva,"Salernitana,",35,", M(CLR)",13(2),1172,1,1.5,36.8,81.7,1.1,2.7,0.1,6.44
+Takumi Minamino,"Monaco,",27,", AM(CLR),FW",5(4),333,3,0.3,10.4,76.6,0.4,0.2,0,6.44
+Miha Blazic,"Angers,",29,", D(C)",10,856,0,0,54.6,87.5,0,3.8,0,6.44
+Linton Maina,"FC Koln,",23,", M(CLR),FW",9(5),811,3,1.1,13.1,74.9,0.6,0.1,0,6.44
+Luka Jovic,"Fiorentina,",24,", FW",9(5),750,0,0.6,9.9,75.4,0,0.6,0,6.44
+Matt Targett,"Newcastle,",27,", D(L),M(L)",4(6),421,0,0.7,22.4,80.4,0.5,0.8,0,6.44
+Kevin Agudelo,"Spezia,",24,", AM(CR),FW",11(4),983,0,0.7,19.4,73.9,0.3,0.7,0.1,6.44
+James Milner,"Liverpool,",36,", D(LR),M(CLR)",4(8),464,1,0.8,24,78.8,0.7,1.7,0.1,6.44
+Dimitri Liénard,"Strasbourg,",34,", D(L),M(CL)",9(4),747,0,1,29.5,78.1,1.2,2.4,0,6.44
+Lucas Olaza,"Real Valladolid,",28,", D(L),M(L)",6(3),641,0,1.2,28.6,83.3,0.8,1.8,0,6.44
+Valentino Lazaro,"Torino,",26,", D(R),M(CLR)",11(2),909,1,1.3,32.5,78.3,1.2,1.1,0,6.44
+Luca Zanimacchia,"Cremonese,",24,", AM(C)",8(4),661,0,0.9,19.5,73.9,1.1,0.4,0,6.44
+Ante Budimir,"Osasuna,",31,", FW",7(4),557,0,0.5,7.8,61.6,0,0,0,6.44
+Sergio Herrera,"Osasuna,",29,", GK",10,900,0,0.1,32.7,58.1,0,10.4,0,6.44
+Maximilian Bauer,"Augsburg,",22,", D(C)",12(2),1038,0,0.1,29.3,71.7,0,2.6,0,6.44
+Martin Braithwaite,"Espanyol,",31,", AM(CLR),FW",9,706,1,0.4,12.9,63.8,0,0.4,0,6.44
+Álex Fernández,"Cadiz,",30,", M(CL),FW",8(4),701,0,0.5,23.7,88,0.3,0.8,0,6.44
+Federico Ceccherini,"Verona,",30,", D(C)",9,641,0,0.3,29.9,78.8,0,2,0,6.44
+Tyrick Mitchell,"Crystal Palace,",23,", D(L)",12(2),980,2,0.4,32.9,72,0.1,1.2,0,6.44
+Adama Traoré,"Wolves,",26,", M(CLR),FW",6(6),621,0,0.9,14.3,73.1,0.9,0.3,0,6.44
+Cristian Buonaiuto,"Cremonese,",29,", Midfielder",2(9),365,0,0.8,14.2,74.4,0.6,0.4,0,6.44
+Álvaro Aguado,"Real Valladolid,",26,", M(C)",8(5),747,2,1.2,31.3,86.5,0.3,3.5,0.2,6.44
+Alexander Schwolow,"Schalke,",30,", GK",15,1350,0,0.1,32.7,60.2,0,9.5,0,6.44
+Isak Hien,"Verona,",23,", D(C)",8(4),880,0,0.2,31,74.5,0.1,1.5,0,6.44
+Jakub Kaminski,"Wolfsburg,",20,", M(LR)",10(3),804,2,0.8,14.8,72.5,0.2,0.2,0,6.43
+Jean-Victor Makengo,"Udinese,",24,", AM(CL)",9(3),645,1,0.4,20.8,85.9,0.1,0.3,0,6.43
+Alejandro Pozo,"Almeria,",23,", D(R),M(R)",6(4),579,1,0.7,26.8,72.8,0.7,2.1,0,6.43
+Arthur Cabral,"Fiorentina,",24,", FW",4(8),496,1,0.6,7.8,76.3,0,0.3,0,6.43
+Erik Lamela,"Sevilla,",30,", AM(CLR),FW",10(3),958,0,1.2,29.2,80.5,0.3,0.8,0,6.43
+Cristhian Stuani,"Girona,",36,", AM(CLR),FW",3(7),413,0,0.4,5.8,75.9,0.1,0.3,0,6.43
+Iván Sánchez,"Real Valladolid,",30,", AM(CR)",7(4),556,0,0.7,21.5,84.8,0.5,1.3,0,6.43
+Chris Mepham,"Bournemouth,",25,", D(C)",14,1252,0,0.1,41,83.4,0,1.9,0,6.43
+Pietro Terracciano,"Fiorentina,",32,", GK",12,1080,0,0,29.8,72.8,0,7.1,0,6.43
+Fábio Carvalho,"Liverpool,",20,", AM(CL)",4(7),335,0,0.1,11.9,83.2,0.1,0.2,0,6.43
+Marius Bülter,"Schalke,",29,", D(R),M(CLR),FW",14(1),1177,0,1.1,20.2,68.3,0.7,0.5,0.1,6.43
+Mads Pedersen,"Augsburg,",26,", D(L),M(CL)",7(5),692,0,0.5,14.8,69.5,0.5,0.7,0,6.43
+Mattias Svanberg,"Wolfsburg,",23,", M(CL)",7(7),626,2,0.7,11.1,71.6,0.3,0.3,0,6.43
+Darko Brasanac,"Osasuna,",30,", M(CR)",4(8),482,1,0.2,13.9,84.4,0.1,0.3,0,6.43
+Milan Skriniar,"Inter,",27,", D(C)",14(1),1280,0,0.3,67,92.1,0,2.7,0,6.43
+Nahuel Molina,"Atletico,",24,", D(R),M(R)",11,927,0,0.9,42.3,78.3,0.6,2.3,0.1,6.43
+Théo Le Bris,"Lorient,",20,", Defender",9(5),816,0,0.4,21.3,80.9,0.1,0.4,0,6.43
+Benno Schmitz,"FC Koln,",28,", D(CLR)",13(1),1038,0,0.7,30.5,63.2,0.9,1.8,0,6.43
+Romano Schmid,"Werder Bremen,",22,", AM(CL)",10(4),937,2,0.9,31.5,75.7,0.1,1.3,0.1,6.43
+Jérémie Bela,"Clermont Foot,",29,", M(LR)",7(3),568,1,0.2,13.4,72.4,0.2,0.1,0,6.43
+Srdjan Babic,"Almeria,",26,", D(C)",12(1),1125,0,0.3,42.7,88.3,0.1,2.8,0,6.43
+Omar Colley,"Sampdoria,",30,", D(C)",12(1),1125,0,0,46.2,86,0,2.7,0,6.43
+Jean-Kévin Duverne,"Brest,",25,", D(CLR)",11(3),1104,0,0.4,36.9,75.6,0.2,3.1,0,6.42
+Gaetan Perrin,"Auxerre,",26,", Forward",3(12),432,1,0.3,9.9,77.2,0,0.5,0,6.42
+Fredrik Jensen,"Augsburg,",25,", AM(C),FW",6(5),618,1,1.1,15.8,58.6,0.5,1.2,0,6.42
+Yoann Salmier,"Troyes,",30,", D(C)",13,1074,0,0.2,42.6,84.5,0,2.7,0,6.42
+Jean-Eudes Aholou,"Strasbourg,",28,", DMC",7(5),591,0,0.5,18.8,70.4,0,0.8,0.3,6.42
+Matheus Cunha,"Atletico,",23,", AM(CL),FW",2(9),372,2,0.5,7.2,78.5,0.1,0.2,0.1,6.42
+Dodô,"Fiorentina,",24,", D(R)",11(1),872,1,0.5,43.8,85.6,0.1,1.8,0,6.42
+Aihen Muñoz,"Real Sociedad,",25,", D(L)",8(1),667,0,0.4,32.4,83.9,0.6,0.8,0,6.42
+Erik Palmer-Brown,"Troyes,",25,", D(C)",14(1),1250,0,0.3,35.3,85.8,0.1,1.9,0,6.42
+Álvaro Negredo,"Cadiz,",37,", FW",5(5),410,1,0.4,10,58,0,0.5,0.1,6.42
+Bafodé Diakité,"Lille,",21,", D(CR)",12(2),1120,0,0.2,47.4,86.7,0.1,1.8,0,6.42
+Fabio Depaoli,"Verona,",25,", D(R),DMC,M(LR)",7(3),667,2,0.7,16.2,65.4,0.6,1,0,6.42
+Carlos Gruezo,"Augsburg,",27,", DMC",12(1),965,0,0.5,21,72.9,0,2.3,0.1,6.42
+Vladimír Coufal,"West Ham,",30,", D(R),M(R)",7(2),684,0,0.9,29.3,67.4,0.6,1.4,0,6.42
+Marcos Senesi,"Bournemouth,",25,", D(C)",11(1),941,0,0.3,35.9,80.7,0.1,2.9,0,6.42
+Charles Aránguiz,"Leverkusen,",33,", M(C)",4(6),493,0,0.3,29.7,83.2,0,1,0,6.41
+Unai López,"Rayo Vallecano,",27,", M(CR)",6(7),553,2,0.7,31.1,86.6,0.5,3.6,0,6.41
+Bartosz Bereszynski,"Sampdoria,",30,", D(CLR),M(R)",14,1113,0,0.1,32.7,75.1,0.2,1.1,0,6.41
+Christopher Antwi-Adjei,"Bochum,",28,", AM(CLR)",4(6),454,2,0.8,9.1,68.1,0.5,0.4,0,6.41
+Moussa Dembélé,"Lyon,",26,", FW",6(6),573,0,0.1,9.9,76.5,0,0,0,6.41
+Jørgen Strand Larsen,"Celta Vigo,",22,", FW",9(1),696,2,0.4,12.1,68.6,0,0.3,0,6.41
+Elseid Hysaj,"Lazio,",28,", D(LR),M(R)",3(9),375,1,0.3,20.4,85.7,0.1,0.5,0.1,6.41
+Mickaël Alphonse,"AC Ajaccio,",33,", D(R)",7(5),650,0,0.5,23.6,68.6,0.3,1.3,0,6.41
+Cyrille Bayala,"AC Ajaccio,",26,", AM(R)",10(4),766,0,0.2,15.4,65.3,0.1,0.4,0,6.41
+Alfonso Espino,"Cadiz,",30,", D(L)",13(1),1143,3,0.6,29.1,65.2,0.3,1.1,0,6.41
+Emil Forsberg,"RBL,",31,", AM(CLR),FW",6(6),585,2,0.5,18.8,85.8,0,0.6,0,6.41
+Ludovic Ajorque,"Strasbourg,",28,", FW",6(4),508,0,0.6,17.6,71.6,0,0.4,0,6.41
+Jordan Zemura,"Bournemouth,",23,", D(L)",9(2),788,1,1.1,22.5,69.8,0.3,0.6,0,6.41
+Stefan Mitrovic,"Getafe,",32,", D(C)",11(2),1034,0,0,26.8,82.8,0,2.2,0,6.41
+Thomas Mangani,"AC Ajaccio,",35,", M(C)",5(8),516,1,1.2,26.8,74.2,0.9,2.8,0.1,6.41
+Lameck Banda,"Lecce,",21,", AM(L)",10(5),893,1,0.4,12.2,68.9,0.1,0.1,0,6.41
+Bevic Moussiti-Oko,"AC Ajaccio,",27,", FW",5(7),485,0,0.3,7.9,54.7,0,0,0,6.41
+Nadiem Amiri,"Leverkusen,",26,", M(CLR)",3(8),418,1,0.5,17.9,82.7,0,0.6,0,6.41
+Jon Pacheco,"Real Sociedad,",21,", D(C)",7(2),677,0,0,55.1,91.1,0,2,0,6.41
+Kristian Thorstvedt,"Sassuolo,",23,", M(C)",10(5),799,1,0.5,19.6,77.9,0.1,0.5,0,6.4
+Samuele Birindelli,"Monza,",23,", M(R)",7(5),639,1,0.9,20.3,73,1.2,0.6,0,6.4
+Tyrell Malacia,"Man Utd,",23,", D(L)",6(3),567,0,0,23.8,84.1,0.2,0.6,0,6.4
+Karim Adeyemi,"Borussia Dortmund,",20,", AM(R),FW",7(4),492,0,0.7,15.2,75.4,0,0.4,0,6.4
+Silvan Widmer,"Mainz,",29,", D(CR),M(R)",11(2),927,0,0.6,27.8,74.5,0.1,1.2,0,6.4
+Andrea Consigli,"Sassuolo,",35,", GK",15,1350,0,0,41,76.4,0,9.8,0,6.4
+Nicola Zalewski,"Roma,",20,", M(L)",7(4),596,0,0.4,24.4,78,0.4,1.9,0.1,6.4
+Amine Salama,"Angers,",22,", FW",5(8),529,1,0.3,9.5,74.8,0,0.1,0,6.4
+Ivan Sunjic,"Hertha Berlin,",26,", DMC",10(3),844,0,0.3,24.1,76.4,0,1.2,0.1,6.4
+Rafa Mir,"Sevilla,",25,", FW",7(2),562,0,0.3,9.3,71.4,0,0.1,0,6.4
+Darko Lazovic,"Verona,",32,", M(CLR)",10(1),838,1,1,22.6,67.5,0.9,1.1,0.2,6.4
+Joakim Maehle,"Atalanta,",25,", D(LR),M(LR)",8(6),804,1,1.1,28.5,80.7,0.2,0.8,0.1,6.4
+Gian Marco Ferrari,"Sassuolo,",30,", D(C)",14,1259,0,0.1,48.8,86.2,0,4.6,0,6.4
+Adrien Thomasson,"Strasbourg,",28,", M(CLR)",8(5),758,2,1.1,32.7,83.1,0.2,1,0.1,6.4
+Rick Karsdorp,"Roma,",27,", D(R),M(R)",7(2),550,0,0.6,23.9,77.7,0.1,1.3,0.2,6.4
+Mitchell van Bergen,"Reims,",23,", AM(LR),FW",3(9),420,1,0.8,7.6,73.6,0.5,0.1,0,6.4
+Mateo Kovacic,"Chelsea,",28,", M(CL)",5(6),634,1,0.7,43.8,83.4,0.1,1.6,0.1,6.39
+Thomas Henry,"Verona,",28,", FW",13(2),1031,0,0.9,14.1,54.5,0,0.3,0.1,6.39
+Cristiano Ronaldo,"Man Utd,",37,", M(L),FW",4(6),520,0,0.6,15.8,76.6,0,0.1,0,6.39
+Joaquín Correa,"Inter,",28,", AM(CL),FW",3(10),332,1,0.3,6.8,73,0,0.3,0.2,6.39
+Victor Chust,"Cadiz,",22,", D(C)",9(2),852,0,0.1,35.5,83.1,0,5.1,0,6.39
+Matheus Henrique,"Sassuolo,",24,", M(C)",4(5),484,0,0.9,27.9,85.7,0,1.3,0,6.39
+Sanjin Prcic,"Strasbourg,",29,", M(C)",9(4),789,1,0.4,39.2,84.1,0.4,4.2,0.2,6.39
+Rubén Vargas,"Augsburg,",24,", AM(CLR),FW",5(6),491,1,0.5,11.5,54.8,0.1,0.3,0,6.39
+Rodrigo Riquelme,"Girona,",22,", AM(C)",9(4),798,0,0.5,15.2,74.1,0.2,0.4,0,6.39
+Jérémy Le Douaron,"Brest,",24,", AM(L),FW",6(5),521,0,0.1,8,73.9,0.1,0,0,6.39
+Charles Pickel,"Cremonese,",25,", M(C)",12(2),1011,0,0.6,27.9,82.1,0,0.9,0,6.39
+Nemanja Maksimovic,"Getafe,",27,", M(C)",10(2),718,0,0.3,15.8,82.6,0.1,0.3,0,6.39
+Marlon Santos,"Monza,",27,", D(C)",10(1),826,0,0.1,48.8,92.9,0.3,1.9,0,6.39
+Sofyan Amrabat,"Fiorentina,",26,", DMC",10(3),819,0,0.5,44.2,90.8,0.4,4.8,0,6.39
+Michail Antonio,"West Ham,",32,", D(R),M(CLR),FW",6(8),605,1,0.5,7.6,56.6,0.1,0.1,0,6.39
+Miguel Veloso,"Verona,",36,", M(C)",10(4),824,0,0.9,26.6,76.3,1,2.3,0.1,6.38
+Gonçalo Guedes,"Wolves,",26,", AM(CLR),FW",8(4),693,1,0.8,14.1,75.1,0.6,0.7,0,6.38
+Leandro Paredes,"Juventus,",28,", DMC",3(6),385,0,0.7,28.7,94.6,0.4,2.1,0,6.38
+Thomas Delaine,"Strasbourg,",30,", D(L),M(LR)",8(4),714,1,0.4,22.9,70.5,0.7,0.3,0,6.38
+Elvis Rexhbecaj,"Augsburg,",25,", M(C)",14,1223,0,0.3,25.4,60.1,0.1,0.9,0,6.38
+Íñigo Eguaras,"Almeria,",30,", M(C)",6(5),495,1,0.5,25.9,84.9,0.1,1.8,0.3,6.38
+Rodri,"Real Betis,",22,", AM(LR)",10(1),704,0,0.3,29.2,90.3,0.2,0.8,0,6.38
+Joseba Zaldúa,"Cadiz,",30,", D(R)",7(3),640,1,0.2,21.4,70.1,0.3,1.1,0,6.38
+Lee Buchanan,"Werder Bremen,",21,", D(L),M(L)",1(8),217,0,0.2,9.9,75.3,0.1,0.9,0,6.38
+Sergi Gómez,"Espanyol,",30,", D(CR)",10(1),895,0,0.1,40.6,86.6,0.1,3.4,0,6.38
+Thilo Kehrer,"West Ham,",26,", D(CLR),M(R)",13,1170,0,0.2,47.3,85.5,0.1,2,0,6.38
+Alexis Claude-Maurice,"Lens,",24,", AM(CL)",1(8),213,2,0.6,9.9,80.9,0.1,0.1,0,6.38
+Fred,"Man Utd,",29,", M(C)",4(7),394,0,0.8,22.8,81.3,0.1,0.7,0.1,6.38
+Daniel-Kofi Kyereh,"Freiburg,",26,", AM(CLR),FW",5(4),432,0,0.2,15,79.3,0,0.2,0,6.38
+Josko Gvardiol,"RBL,",20,", D(CL)",8(5),765,0,0.3,55,89.1,0.1,3.3,0,6.37
+Nicolò Cambiaghi,"Empoli,",21,", Forward",1(8),247,0,0.2,9,81.5,0,0.3,0,6.37
+Riccardo Saponara,"Fiorentina,",30,", AM(CL)",4(8),445,2,0.8,14.6,81.1,0.3,0.3,0.1,6.37
+Gianluca Caprari,"Monza,",29,", AM(CLR),FW",13(2),971,1,0.9,26.5,85.4,0.5,0.7,0,6.37
+Philippe Coutinho,"Aston Villa,",30,", M(CLR)",6(6),570,0,0.5,22.3,82.4,0.2,0.4,0,6.37
+Falaye Sacko,"Montpellier,",27,", D(CR),M(R)",10(2),882,2,0.8,29.6,82.3,0.4,0.8,0,6.37
+Jeison Murillo,"Sampdoria,",30,", D(C)",7(2),638,0,0.1,37.4,82.2,0,2.4,0,6.37
+Alex Ferrari,"Sampdoria,",28,", D(CR)",10(2),869,0,0.3,37.5,85.1,0,2.5,0,6.37
+Lucas Boyé,"Elche,",26,", AM(L),FW",9(3),736,2,0.6,15.1,80.1,0.4,0.8,0.1,6.37
+Tommaso Pobega,"AC Milan,",23,", M(C)",5(4),444,0,0.3,19.8,75.8,0,1,0,6.37
+Steve Cook,"Nottingham Forest,",31,", D(C)",11(1),959,0,0.3,37.9,80.7,0.1,2.7,0,6.37
+Clément Vidal,"AC Ajaccio,",22,", D(C)",6(3),574,0,0.1,34,80.7,0.1,3.1,0,6.37
+Enzo Tchato Mbiayi,"Montpellier,",20,", D(R)",7(5),690,1,0.3,19.6,75.3,0.6,0.6,0,6.37
+Grejohn Kyei,"Clermont Foot,",27,", FW",6(8),596,1,0.2,8.7,70.5,0.1,0.4,0,6.37
+Mathieu Coutadeur,"AC Ajaccio,",36,", M(C)",9(3),805,0,0.6,45.3,85.3,0.1,3.4,0,6.37
+Ilia Gruev,"Werder Bremen,",22,", DMC",9(4),718,0,0.4,26.3,87.4,0.3,1.1,0,6.37
+Kevin Trapp,"Eintracht Frankfurt,",32,", GK",15,1350,0,0,21.5,59.1,0,3.6,0,6.37
+Cristian Gamboa,"Bochum,",33,", D(R),M(R)",15,1279,0,0.6,30.1,67,0.7,3.7,0,6.37
+Nicolas Haas,"Empoli,",26,", M(C)",9(3),748,0,0.4,19.2,76.1,0,0.6,0,6.37
+Mahdi Camara,"Brest,",24,", D(CR),DMC",7(3),585,0,0.3,24.6,88.2,0,0.6,0,6.36
+Romain Hamouma,"AC Ajaccio,",35,", M(CLR),FW",8(2),598,1,1,16.9,81.7,0.9,0.5,0,6.36
+Mehdi Léris,"Sampdoria,",24,", M(CLR)",10(3),850,1,0.4,22.4,71.8,0.1,1.1,0,6.36
+Isaac Success,"Udinese,",26,", AM(LR),FW",8(7),760,3,0.6,16.4,64.6,0,0.4,0,6.36
+Leandro Barreiro,"Mainz,",22,", DMC",7(6),666,0,0.5,12.2,70.9,0.1,0.3,0,6.36
+Juan Cruz,"Osasuna,",30,", D(CL)",11(2),1004,0,0.6,27.4,81.2,0.7,0.7,0,6.36
+Largie Ramazani,"Almeria,",21,", FW",9(5),800,0,0.5,11.3,69,0.1,0.6,0.1,6.36
+Martin Hongla,"Verona,",24,", D(C),DMC",6(3),524,0,0.3,22.6,80.8,0.1,1.3,0,6.36
+Aritz Elustondo,"Real Sociedad,",28,", D(CR)",7(4),619,0,0.3,31.7,84.5,0.2,1.6,0,6.36
+Lewis O'Brien,"Nottingham Forest,",24,", D(L),M(CL)",6(5),524,0,0.4,17.5,79.7,0,0.2,0,6.35
+Stanley Nsoki,"Hoffenheim,",23,", D(CL)",7(2),644,0,0.1,45.2,80.3,0,2,0,6.35
+Raúl García,"Athletic Bilbao,",36,", M(CLR),FW",2(11),348,1,0.2,8.5,66.4,0.1,0.3,0.1,6.35
+Adam Armstrong,"Southampton,",25,", AM(CLR),FW",11(3),879,1,0.7,14.6,77.5,0.1,0.5,0,6.35
+Jamie Vardy,"Leicester,",35,", AM(L),FW",8(7),750,4,0.4,7.2,59.3,0,0.1,0,6.35
+Gauthier Gallon,"Troyes,",29,", GK",12,1080,0,0.1,24.1,70.6,0,3.3,0,6.35
+Jean-Paul Boëtius,"Hertha Berlin,",28,", AM(CL),FW",5(6),572,0,0.7,20.1,73.8,0.1,1.3,0,6.35
+Arnaud Souquet,"Montpellier,",30,", D(CR),M(R)",3(7),339,0,0.3,10.3,75.7,0.1,0.4,0.1,6.35
+Remo Freuler,"Nottingham Forest,",30,", DMC",9(2),834,0,0.3,32.5,80.4,0.1,1.2,0,6.35
+Kike García,"Osasuna,",33,", FW",3(11),419,0,0.4,6.1,71.8,0,0,0,6.35
+Pedro Bigas,"Elche,",32,", D(CL)",12(1),972,0,0,38.3,82.1,0.1,2.5,0,6.35
+Adama Soumaoro,"Bologna,",30,", D(CR)",9(1),786,0,0.1,34.1,92.4,0,1,0,6.35
+Denis Huseinbasic,"FC Koln,",21,", Midfielder",3(6),372,1,0.4,14.8,85.7,0,0.4,0,6.34
+Mattia Caldara,"Spezia,",28,", D(C)",6(3),598,0,0.1,31.3,76.6,0,1.2,0,6.34
+Fabio Miretti,"Juventus,",19,", AM(C)",6(7),621,1,0.8,19.8,72.1,0.4,0.5,0,6.34
+Antonín Barak,"Fiorentina,",28,", AM(CR)",8(4),705,0,0.7,23.7,79.9,0,1,0,6.34
+Tolgay Arslan,"Udinese,",32,", M(C)",6(8),507,0,0.2,16.4,83.8,0,1.4,0,6.34
+Riad Nouri,"AC Ajaccio,",37,", Midfielder",6(8),726,1,1,17.3,76.9,1.2,0.5,0,6.34
+Samú Costa,"Almeria,",22,", M(C)",8(3),766,0,0.5,32.1,80.5,0,3,0,6.34
+Anthony Elanga,"Man Utd,",20,", AM(LR)",5(5),371,1,0.5,10.5,78.1,0.1,0.2,0,6.34
+Yasser Larouci,"Troyes,",21,", D(L)",9(4),750,0,0.7,23.5,79.7,0.6,0.4,0.2,6.34
+Pierrick Capelle,"Angers,",35,", D(L),M(CLR)",6(6),577,1,0.3,21.3,83.6,0.2,0.9,0,6.34
+Dennis Appiah,"Nantes,",30,", D(CLR),M(R)",9(6),796,0,0.3,25.1,75.9,0.3,0.6,0,6.34
+Giulio Maggiore,"Salernitana,",24,", M(C)",9(1),659,0,0.3,35.1,77.2,0.1,1.2,0.1,6.34
+Jacob Murphy,"Newcastle,",27,", D(R),M(LR)",5(10),487,1,0.4,9.5,66.9,0.2,0,0.1,6.34
+Habib Diarra,"Strasbourg,",18,", M(C)",4(5),437,0,0,18.2,76.2,0,0.6,0,6.34
+Pablo Rosario,"Nice,",25,", D(C),DMC",7(3),673,0,0.6,37.4,89.8,0.1,2.1,0,6.33
+Hugo Mallo,"Celta Vigo,",31,", D(CR),M(R)",11,878,0,0.4,42.1,80.3,0.5,1.5,0,6.33
+Jeong Woo-Yeong,"Freiburg,",23,", AM(CR),FW",3(10),463,1,0.3,12.2,79.2,0.2,0.2,0,6.33
+Nedim Bajrami,"Empoli,",23,", AM(C)",7(8),807,0,0.9,16.6,78.7,0.5,0.5,0,6.33
+Soualiho Meïté,"Cremonese,",28,", M(C)",9(1),694,0,0.4,25.4,79.9,0.1,0.9,0,6.33
+Lorenzo Colombo,"Lecce,",20,", FW",5(8),468,2,0.3,7.5,70.4,0,0.1,0,6.33
+Marcos André,"Valencia,",26,", FW",3(8),366,0,0.3,4.1,66.7,0,0,0.1,6.33
+Rui Patrício,"Roma,",34,", GK",15,1350,0,0,21.9,78.7,0,4.2,0,6.33
+Riccardo Orsolini,"Bologna,",25,", M(CR),FW",6(6),619,1,0.6,16,60.9,0.4,1,0,6.33
+Odilon Kossounou,"Leverkusen,",21,", D(CR)",5(6),516,1,0.2,28.1,82.8,0.1,0.6,0,6.33
+Sékou Mara,"Southampton,",20,", FW",2(7),209,1,0.4,3.7,66.7,0,0.1,0.1,6.33
+Sargis Adamyan,"FC Koln,",29,", AM(CLR),FW",3(11),430,1,0.5,7.5,75.2,0.3,0.4,0.1,6.33
+Luis Hernández,"Cadiz,",33,", D(CR)",12,1080,0,0.3,37.5,79.1,0.1,3.3,0,6.33
+Juan Carlos Martín,"Girona,",34,", GK",10,900,0,0,28.9,82.4,0,4.1,0,6.33
+Dominick Drexler,"Schalke,",32,", AM(CLR)",10(2),736,3,0.8,18.5,67.6,0.3,0.6,0,6.33
+Morten Thorsby,"Union Berlin,",26,", M(CLR)",4(7),431,0,0.1,8.4,68.5,0,0.3,0,6.33
+Atakan Karazor,"Stuttgart,",26,", D(C),DMC",5(7),482,0,0.3,21.2,84.3,0,0.8,0,6.32
+Florian Müller,"Stuttgart,",25,", GK",15,1350,0,0.1,33.1,79.9,0,6.8,0,6.32
+Jerdy Schouten,"Bologna,",25,", DMC",10(1),856,0,0.4,35.4,82.5,0,1.1,0,6.32
+Simon Zoller,"Bochum,",31,", AM(LR),FW",13(1),987,1,0.5,14.1,63.5,0.1,0.7,0.1,6.32
+Valère Germain,"Montpellier,",32,", AM(CLR),FW",2(11),287,0,0.2,8.1,75.2,0,0,0,6.32
+Andoni Gorosabel,"Real Sociedad,",26,", D(R)",8(3),716,0,0.5,31.6,87.4,0.4,1.6,0,6.32
+Remi Oudin,"Lecce,",26,", M(CLR),FW",1(8),210,0,0.3,10.1,62.6,0.2,0.7,0,6.32
+Joan Jordán,"Sevilla,",28,", M(C)",9(1),687,0,0.4,42.8,86.9,0,2.8,0.1,6.32
+Alex Král,"Schalke,",24,", DMC",10(2),905,0,0.3,25.6,69.7,0,1.5,0.1,6.32
+Federico Bonazzoli,"Salernitana,",25,", AM(C),FW",9(5),735,1,0.4,15.4,76.7,0.1,1.4,0,6.32
+Frank Onyeka,"Brentford,",24,", DMC",4(8),439,1,0.4,10.6,75.6,0,0.3,0,6.32
+José Morales,"Villarreal,",35,", D(R),M(CLR),FW",3(10),421,0,0.2,5.8,63.2,0,0.2,0,6.32
+Iago,"Augsburg,",25,", D(L),M(L)",13,1093,1,0.5,25.8,63.1,0.5,1.5,0,6.32
+Benjamin Leroy,"AC Ajaccio,",33,", GK",14,1179,0,0,21.3,56,0,5.6,0,6.32
+Wilfred Ndidi,"Leicester,",25,", D(C),DMC",7(3),637,0,0,42.3,87.7,0,0.6,0,6.32
+Toni Villa,"Girona,",27,", AM(CL)",3(7),286,0,0.3,11.4,81.6,0.2,0.2,0,6.31
+Javier Puado,"Espanyol,",24,", AM(LR),FW",8(5),751,0,0.6,13.2,83.7,0,0.4,0,6.31
+Iddrisu Baba,"Mallorca,",26,", DMC",6(5),547,0,0.2,17.8,85.2,0,1.3,0,6.31
+Angelo Stiller,"Hoffenheim,",21,", DMC",1(9),235,1,0.3,14,79.3,0.1,0.8,0.1,6.31
+Pavel Kaderábek,"Hoffenheim,",30,", D(R),M(LR)",5(8),596,0,0.5,20.8,70,0.8,0.6,0,6.31
+Pascal Stenzel,"Stuttgart,",26,", D(CR),M(R)",2(7),224,1,0.2,11.2,77.2,0.3,2,0,6.31
+Scott McKenna,"Nottingham Forest,",26,", D(C)",14,1260,0,0.5,41.4,81.2,0.1,2.1,0,6.31
+Kevin Kampl,"RBL,",32,", M(CLR)",9(6),722,0,0.2,34.3,91.2,0.1,1.4,0.1,6.31
+Rasmus Højlund,"Atalanta,",19,", Forward",4(7),433,1,0.6,9.7,76.6,0,0.2,0,6.31
+Luka Milivojevic,"Crystal Palace,",31,", DMC",2(7),274,0,0.1,16.8,83.4,0,0.9,0,6.31
+Borja Mayoral,"Getafe,",25,", FW",14,1116,0,0.4,19.6,74.9,0.1,0.6,0.1,6.31
+Davie Selke,"Hertha Berlin,",27,", FW",3(10),276,1,0.3,5.1,62.1,0,0,0,6.31
+Nélson Semedo,"Wolves,",29,", D(LR),M(R)",8(5),679,1,0.5,19.8,81.8,0.3,0.8,0.1,6.31
+Samuel Moutoussamy,"Nantes,",26,", M(CL)",10(3),832,1,0.5,27.2,85.6,0,1.1,0,6.31
+Théo Bongonda,"Cadiz,",27,", AM(LR)",5(4),447,0,0.2,11,78.8,0.1,0.2,0,6.31
+Enzo Ebosse,"Udinese,",23,", D(C)",7(6),760,0,0.1,31.5,83.4,0.1,2.5,0,6.31
+Papu Gómez,"Sevilla,",34,", M(CLR),FW",6(6),647,1,0.6,28.6,91.3,0.6,2.1,0.2,6.31
+Amadou Haidara,"RBL,",24,", M(CLR)",4(9),465,1,0.3,21.2,83,0,1.1,0.1,6.31
+Shandon Baptiste,"Brentford,",24,", AM(C)",4(8),428,0,0.5,14.8,84.3,0.3,0.7,0.1,6.31
+Bonke Innocent,"Lorient,",26,", DMC",7(6),612,1,0.3,21.8,90.8,0,0.6,0,6.31
+Agustín Álvarez Martínez,"Sassuolo,",21,", Forward",0(10),163,1,0.1,3.9,87.2,0,0.4,0,6.31
+Milan Djuric,"Verona,",32,", FW",2(9),277,0,0.4,9.7,49.5,0,0,0,6.3
+Florian Dietz,"FC Koln,",24,", Forward",4(7),394,0,0.4,6.3,55.1,0,0,0,6.3
+Gumbau,"Elche,",27,", DMC",9(4),834,3,1.1,29.5,84.1,1.1,2.5,0,6.3
+Jordi Osei-Tutu,"Bochum,",24,", D(R),M(LR)",5(8),495,0,0.2,8,75,0.1,0.4,0,6.3
+Alfred Duncan,"Fiorentina,",29,", DMC",2(7),285,0,0.2,17,79.1,0.3,1,0.1,6.3
+Óscar Mingueza,"Celta Vigo,",23,", D(CR)",4(6),475,0,0.3,28.2,84.4,0.3,1.3,0,6.3
+Ronaldo Vieira,"Sampdoria,",24,", DMC",5(6),531,0,0,29.7,91.1,0,1.3,0,6.3
+Sebastian Polter,"Schalke,",31,", AM(R),FW",4(10),458,2,0.4,7.8,56.9,0.1,0.1,0,6.3
+Islam Slimani,"Brest,",34,", FW",10(1),837,1,1,27.7,73.1,0.1,0.8,0.2,6.3
+Sven Michel,"Union Berlin,",32,", AM(L),FW",0(11),220,0,0.1,7.5,62.2,0.1,0.3,0,6.3
+Sebastian Rudy,"Hoffenheim,",32,", D(R),M(CR)",1(9),243,1,0.4,12.7,80.3,0.4,0.8,0,6.29
+Fran Beltrán,"Celta Vigo,",23,", DMC",13(1),1126,1,0.6,54.4,92.4,0.2,2.9,0,6.29
+Iván Alejo,"Cadiz,",27,", AM(R)",8(4),660,1,0.7,10.6,70.1,0.7,0.2,0,6.29
+Tanguy Nianzou,"Sevilla,",20,", D(C)",8(2),643,0,0,35.1,91.2,0,1,0,6.29
+Federico Di Francesco,"Lecce,",28,", M(LR),FW",8(7),654,1,0.6,10.1,70.9,0,0.3,0.1,6.29
+Mitchel Bakker,"Leverkusen,",22,", D(L),M(L)",9(4),765,1,0.5,29.5,76.8,0.2,1.2,0,6.29
+Omar Mascarell,"Elche,",29,", DMC",12,1016,0,0.5,41.2,86.4,0.2,2.6,0,6.29
+Mikkel Damsgaard,"Brentford,",22,", AM(CL)",1(8),261,0,0.4,12,74.1,0.3,0.3,0,6.29
+Marcus Coco,"Nantes,",26,", M(LR),FW",3(6),215,0,0.3,9.1,76.8,0.2,0.4,0,6.29
+Ivan Rakitic,"Sevilla,",34,", M(C)",6(5),524,0,0.9,36.1,82.6,0.4,1.5,0.1,6.28
+Stuart Armstrong,"Southampton,",30,", AM(CLR)",7(7),690,0,0.7,21.6,81.8,0.4,0.9,0.1,6.28
+Jesús Navas,"Sevilla,",37,", D(R),M(R)",6(5),624,0,0.9,33.1,81,0.9,2.9,0,6.28
+Valery Fernández,"Girona,",23,", M(L)",4(5),397,1,1.3,11.7,88.6,0.1,0.4,0,6.28
+Thorgan Hazard,"Borussia Dortmund,",29,", M(CLR),FW",2(12),455,0,0.8,18.6,80,0.4,0.5,0,6.28
+Andreas Bruus,"Troyes,",23,", D(R)",5(4),505,1,1,18.1,73.6,1.7,1.4,0,6.28
+Enzo Millot,"Stuttgart,",20,", Midfielder",3(8),350,0,0.3,12.5,84.1,0.1,0.1,0,6.27
+Julian Jeanvier,"Auxerre,",30,", D(C)",9,728,0,0,35.9,88.5,0,1.9,0,6.27
+Khalil Fayad,"Montpellier,",18,", Midfielder",4(5),326,1,0.3,21.3,82.3,0,0.8,0.1,6.27
+Cyriel Dessers,"Cremonese,",27,", FW",11(2),865,1,1,11.1,63.2,0,0.3,0,6.27
+Ezequiel Ponce,"Elche,",25,", AM(L),FW",4(9),506,0,0.3,8.8,73.7,0,0.3,0.1,6.27
+Clément Grenier,"Mallorca,",31,", M(CL)",4(6),404,0,0.6,16.2,80.2,0.3,0.6,0,6.27
+Djené Dakonam,"Getafe,",30,", D(C)",12,1004,0,0.1,31.7,84.2,0.2,2.4,0,6.27
+Keidi Bare,"Espanyol,",25,", DMC",3(8),328,0,0.2,14.9,84.8,0.1,1,0,6.27
+Yves Bissouma,"Tottenham,",26,", M(C)",6(8),602,0,0.3,29,91.6,0,0.5,0,6.27
+Angelo Fulgini,"Mainz,",26,", AM(CLR),FW",5(9),490,1,0.4,14.5,82.3,0.1,0.2,0,6.27
+Yannik Keitel,"Freiburg,",22,", DMC",4(7),345,1,0.2,12.9,83.1,0,0.9,0,6.27
+Tanguy Ndombélé,"Napoli,",25,", M(C)",6(7),467,0,0.5,25.7,89.5,0,0.1,0,6.26
+Léo Leroy,"Montpellier,",22,", DMC",2(7),251,0,0.2,12.3,71.2,0,0.2,0,6.26
+Gonzalo Escalante,"Cremonese,",29,", DMC",7(2),556,1,0.4,31.8,77.6,0,1.1,0,6.26
+Andrea Petagna,"Monza,",27,", FW",6(4),534,1,0.6,12.6,73.8,0,0.6,0,6.26
+Armando Broja,"Chelsea,",21,", FW",2(10),290,0,0.1,4.4,62.3,0,0,0,6.26
+Brian Ocampo,"Cadiz,",23,", M(L)",7(3),562,0,0.5,14.6,77.4,0.5,0.7,0,6.26
+Emre Can,"Borussia Dortmund,",28,", D(CLR),DMC",3(7),394,0,0,24.1,88.8,0,1.4,0,6.26
+Neal Maupay,"Everton,",26,", AM(C),FW",6(4),554,0,0.5,11.2,82.1,0,0.3,0,6.26
+Gonçalo Paciência,"Celta Vigo,",28,", FW",3(7),328,0,0.3,6.4,56.3,0.1,0.2,0,6.26
+José Mari,"Cadiz,",35,", DMC",2(8),282,0,0.5,13.1,80.9,0,1.8,0,6.26
+Marvin Schwäbe,"FC Koln,",27,", GK",15,1350,0,0,39.5,79.4,0,4.7,0,6.26
+Gauthier Hein,"Auxerre,",26,", AM(R)",8(6),672,0,0.7,20.8,89.3,0.3,2.1,0,6.26
+Iké Ugbo,"Troyes,",24,", FW",5(8),385,1,0.2,3.4,72.7,0,0,0,6.26
+Jim Allevinah,"Clermont Foot,",27,", AM(LR)",5(8),542,0,0.2,12.8,83.2,0.2,0.2,0,6.25
+Dion Lopy,"Reims,",20,", DMC",8(3),608,0,0.5,24,84.1,0,1.5,0,6.25
+Erhan Masovic,"Bochum,",24,", D(C)",7(5),719,0,0.4,28.4,83.6,0,1.8,0,6.25
+Pablo Sarabia,"PSG,",30,", D(L),M(CLR),FW",3(9),314,0,0.8,11.7,83.6,0.5,0,0.1,6.25
+Oliver Burke,"Werder Bremen,",25,", AM(LR),FW",1(13),242,0,0.3,5.1,72.2,0,0,0,6.25
+Christian Pulisic,"Chelsea,",24,", M(CLR),FW",3(10),415,1,0.7,12.1,82.8,0,0.4,0,6.25
+Valerio Verre,"Sampdoria,",28,", AM(CL),FW",3(11),426,0,0.7,19.4,77.1,0.4,1.5,0.1,6.25
+Dyego Sousa,"Almeria,",33,", FW",2(8),302,1,0.5,9.2,69.6,0,0.1,0.1,6.25
+Kieran Tierney,"Arsenal,",25,", D(CL),M(L)",3(9),346,0,0.2,17.2,77.7,0.1,1.1,0,6.25
+Lucas Alario,"Eintracht Frankfurt,",30,", FW",2(8),234,0,0.1,5.5,70.9,0,0.2,0,6.25
+Kingsley Ehizibue,"Udinese,",27,", D(R),M(R)",2(9),339,0,0.1,13.3,75.3,0.3,0.5,0,6.25
+Luca Kilian,"FC Koln,",23,", D(C)",13,1099,0,0.2,51.3,86.2,0,2.3,0,6.24
+Jon Moncayola,"Osasuna,",24,", DMC",9(5),873,0,0.4,30.9,85,0,2.6,0.1,6.24
+Liam Henderson,"Empoli,",26,", AM(C)",7(6),600,1,0.9,18.5,80.1,0.5,0.4,0,6.24
+Matthis Abline,"Rennes,",19,", Forward",0(10),96,0,0.2,1.2,50,0,0.1,0.1,6.24
+Cédric Hountondji,"Angers,",28,", D(C)",15,1338,0,0.1,40.6,87.4,0,1.9,0,6.24
+Nicolò Zaniolo,"Roma,",23,", AM(CR),FW",10(1),772,0,0.7,14.4,69,0.3,0.8,0.1,6.24
+Taiwo Awoniyi,"Nottingham Forest,",25,", FW",6(7),512,0,0.4,7.1,78.3,0,0.1,0,6.24
+Birger Meling,"Rennes,",27,", D(LR),DMC",2(7),276,0,0,18.8,84.6,0.1,0.9,0,6.24
+Cédric Avinel,"AC Ajaccio,",36,", D(C)",8(1),696,0,0,27.8,84.4,0,1.7,0,6.24
+Jens Stage,"Werder Bremen,",26,", M(C)",6(8),560,1,0.4,12.6,62.1,0.1,0.1,0,6.24
+Daniel Caligiuri,"Augsburg,",34,", D(R),M(CLR),FW",2(8),255,0,0.3,9.4,62.8,0.3,0.7,0,6.24
+Ismaël Diallo,"AC Ajaccio,",25,", D(L)",10(2),927,0,0.4,28.9,77.8,0.2,1.9,0.2,6.24
+Achraf Dari,"Brest,",23,", D(C)",8(2),720,0,0.1,41.2,81.6,0,3.8,0,6.24
+Helibelton Palacios,"Elche,",29,", D(R)",8(1),707,0,0.3,25,81.3,0.2,0.6,0,6.24
+Adrien Tameze,"Verona,",28,", M(C)",12(2),1061,0,0.8,24.5,74.9,0.1,1.2,0,6.24
+Kaan Ayhan,"Sassuolo,",28,", D(CR),DMC",5(5),543,0,0,32.9,86.9,0,3.1,0,6.24
+Chris Wood,"Newcastle,",31,", FW",2(12),265,0,0.1,4.9,63.2,0,0.1,0,6.24
+Lilian Egloff,"Stuttgart,",20,", Midfielder",2(7),231,0,0.4,6.8,62.3,0,0.1,0,6.23
+Brennan Johnson,"Nottingham Forest,",21,", AM(CLR),FW",13(2),1189,0,0.5,12.4,61.3,0.1,0.2,0,6.23
+Dimitri Foulquier,"Valencia,",29,", D(CLR),M(R)",2(7),283,1,0.2,12.2,67.3,0.3,0.2,0,6.23
+Erik Botheim,"Salernitana,",22,", Forward",3(11),326,1,0.4,5.8,65.4,0.1,0.1,0,6.23
+Jaidon Anthony,"Bournemouth,",23,", AM(L)",1(9),265,0,0.1,8.6,72.1,0,0.4,0,6.23
+Domagoj Bradaric,"Salernitana,",22,", D(L),M(L)",4(6),501,1,0.5,19.3,84.5,0.5,0.6,0,6.23
+Florent Ogier,"Clermont Foot,",33,", D(C)",7(2),670,1,0.3,41,84.6,0,3,0,6.23
+Michel Aebischer,"Bologna,",25,", AM(CR)",7(6),623,0,0.4,18.9,83.3,0.1,1,0,6.23
+Javi Hernández,"Girona,",24,", Defender",4(6),364,1,0.3,22.6,85.4,0.1,0.9,0,6.23
+Arnaut Danjuma,"Villarreal,",25,", AM(L),FW",6(3),478,0,0.4,9,72.8,0.3,0,0,6.23
+Rayan Raveloson,"Auxerre,",25,", DMC",8(5),726,0,0.3,23,87,0.2,1.4,0,6.23
+Raúl Guti,"Elche,",25,", DMC",8(3),622,0,0,19,85.6,0,0.9,0,6.23
+Anthony Lozano,"Cadiz,",29,", AM(L),FW",8(4),757,0,0.5,11.7,67.9,0.1,0,0,6.22
+Kristoffer Askildsen,"Lecce,",21,", M(C)",6(6),503,0,0.4,12.8,68.8,0.4,1.2,0,6.22
+Moussa Diarra,"Toulouse,",22,", D(C)",5(6),551,0,0.1,19.9,84.9,0.1,0.8,0,6.22
+Tom Cairney,"Fulham,",31,", M(CR)",1(14),330,0,0.5,17.3,89.6,0.3,0.9,0,6.22
+Kingsley Schindler,"FC Koln,",29,", D(R),M(R),FW",3(11),480,0,0.3,13.8,66.3,0.1,0.6,0,6.22
+Radamel Falcao,"Rayo Vallecano,",36,", FW",3(9),398,0,0.1,7.8,73.4,0,0.2,0,6.22
+Rafael Borré,"Eintracht Frankfurt,",27,", FW",4(10),400,1,0.4,9.9,74.8,0.1,0.4,0,6.22
+Vasilios Lampropoulos,"Bochum,",32,", D(C)",5(4),475,0,0,20.4,67.4,0,0.8,0,6.22
+Luca Pfeiffer,"Stuttgart,",26,", FW",4(7),404,0,0.7,10.6,61.5,0.1,0.5,0,6.22
+Sergi Guardiola,"Real Valladolid,",31,", FW",6(5),381,0,0.2,6.7,59.5,0.1,0.2,0,6.22
+Carles Pérez,"Celta Vigo,",24,", AM(CR),FW",7(7),599,2,0.5,11.9,89.8,0,0.3,0,6.22
+Lorenzo De Silvestri,"Bologna,",34,", D(R),M(R)",5(4),517,0,0.4,21.8,68.4,0.1,0.6,0,6.22
+Ibrahima Koné,"Lorient,",23,", FW",2(12),294,0,0.1,5.1,59.2,0,0.1,0,6.22
+M'Baye Niang,"Auxerre,",27,", AM(LR),FW",7(3),561,0,0,12,65,0.1,0.4,0,6.22
+Pietro Pellegri,"Torino,",21,", FW",4(7),370,0,0.4,5,76.4,0,0,0,6.21
+Toma Basic,"Lazio,",26,", M(C)",3(8),274,0,0.5,12.6,81.3,0.2,0.1,0.1,6.21
+Ondrej Duda,"FC Koln,",28,", AM(C),FW",9(4),694,0,0.6,20.3,77.3,0.2,1.1,0,6.21
+Robin Gosens,"Inter,",28,", D(L),M(CL)",1(11),235,0,0.3,8.3,84,0.3,0.3,0,6.21
+Tommaso Augello,"Sampdoria,",28,", D(L)",12(2),1090,2,0.7,36.4,78.2,0.8,2.1,0,6.21
+Yayah Kallon,"Verona,",21,", Forward",3(9),404,0,0.6,7.8,73.1,0.4,0,0,6.21
+Lucas Pérez,"Cadiz,",34,", AM(CR),FW",5(8),589,0,0.2,13.9,83.4,0.6,0.5,0,6.2
+Benjamin Lecomte,"Espanyol,",31,", GK",10,900,0,0.1,24.7,63.2,0,8.1,0,6.2
+Jean-Philippe Mateta,"Crystal Palace,",25,", FW",2(9),276,0,0.4,5.5,67.2,0,0,0,6.2
+Hugo Duro,"Valencia,",23,", AM(L),FW",4(6),390,0,0.4,9.9,74.7,0.1,0.1,0,6.2
+Mattia Destro,"Empoli,",31,", FW",6(4),459,0,0.4,5.8,55.2,0.1,0.1,0,6.2
+Rodrigo Battaglia,"Mallorca,",31,", M(C)",7(4),594,0,0,17.5,83.3,0,0.5,0,6.2
+Antonio Sánchez,"Mallorca,",25,", AM(CR)",7(7),579,0,0.1,13.6,81.7,0.2,1,0,6.2
+Rubén Alcaraz,"Cadiz,",31,", DMC",5(5),513,0,0.6,23.1,79.2,0.6,2.2,0.1,6.2
+Abdou Harroui,"Sassuolo,",24,", DMC,M(R)",2(10),283,0,0.1,10.4,82.4,0.1,0.2,0,6.2
+Eddie Nketiah,"Arsenal,",23,", FW",0(12),142,0,0.3,4.2,84,0,0.1,0,6.2
+Kelechi Iheanacho,"Leicester,",26,", AM(C),FW",1(9),211,1,0.8,7,81.4,0,0.1,0,6.19
+Christian Gytkjær,"Monza,",32,", FW",2(9),331,0,0.2,5.1,67.9,0,0.1,0,6.19
+Ryan Gravenberch,"Bayern,",20,", DMC",0(10),175,0,0.2,9.9,85.9,0,0.2,0,6.19
+Giacomo Quagliata,"Cremonese,",22,", D(L)",3(9),407,0,0.4,9.8,72,0.6,0.2,0,6.19
+Kevin Lasagna,"Verona,",30,", AM(CL),FW",9(4),844,2,0.5,8.9,57.8,0.1,0.1,0,6.19
+Jesse Lingard,"Nottingham Forest,",29,", AM(CLR),FW",10(3),814,0,0.8,17.7,80,0.1,0.5,0,6.19
+Arne Maier,"Augsburg,",23,", M(C)",6(5),530,0,0.6,18,75.8,0.6,0.6,0,6.19
+Dimitrios Nikolaou,"Spezia,",24,", D(C)",13(1),1149,0,0.3,45.6,81.5,0.1,2.7,0,6.19
+Jacob Bruun Larsen,"Hoffenheim,",24,", AM(CL),FW",3(8),290,0,0.5,6.5,75,0.2,0,0,6.19
+Shon Weissman,"Real Valladolid,",26,", FW",5(6),559,0,0.3,5.6,77.4,0.1,0,0,6.19
+Aleix Vidal,"Espanyol,",33,", D(R),M(LR)",4(5),448,0,0.4,13.1,77.1,0.1,0.3,0,6.19
+Silvère Ganvoula,"Bochum,",26,", FW",0(9),146,0,0.4,5.3,58.3,0,0,0,6.19
+Ibrahima Diallo,"Southampton,",23,", DMC",6(3),452,0,0.1,21.2,80.1,0,0.6,0,6.19
+Daniel Ciofani,"Cremonese,",37,", FW",2(10),238,0,0.2,4.4,54.7,0,0.2,0.1,6.18
+Nicolás Melamed,"Espanyol,",21,", AM(L)",3(6),176,0,0.2,6.8,83.6,0,0.2,0,6.18
+Jordan Larsson,"Schalke,",25,", AM(CR),FW",3(6),336,0,0.3,8.7,74.4,0,0.3,0,6.17
+Tete Morente,"Elche,",26,", AM(CLR)",8(3),719,0,0.4,19,84.7,0.3,0.9,0,6.17
+Igor Julio,"Fiorentina,",24,", D(C),M(L)",8(2),724,0,0.1,52.4,90.6,0,4.3,0,6.17
+Emmanuel Dennis,"Nottingham Forest,",25,", M(LR),FW",3(6),342,1,0.4,9.3,73.8,0.1,0.4,0,6.16
+Ismail Jakobs,"Monaco,",23,", D(L),M(L)",3(9),334,0,0.1,14.8,76.3,0.3,0.2,0,6.16
+Sada Thioub,"Angers,",27,", M(LR)",4(10),418,1,0.5,13.8,82.9,0.1,0.2,0.1,6.16
+Tariq Lamptey,"Brighton,",22,", D(R),M(R)",0(11),181,0,0.2,7.5,81.7,0.3,0.1,0,6.16
+Emmanuel Gyasi,"Spezia,",28,", M(LR),FW",13,1045,0,0.6,17.5,81.1,0.1,0.1,0,6.16
+Youssouf M'Changama,"Auxerre,",32,", M(C)",3(8),294,0,0.5,14.1,87.1,0.5,1.1,0.1,6.16
+Mohamed Bayo,"Lille,",24,", FW",2(7),211,0,0.6,4.9,56.8,0,0.1,0,6.16
+Youssef En-Nesyri,"Sevilla,",25,", FW",2(8),354,0,0.1,5.3,56.6,0,0.1,0,6.16
+Rémy Dugimont,"Auxerre,",36,", Forward",0(10),101,1,0.3,5.9,67.8,0,0.2,0,6.16
+Francesco Caputo,"Sampdoria,",35,", FW",13(2),1100,0,0.6,15.4,71.9,0,0.3,0,6.16
+Matteo Cancellieri,"Lazio,",20,", Forward",1(12),184,0,0.2,5,76.9,0.1,0,0,6.15
+Salvi Sánchez,"Rayo Vallecano,",31,", AM(R)",3(7),259,0,0.2,7.6,60.5,0.2,0.3,0.1,6.15
+Hwang Hee-Chan,"Wolves,",26,", AM(CLR),FW",3(8),322,1,0.2,6,72.7,0.1,0.1,0,6.15
+Abdallah Sima,"Angers,",21,", AM(R),FW",6(6),554,0,0.5,9.1,74.3,0.1,0,0,6.15
+Joe Gelhardt,"Leeds,",20,", FW",1(10),162,1,0.1,4.6,76.5,0,0,0.1,6.15
+Fede San Emeterio,"Cadiz,",25,", DMC",11(2),797,0,0.1,22.7,81.4,0,1.6,0,6.15
+Jaime Seoane,"Getafe,",25,", M(C)",2(7),274,0,0.4,7.9,81.7,0,0.6,0.1,6.14
+Billal Brahimi,"Nice,",22,", Forward",3(7),323,2,0.5,12.9,85.3,0.5,0.3,0,6.14
+Mateusz Klich,"Leeds,",32,", M(C)",0(11),188,0,0.5,9.8,75,0.1,0.2,0,6.14
+Andrea Belotti,"Roma,",28,", FW",2(10),360,0,0.5,6.6,69.6,0,0.2,0,6.14
+Raoul Bellanova,"Inter,",22,", M(R)",0(9),107,0,0,6.6,89.8,0,0.1,0,6.13
+Kristijan Bistrovic,"Lecce,",24,", DMC",5(5),436,0,0.5,10.2,80.4,0.9,0.4,0,6.13
+Manolo Gabbiadini,"Sampdoria,",31,", AM(CLR),FW",5(8),573,1,0.4,12.9,67.9,0,0.3,0,6.13
+Domingos Quina,"Elche,",23,", M(CL)",2(7),262,0,0.3,14.4,84.6,0.3,0.7,0.1,6.12
+Kenan Karaman,"Schalke,",28,", AM(CLR),FW",4(5),358,0,0.2,8.1,68.5,0,0.1,0,6.12
+Josan,"Elche,",33,", D(R),M(R)",3(9),389,0,0.3,9.5,81.6,0,0.4,0,6.12
+Willian José,"Real Betis,",31,", FW",2(8),264,0,0.3,11.7,82.9,0,0.3,0,6.12
+Sébastien Corchia,"Nantes,",32,", D(R),M(R)",2(11),362,0,0.2,9.2,75.8,0.4,0.3,0,6.12
+Florent Mollet,"Schalke,",31,", AM(CLR)",4(5),408,0,0.4,15.7,78,0.2,0.3,0,6.11
+Patrick Bamford,"Leeds,",29,", AM(CLR),FW",4(6),429,1,0.4,7.9,74.7,0,0,0,6.11
+Kevin Spadanuda,"AC Ajaccio,",25,", M(L)",6(4),464,0,0.3,10.7,80.4,0,0.2,0,6.11
+Batista Mendy,"Angers,",22,", D(C),DMC",13,1039,0,0.3,37.9,84.4,0.1,1.5,0,6.11
+Nils Petersen,"Freiburg,",34,", FW",0(12),151,0,0.1,2.8,52.9,0,0.1,0,6.11
+Patrick Osterhage,"Bochum,",22,", M(C)",3(7),337,0,0.3,11.8,66.9,0.1,0.2,0,6.1
+Danny Latza,"Schalke,",33,", M(C)",1(8),178,0,0,9.2,75.9,0.1,0.1,0,6.1
+Enzo Roco,"Elche,",30,", D(C)",10(1),798,0,0,37,85.5,0,3.1,0.1,6.09
+Albin Ekdal,"Spezia,",33,", M(C)",5(6),493,1,0.3,17.8,71.4,0,0.3,0,6.08
+Ado Onaiwu,"Toulouse,",27,", Forward",0(12),279,1,0.3,8.4,78.2,0,0,0,6.08
+Francisco Portillo,"Almeria,",32,", M(CLR)",1(9),196,0,0.1,13.2,81.8,0.1,0.5,0.2,6.08
+Gonzalo Villar,"Sampdoria,",24,", DMC",8(6),659,0,0,25.9,84.3,0.1,0.9,0,6.08
+Delano Burgzorg,"Mainz,",24,", AM(L)",0(10),204,1,0.1,3.8,78.9,0,0.1,0,6.07
+Fabio Quagliarella,"Sampdoria,",39,", FW",2(10),324,0,0.2,7.5,70,0.1,0.5,0,6.06
+Portu,"Getafe,",30,", M(CLR),FW",3(8),378,0,0.4,9.2,79.2,0.5,0.3,0,6.05
+Carlos Vinícius,"Fulham,",27,", FW",3(6),325,0,0.3,6.4,58.6,0,0,0.1,6.05
+Karamoko Dembele,"Brest,",19,", Forward",0(9),92,0,0.3,4.8,67.4,0.3,0.1,0,6.04
+Abdón Prats,"Mallorca,",30,", FW",1(9),130,0,0.1,3.4,76.5,0,0.2,0,6.04
+Oier Zarraga,"Athletic Bilbao,",23,", M(CR)",1(8),219,0,0.2,10.4,87.2,0.1,0,0,6.04
+Irvin Cardona,"Brest,",25,", AM(L),FW",1(9),225,0,0.3,5.6,58.9,0,0.1,0,6.04
+Kévin Keben,"Toulouse,",18,", Midfielder",3(7),298,0,0.2,8.9,80.9,0,0.4,0,6.04
+Patrick Herrmann,"Borussia M.Gladbach,",31,", M(LR),FW",0(13),107,0,0.2,3.8,70,0.2,0.1,0,6.01
+Mikael Ellertsson,"Spezia,",20,", Midfielder",1(10),164,0,0.1,3.4,64.9,0,0,0,5.98
